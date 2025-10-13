@@ -1,0 +1,4963 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-04-23'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Karachi
+  dates:
+  - '2024-04-23'
+  gender: female
+  match_type: ODI
+  match_type_number: 1383
+  outcome:
+    winner: West Indies
+    by:
+      runs: 88
+  overs: 50
+  player_of_match:
+  - HK Matthews
+  players:
+    West Indies:
+    - HK Matthews
+    - RS Williams
+    - SA Campbelle
+    - SR Taylor
+    - CA Henry
+    - CN Nation
+    - AA Alleyne
+    - ASS Fletcher
+    - Z James
+    - K Ramharack
+    - SS Connell
+    Pakistan:
+    - Sadaf Shamas
+    - Sidra Ameen
+    - Muneeba Ali
+    - Bismah Maroof
+    - Nida Dar
+    - Aliya Riaz
+    - Fatima Sana
+    - Najiha Alvi
+    - Tuba Hassan
+    - Umm-e-Hani
+    - Nashra Sandhu
+  registry:
+    people:
+      AA Alleyne: 4b0e3049
+      ASS Fletcher: 42d9dd09
+      Abdul Muqeet: 37cb317b
+      Ali Naqvi: 3c89fc88
+      Aliya Riaz: 2904b4b6
+      Bismah Maroof: 3b770527
+      CA Henry: '75820733'
+      CA Polosak: 26a360d2
+      CN Nation: 639000b6
+      Fatima Sana: ea9c54de
+      HK Matthews: d32cf49a
+      Imran Javed: 9a1405c8
+      K Ramharack: 321c980e
+      Muneeba Ali: 86fdf668
+      Najiha Alvi: faef39c1
+      Nashra Sandhu: c981d3c2
+      Nida Dar: ed840f44
+      RS Williams: 406de451
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      SS Connell: 2f9a6bd1
+      Sadaf Shamas: f19c8dc0
+      Saleema Imtiaz: d17d21d5
+      Sidra Ameen: 72c9ad99
+      Tuba Hassan: 0d56e9a5
+      Umm-e-Hani: 6ee11109
+      Z James: 816af623
+  teams:
+  - West Indies
+  - Pakistan
+  toss:
+    winner: West Indies
+    decision: bat
+  umpires:
+  - CA Polosak
+  - Imran Javed
+  venue: National Stadium, Karachi
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 0.5:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.1:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 1.3:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 2.2:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 2.5:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Williams
+    - 3.1:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 3.3:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 3.4:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 4.2:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.5:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 4.6:
+        non_striker: RS Williams
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.1:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 5.2:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.3:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 5.4:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.5:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 5.6:
+        non_striker: RS Williams
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.1:
+        non_striker: RS Williams
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 6.2:
+        non_striker: RS Williams
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 6.3:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 6.4:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+        wicket:
+          player_out: RS Williams
+          kind: caught and bowled
+    - 6.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 7.1:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.2:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.3:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 7.4:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 7.5:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 7.6:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.1:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 8.2:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.3:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 8.4:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 8.5:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 8.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.1:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.2:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 9.3:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 9.4:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 9.5:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 9.6:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.1:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 10.2:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 10.3:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 10.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 10.6:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 10.7:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 11.1:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.2:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 11.3:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.4:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 11.5:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 11.6:
+        non_striker: SA Campbelle
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 12.1:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 12.2:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 12.3:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 12.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 12.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 12.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 13.1:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 13.2:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 13.3:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 13.4:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 13.5:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 13.6:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.1:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 14.2:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.3:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 15.1:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 15.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.3:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 15.4:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.5:
+        non_striker: SA Campbelle
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 15.6:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 16.1:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 16.2:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 16.3:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.1:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.2:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 17.3:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.4:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 17.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 17.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 18.1:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 18.2:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 18.3:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 18.4:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 18.5:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 18.6:
+        non_striker: SA Campbelle
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 19.1:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 19.2:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 19.3:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 19.4:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 19.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.6:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 20.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 20.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 20.3:
+        non_striker: SA Campbelle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 20.4:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 20.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 20.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 21.1:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 21.2:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 21.3:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 21.4:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 21.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 21.6:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 22.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 22.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 22.3:
+        non_striker: SA Campbelle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 22.4:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 22.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 22.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 23.1:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 23.2:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 23.3:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 23.4:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 23.5:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 23.6:
+        non_striker: SA Campbelle
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 24.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 24.2:
+        non_striker: SA Campbelle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 24.3:
+        non_striker: SA Campbelle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 24.4:
+        non_striker: SA Campbelle
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 24.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 24.6:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          kind: lbw
+    - 25.1:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 25.2:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 25.3:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 25.4:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 25.5:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 25.6:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 26.1:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 26.2:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 26.3:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 26.4:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 26.5:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 26.6:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 27.1:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 27.2:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 27.3:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 27.4:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 27.5:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 27.6:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 28.1:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 28.2:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 28.3:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 28.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 28.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 28.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 29.1:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 29.2:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 29.3:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 29.4:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Taylor
+    - 29.5:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 29.6:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 29.7:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 30.1:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 30.2:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 30.3:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 30.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 30.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 30.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 31.1:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 31.2:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 31.3:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: SR Taylor
+    - 31.4:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 31.5:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 31.6:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 32.1:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 32.2:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 32.3:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 32.4:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 32.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 32.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 33.1:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 33.2:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 33.3:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 33.4:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 33.5:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Taylor
+    - 33.6:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 33.7:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 34.1:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 34.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 34.3:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 34.4:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 34.5:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 34.6:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 35.1:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 35.2:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 35.3:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 35.4:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 35.5:
+        non_striker: SR Taylor
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 35.6:
+        non_striker: HK Matthews
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 36.1:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 36.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: SR Taylor
+    - 36.3:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 36.4:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 36.5:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Taylor
+    - 36.6:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 36.7:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 37.1:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 37.2:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 37.3:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 37.4:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 37.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 37.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 38.1:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 38.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 38.3:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 38.4:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 38.5:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 38.6:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 39.1:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 39.2:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 39.3:
+        non_striker: HK Matthews
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 39.4:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 39.5:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 39.6:
+        non_striker: SR Taylor
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 40.1:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 40.2:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 40.3:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 40.4:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 40.5:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Taylor
+    - 40.6:
+        non_striker: SR Taylor
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 41.1:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 41.2:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 41.3:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 41.4:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 41.5:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 41.6:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 42.1:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 42.2:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 42.3:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 42.4:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 42.5:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 42.6:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 43.1:
+        non_striker: HK Matthews
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 43.2:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 43.3:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 43.4:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 43.5:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 43.6:
+        non_striker: SR Taylor
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 44.1:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 44.2:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 44.3:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 44.4:
+        non_striker: SR Taylor
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 44.5:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 44.6:
+        non_striker: HK Matthews
+        bowler: Tuba Hassan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 45.1:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 45.2:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 45.3:
+        non_striker: SR Taylor
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 45.4:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 45.5:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 45.6:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+        wicket:
+          player_out: CA Henry
+          fielders:
+          - Sidra Ameen
+          kind: caught
+    - 45.7:
+        non_striker: HK Matthews
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 46.1:
+        non_striker: HK Matthews
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 46.2:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HK Matthews
+    - 46.3:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 46.4:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 46.5:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HK Matthews
+    - 46.6:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          fielders:
+          - Sidra Ameen
+          kind: caught
+    - 46.7:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 47.1:
+        non_striker: CN Nation
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 47.2:
+        non_striker: CN Nation
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 47.3:
+        non_striker: AA Alleyne
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation
+    - 47.4:
+        non_striker: AA Alleyne
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 47.5:
+        non_striker: CN Nation
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 47.6:
+        non_striker: AA Alleyne
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation
+    - 48.1:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 48.2:
+        non_striker: AA Alleyne
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 48.3:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 48.4:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 48.5:
+        non_striker: AA Alleyne
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 48.6:
+        non_striker: CN Nation
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 49.1:
+        non_striker: AA Alleyne
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+        wicket:
+          player_out: CN Nation
+          kind: bowled
+    - 49.2:
+        non_striker: AA Alleyne
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 49.3:
+        non_striker: ASS Fletcher
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 49.4:
+        non_striker: ASS Fletcher
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 49.5:
+        non_striker: ASS Fletcher
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Alleyne
+    - 49.6:
+        non_striker: ASS Fletcher
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 0.2:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 0.3:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 0.4:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sadaf Shamas
+    - 0.5:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.1:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.4:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.5:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 1.6:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 2.2:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sadaf Shamas
+    - 2.3:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 2.6:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 3.1:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 3.5:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.6:
+        non_striker: Sadaf Shamas
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.1:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 4.2:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.5:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 4.6:
+        non_striker: Sadaf Shamas
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+        wicket:
+          player_out: Sadaf Shamas
+          kind: bowled
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.6:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 5.7:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.4:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.5:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          kind: bowled
+    - 6.6:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Bismah Maroof
+    - 6.7:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 7.1:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.2:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.3:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.4:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.5:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 7.6:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.1:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.2:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muneeba Ali
+    - 8.3:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.4:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 8.5:
+        non_striker: Muneeba Ali
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 8.6:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.1:
+        non_striker: Bismah Maroof
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Bismah Maroof
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Bismah Maroof
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.4:
+        non_striker: Bismah Maroof
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.5:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 9.6:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 10.1:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.4:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.5:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 10.6:
+        non_striker: Bismah Maroof
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 11.1:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.2:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.3:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 11.4:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 11.5:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 11.6:
+        non_striker: Muneeba Ali
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 12.1:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.5:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 12.6:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 13.1:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.4:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.5:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.6:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 14.1:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.2:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 14.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 14.4:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 14.5:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.6:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.1:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.3:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.4:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 15.5:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.6:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.1:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.2:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Bismah Maroof
+    - 16.4:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 16.5:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 16.6:
+        non_striker: Bismah Maroof
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.1:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 17.2:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.3:
+        non_striker: Bismah Maroof
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 17.4:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.5:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+    - 17.6:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Bismah Maroof
+    - 18.1:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Bismah Maroof
+    - 18.2:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Bismah Maroof
+        wicket:
+          player_out: Bismah Maroof
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 18.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 18.4:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 18.5:
+        non_striker: Nida Dar
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 18.6:
+        non_striker: Nida Dar
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 19.1:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.2:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.3:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.4:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 19.5:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.6:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.1:
+        non_striker: Nida Dar
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 20.2:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.4:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 20.5:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.6:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.1:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 21.2:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.3:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.4:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.5:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.6:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 22.1:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 22.2:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 22.3:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 22.4:
+        non_striker: Nida Dar
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 22.5:
+        non_striker: Muneeba Ali
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 22.6:
+        non_striker: Nida Dar
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.1:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.2:
+        non_striker: Nida Dar
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.3:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          fielders:
+          - AA Alleyne
+          kind: caught
+    - 23.4:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 23.5:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 23.6:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.1:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 24.2:
+        non_striker: Muneeba Ali
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.3:
+        non_striker: Muneeba Ali
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 24.4:
+        non_striker: Muneeba Ali
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 24.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 25.1:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.2:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aliya Riaz
+    - 25.3:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.4:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.5:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.6:
+        non_striker: Muneeba Ali
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.1:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.2:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.3:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.4:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 27.1:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 27.2:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          kind: bowled
+    - 27.3:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.4:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 27.5:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 27.6:
+        non_striker: Aliya Riaz
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 28.1:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.2:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 28.3:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 28.4:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 28.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.1:
+        non_striker: Fatima Sana
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.2:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.3:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.4:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 29.5:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 29.6:
+        non_striker: Fatima Sana
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.1:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.2:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.3:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.4:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 30.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 30.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fatima Sana
+    - 30.7:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 31.1:
+        non_striker: Fatima Sana
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.2:
+        non_striker: Fatima Sana
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.3:
+        non_striker: Fatima Sana
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 31.4:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 31.5:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 31.6:
+        non_striker: Aliya Riaz
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 32.1:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.2:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.3:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 32.4:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 32.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 33.1:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 33.2:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 33.3:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 33.4:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fatima Sana
+    - 33.5:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 33.6:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 34.1:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.2:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.3:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.4:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Fatima Sana
+    - 35.1:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 35.2:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 35.3:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 35.4:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 35.5:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 35.6:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 36.1:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.2:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 36.3:
+        non_striker: Fatima Sana
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 36.4:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 36.5:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 36.6:
+        non_striker: Aliya Riaz
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 37.1:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.2:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 37.3:
+        non_striker: Fatima Sana
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.4:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 37.5:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - CA Henry
+          kind: caught
+    - 37.6:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.1:
+        non_striker: Najiha Alvi
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 38.2:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.3:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.4:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 38.5:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.6:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 39.1:
+        non_striker: Najiha Alvi
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 39.2:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 39.3:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 39.4:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 39.5:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 39.6:
+        non_striker: Najiha Alvi
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 40.1:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 40.2:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 40.3:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+        wicket:
+          player_out: Najiha Alvi
+          kind: bowled
+    - 40.4:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 40.5:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 40.6:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 41.1:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 41.2:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 41.3:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 41.4:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 41.5:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 41.6:
+        non_striker: Aliya Riaz
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 42.1:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 42.2:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 42.3:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 42.4:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 42.5:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 42.6:
+        non_striker: Aliya Riaz
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 43.1:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 43.2:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          fielders:
+          - RS Williams
+          kind: stumped
+    - 43.3:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 43.4:
+        non_striker: Umm-e-Hani
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 43.5:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 43.6:
+        non_striker: Tuba Hassan
+        bowler: SR Taylor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 44.1:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 44.2:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Tuba Hassan
+    - 44.3:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 44.4:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 44.5:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 44.6:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 45.1:
+        non_striker: Tuba Hassan
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 45.2:
+        non_striker: Tuba Hassan
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 45.3:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 45.4:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 45.5:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 45.6:
+        non_striker: Tuba Hassan
+        bowler: AA Alleyne
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Umm-e-Hani
+    - 45.7:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 46.1:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 46.2:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 46.3:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 46.4:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Tuba Hassan
+    - 46.5:
+        non_striker: Tuba Hassan
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 46.6:
+        non_striker: Umm-e-Hani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+    - 47.1:
+        non_striker: Tuba Hassan
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 47.2:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Tuba Hassan
+    - 47.3:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Tuba Hassan
+        wicket:
+          player_out: Tuba Hassan
+          fielders:
+          - SA Campbelle
+          kind: caught
+    - 47.4:
+        non_striker: Umm-e-Hani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 47.5:
+        non_striker: Nashra Sandhu
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+        wicket:
+          player_out: Umm-e-Hani
+          kind: bowled

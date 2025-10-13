@@ -1,0 +1,4164 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-04-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dubai
+  dates:
+  - '2024-04-11'
+  gender: female
+  match_type: ODI
+  match_type_number: 1376
+  outcome:
+    winner: Papua New Guinea
+    by:
+      wickets: 6
+  overs: 50
+  player_of_match:
+  - I Toua
+  players:
+    United States of America:
+    - GC Bhogle
+    - D Dhingra
+    - A Kolan
+    - S Sriharsha
+    - IM Vaghela
+    - RP Singh
+    - JM Willathgamuwa
+    - G Kodali
+    - AI Chudasama
+    - SR Thadani
+    - S Immadi
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - T Ruma
+    - S Jimmy
+    - P Siaka
+    - K Frank
+    - V Buruka
+    - I Toua
+    - HJ Thomas
+    - GP Tom
+    - V Araa
+  registry:
+    people:
+      A Kolan: 85f5735b
+      AI Chudasama: 9414a81c
+      Aasif Iqbal: 42c41e1a
+      Akbar Ali: e753931d
+      B Tau: 3a6cbb8e
+      D Dhingra: b0dc5d0d
+      G Kodali: f606177e
+      GC Bhogle: a1965ce2
+      GP Tom: 88bcd09d
+      HJ Thomas: a3034d3d
+      I Toua: 83cde44d
+      IM Vaghela: 8d62fc14
+      Iftikhar Ali: fc537391
+      JM Willathgamuwa: 0a10b268
+      K Frank: f7e96532
+      N Vare: 20ace887
+      P Siaka: 595433d2
+      RP Singh: 0ab3c788
+      S Immadi: a6dd06d6
+      S Jimmy: 2daa8e40
+      S Sriharsha: 89f6c26f
+      SR Thadani: 76bda023
+      T Ruma: 3697a0ff
+      V Araa: 040f11e8
+      V Buruka: 62d92d76
+  teams:
+  - United States of America
+  - Papua New Guinea
+  toss:
+    winner: United States of America
+    decision: bat
+  umpires:
+  - Aasif Iqbal
+  - Akbar Ali
+  venue: ICC Academy, Dubai
+innings:
+- 1st innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Dhingra
+        batsman: GC Bhogle
+    - 0.2:
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Dhingra
+        batsman: GC Bhogle
+    - 0.3:
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: D Dhingra
+        batsman: GC Bhogle
+    - 0.4:
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: D Dhingra
+        batsman: GC Bhogle
+    - 0.5:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 0.6:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.1:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.2:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.3:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: GC Bhogle
+    - 1.4:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.5:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.6:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.1:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.2:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 2.3:
+        non_striker: D Dhingra
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.4:
+        non_striker: D Dhingra
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.5:
+        non_striker: D Dhingra
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 2.6:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.1:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 3.2:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.3:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.4:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 3.5:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 3.6:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 4.1:
+        non_striker: D Dhingra
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 4.2:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.3:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.4:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.5:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.6:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 5.1:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.2:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.3:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.4:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.5:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.6:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.1:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 6.2:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 6.3:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 6.4:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 6.5:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 6.6:
+        non_striker: GC Bhogle
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 7.1:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 7.2:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 7.3:
+        non_striker: GC Bhogle
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 7.4:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.5:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.6:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 8.1:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Bhogle
+    - 8.2:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 8.3:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+        wicket:
+          player_out: GC Bhogle
+          fielders:
+          - I Toua
+          kind: caught
+    - 8.4:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 8.5:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 8.6:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 9.1:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.2:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.3:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 9.4:
+        non_striker: D Dhingra
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 9.5:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.6:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 10.1:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 10.2:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 10.3:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 10.4:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 10.5:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 10.6:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 11.1:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.2:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.3:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 11.4:
+        non_striker: D Dhingra
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 11.5:
+        non_striker: D Dhingra
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 11.6:
+        non_striker: D Dhingra
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 12.1:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 12.2:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 12.3:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 12.4:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 12.5:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 12.6:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 13.1:
+        non_striker: D Dhingra
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 13.2:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 13.3:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 13.4:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 13.5:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 13.6:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 14.1:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 14.2:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 14.3:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 14.4:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 14.5:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 14.6:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 15.1:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 15.2:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 15.3:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 15.4:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 15.5:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 15.6:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 16.1:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 16.2:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Kolan
+    - 16.3:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 16.4:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 16.5:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 16.6:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 17.1:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 17.2:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 17.3:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 17.4:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 17.5:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 17.6:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 18.1:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 18.2:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 18.3:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 18.4:
+        non_striker: D Dhingra
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 18.5:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 18.6:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 19.1:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 19.2:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 19.3:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 19.4:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 19.5:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 19.6:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 20.1:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 20.2:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 20.3:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 20.4:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 20.5:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 20.6:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 21.1:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 21.2:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 21.3:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 21.4:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 21.5:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 21.6:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 22.1:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 22.2:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 22.3:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 22.4:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 22.5:
+        non_striker: D Dhingra
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 22.6:
+        non_striker: A Kolan
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 23.1:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 23.2:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 23.3:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 23.4:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 23.5:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dhingra
+    - 23.6:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 23.7:
+        non_striker: D Dhingra
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 24.1:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 24.2:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 24.3:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 24.4:
+        non_striker: D Dhingra
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+        wicket:
+          player_out: D Dhingra
+          fielders:
+          - B Tau
+          - V Buruka
+          kind: run out
+    - 24.5:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 24.6:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 25.1:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.2:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.3:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.4:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 25.5:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 25.6:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 26.1:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 26.2:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 26.3:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 26.4:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 26.5:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 26.6:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 27.1:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 27.2:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 27.3:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 27.4:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 27.5:
+        non_striker: S Sriharsha
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 27.6:
+        non_striker: A Kolan
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 28.1:
+        non_striker: A Kolan
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 28.2:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 28.3:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 28.4:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 28.5:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 28.6:
+        non_striker: S Sriharsha
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 29.1:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 29.2:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 29.3:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 29.4:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sriharsha
+    - 29.5:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 29.6:
+        non_striker: A Kolan
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 30.1:
+        non_striker: A Kolan
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 30.2:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+        wicket:
+          player_out: A Kolan
+          fielders:
+          - S Jimmy
+          kind: caught
+    - 30.3:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 30.4:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 30.5:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 30.6:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IM Vaghela
+    - 31.1:
+        non_striker: IM Vaghela
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 31.2:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 31.3:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+        wicket:
+          player_out: IM Vaghela
+          kind: bowled
+    - 31.4:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 31.5:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 31.6:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 32.1:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 32.2:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 32.3:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 32.4:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 32.5:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 32.6:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 33.1:
+        non_striker: RP Singh
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 33.2:
+        non_striker: RP Singh
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 33.3:
+        non_striker: RP Singh
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 33.4:
+        non_striker: RP Singh
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 33.5:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 33.6:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 34.1:
+        non_striker: RP Singh
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sriharsha
+    - 34.2:
+        non_striker: RP Singh
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 34.3:
+        non_striker: RP Singh
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 34.4:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 34.5:
+        non_striker: RP Singh
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 34.6:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 35.1:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 35.2:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 35.3:
+        non_striker: RP Singh
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 35.4:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+    - 35.5:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Singh
+    - 35.6:
+        non_striker: S Sriharsha
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Singh
+    - 36.1:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Singh
+        wicket:
+          player_out: RP Singh
+          fielders:
+          - B Tau
+          kind: stumped
+    - 36.2:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Willathgamuwa
+    - 36.3:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Willathgamuwa
+    - 36.4:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Willathgamuwa
+    - 36.5:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Willathgamuwa
+        wicket:
+          player_out: JM Willathgamuwa
+          kind: bowled
+    - 36.6:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 37.1:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 37.2:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 37.3:
+        non_striker: S Sriharsha
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 37.4:
+        non_striker: S Sriharsha
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 37.5:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 37.6:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 38.1:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 38.2:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 38.3:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 38.4:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 38.5:
+        non_striker: S Sriharsha
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 38.6:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 39.1:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 39.2:
+        non_striker: S Sriharsha
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 39.3:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+        wicket:
+          player_out: S Sriharsha
+          fielders:
+          - B Tau
+          kind: caught
+    - 39.4:
+        non_striker: G Kodali
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AI Chudasama
+    - 39.5:
+        non_striker: AI Chudasama
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 39.6:
+        non_striker: AI Chudasama
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 40.1:
+        non_striker: AI Chudasama
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 40.2:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 40.3:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+    - 40.4:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+        wicket:
+          player_out: AI Chudasama
+          fielders:
+          - T Ruma
+          kind: caught
+    - 40.5:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 40.6:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thadani
+    - 41.1:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 41.2:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 41.3:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Thadani
+    - 41.4:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 41.5:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Thadani
+    - 41.6:
+        non_striker: G Kodali
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Thadani
+    - 41.7:
+        non_striker: SR Thadani
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 42.1:
+        non_striker: SR Thadani
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 42.2:
+        non_striker: SR Thadani
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 42.3:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Thadani
+    - 42.4:
+        non_striker: SR Thadani
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 42.5:
+        non_striker: SR Thadani
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: G Kodali
+    - 42.6:
+        non_striker: SR Thadani
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 42.7:
+        non_striker: G Kodali
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 43.1:
+        non_striker: SR Thadani
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 43.2:
+        non_striker: SR Thadani
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Kodali
+    - 43.3:
+        non_striker: SR Thadani
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Kodali
+    - 43.4:
+        non_striker: G Kodali
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 43.5:
+        non_striker: G Kodali
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+    - 43.6:
+        non_striker: G Kodali
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Thadani
+        wicket:
+          player_out: SR Thadani
+          fielders:
+          - B Tau
+          kind: stumped
+    - 44.1:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Immadi
+        batsman: G Kodali
+    - 44.2:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Immadi
+        batsman: G Kodali
+        wicket:
+          player_out: G Kodali
+          fielders:
+          - B Tau
+          kind: caught
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.3:
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.4:
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.5:
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.6:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.1:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.2:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.3:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.4:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 1.5:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.6:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.1:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 2.2:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.3:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.4:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.5:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 2.6:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.1:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.2:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.3:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.4:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.5:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.6:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.1:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 4.2:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 4.3:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 4.4:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 4.5:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 4.6:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 4.7:
+        non_striker: B Tau
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 4.8:
+        non_striker: N Vare
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Tau
+    - 5.1:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 5.2:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 5.3:
+        non_striker: N Vare
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 5.4:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.5:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          kind: bowled
+    - 5.6:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.1:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 6.2:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Tau
+    - 6.3:
+        non_striker: B Tau
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.4:
+        non_striker: B Tau
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.5:
+        non_striker: B Tau
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 6.6:
+        non_striker: B Tau
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 6.7:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 7.1:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.2:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 7.3:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.4:
+        non_striker: B Tau
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 7.5:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.6:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.1:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.5:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.6:
+        non_striker: B Tau
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.1:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 9.2:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 9.3:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.4:
+        non_striker: B Tau
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 9.5:
+        non_striker: B Tau
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 9.6:
+        non_striker: B Tau
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 9.7:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 10.1:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          fielders:
+          - GC Bhogle
+          kind: caught
+    - 10.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.5:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.6:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Jimmy
+    - 11.1:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.2:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.3:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.4:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 11.5:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.6:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 12.1:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 12.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 12.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 12.4:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.5:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.6:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.1:
+        non_striker: S Jimmy
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.2:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 13.3:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 13.4:
+        non_striker: S Jimmy
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.5:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 13.6:
+        non_striker: S Jimmy
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 14.1:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.2:
+        non_striker: S Jimmy
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 14.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          fielders:
+          - GC Bhogle
+          kind: caught
+    - 14.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.5:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.6:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 15.1:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.2:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 15.3:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 15.4:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 15.5:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 15.6:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 16.1:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 16.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 16.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 16.4:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.5:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.6:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 17.1:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 17.2:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 17.3:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 17.4:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.5:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.6:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 18.1:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 18.2:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 18.3:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 18.4:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 18.5:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 18.6:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 19.1:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 19.2:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 19.3:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 19.4:
+        non_striker: P Siaka
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 19.5:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 19.6:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 19.7:
+        non_striker: T Ruma
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 20.1:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 20.2:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.3:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.4:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 20.5:
+        non_striker: T Ruma
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 20.6:
+        non_striker: P Siaka
+        bowler: SR Thadani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 21.1:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.2:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 21.3:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 21.4:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.5:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.6:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 22.1:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 22.2:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 22.3:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 22.4:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.5:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.6:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 22.7:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 23.1:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 23.2:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 23.3:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 23.4:
+        non_striker: P Siaka
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 23.5:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 23.6:
+        non_striker: T Ruma
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 24.1:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 24.2:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 24.3:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 24.4:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 24.5:
+        non_striker: P Siaka
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 24.6:
+        non_striker: T Ruma
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 25.1:
+        non_striker: P Siaka
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 25.2:
+        non_striker: P Siaka
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 25.3:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 25.4:
+        non_striker: P Siaka
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 25.5:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 25.6:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 25.7:
+        non_striker: P Siaka
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 26.1:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 26.2:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 26.3:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 26.4:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 26.5:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 26.6:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: T Ruma
+    - 27.1:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 27.2:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 27.3:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 27.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 27.5:
+        non_striker: P Siaka
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 27.6:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 28.1:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 28.2:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 28.3:
+        non_striker: P Siaka
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 28.4:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: lbw
+    - 28.5:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Frank
+    - 28.6:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 28.7:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 29.1:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 29.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 29.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 29.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 29.5:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 29.6:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 30.1:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 30.2:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 30.3:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 30.4:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 30.5:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 30.6:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 30.7:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 31.1:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 31.2:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 31.3:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Frank
+    - 31.4:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 31.5:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 31.6:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 32.1:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 32.2:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 32.3:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 32.4:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 32.5:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 32.6:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 33.1:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 33.2:
+        non_striker: K Frank
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 33.3:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 33.4:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Frank
+    - 33.5:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Frank
+    - 33.6:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Frank
+    - 33.7:
+        non_striker: T Ruma
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 34.1:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 34.2:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 34.3:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 34.4:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 34.5:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 34.6:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 35.1:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 35.2:
+        non_striker: T Ruma
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 35.3:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 35.4:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 35.5:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 35.6:
+        non_striker: K Frank
+        bowler: RP Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 36.1:
+        non_striker: T Ruma
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 36.2:
+        non_striker: K Frank
+        bowler: JM Willathgamuwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma

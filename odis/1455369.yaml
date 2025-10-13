@@ -1,0 +1,4652 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-11-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2024-10-23'
+  gender: female
+  match_type: ODI
+  match_type_number: 1410
+  outcome:
+    winner: United States of America
+    by:
+      wickets: 4
+  overs: 50
+  player_of_match:
+  - G Kodali
+  players:
+    Zimbabwe:
+    - M Mupachikwa
+    - SM Mayers
+    - CS Mugeri-Tiripano
+    - B Biza
+    - A Ndiraya
+    - J Nkomo
+    - R Pasipanodya
+    - C Chatonzwa
+    - A Mazvishaya
+    - N Sibanda
+    - O Chare
+    United States of America:
+    - D Dhingra
+    - GC Bhogle
+    - A Kolan
+    - E Claridge
+    - S Sriharsha
+    - AI Chudasama
+    - IM Vaghela
+    - TG Norris
+    - G Kodali
+    - S Immadi
+    - JL Aras
+  registry:
+    people:
+      A Kolan: 85f5735b
+      A Mazvishaya: '09a58e2d'
+      A Ndiraya: c8e6bddd
+      AI Chudasama: 9414a81c
+      B Biza: 8a522c6c
+      C Chatonzwa: da61a9af
+      CS Mugeri-Tiripano: 99c86133
+      D Dhingra: b0dc5d0d
+      D Shawane: 021e0d95
+      E Claridge: d8c6a647
+      G Kodali: f606177e
+      GC Bhogle: a1965ce2
+      I Chabi: 5e39110e
+      IM Vaghela: 8d62fc14
+      J Chibhabha: 4c5c47a4
+      J Nkomo: 36dfa62e
+      JL Aras: e21475a5
+      M Mupachikwa: 6657b319
+      N Feremeka: 8609d452
+      N Sibanda: edf62a25
+      O Chare: d9fb6ede
+      R Pasipanodya: 17ccd296
+      S Immadi: a6dd06d6
+      S Sriharsha: 89f6c26f
+      SM Mayers: 91d9613e
+      TG Norris: 8ae7bb3e
+  teams:
+  - Zimbabwe
+  - United States of America
+  toss:
+    winner: United States of America
+    decision: field
+  umpires:
+  - I Chabi
+  - N Feremeka
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Mayers
+        batsman: M Mupachikwa
+    - 0.2:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: SM Mayers
+        batsman: M Mupachikwa
+    - 0.3:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: SM Mayers
+        batsman: M Mupachikwa
+    - 0.4:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 0.5:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 0.6:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 0.7:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.1:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 1.2:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SM Mayers
+    - 1.3:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SM Mayers
+    - 1.4:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 1.5:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 1.6:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.7:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.1:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 2.2:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 2.3:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 2.4:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.5:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.6:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.1:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.2:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SM Mayers
+    - 3.3:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.5:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 3.6:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 4.1:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.2:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 4.3:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.4:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.5:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.6:
+        non_striker: SM Mayers
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.1:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 5.2:
+        non_striker: M Mupachikwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SM Mayers
+    - 5.3:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.4:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 5.5:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.6:
+        non_striker: SM Mayers
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.1:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 6.2:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+    - 6.3:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SM Mayers
+        wicket:
+          player_out: SM Mayers
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 6.4:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 6.5:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 6.6:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 7.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 7.7:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 8.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 8.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mupachikwa
+    - 8.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 8.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 8.7:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.1:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.2:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.3:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.4:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.5:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 9.6:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 10.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.3:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.4:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.5:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 10.6:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 11.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 12.1:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 12.2:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 12.3:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 12.4:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 12.5:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 12.6:
+        non_striker: M Mupachikwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 13.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 13.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 13.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 13.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 13.5:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 13.6:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 14.1:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 14.2:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 14.3:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 14.4:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 14.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: M Mupachikwa
+    - 14.6:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 15.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 15.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 15.4:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.5:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.6:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 16.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 16.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 16.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 16.4:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 16.5:
+        non_striker: M Mupachikwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 16.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 17.1:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 17.2:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 17.3:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 17.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 17.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 17.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 18.1:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 18.2:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 18.3:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 18.4:
+        non_striker: M Mupachikwa
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 18.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mupachikwa
+    - 18.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 19.1:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 19.2:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 19.3:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 19.4:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 19.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 19.6:
+        non_striker: M Mupachikwa
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 20.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+        wicket:
+          player_out: M Mupachikwa
+          fielders:
+          - E Claridge
+          kind: caught
+    - 20.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 20.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Biza
+    - 20.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Biza
+    - 20.5:
+        non_striker: B Biza
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 20.6:
+        non_striker: B Biza
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 21.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Biza
+    - 21.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 21.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 21.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 21.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 21.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 21.7:
+        non_striker: CS Mugeri-Tiripano
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 22.1:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          kind: bowled
+    - 22.2:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 22.3:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 22.4:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 22.5:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 22.6:
+        non_striker: A Ndiraya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 23.1:
+        non_striker: B Biza
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 23.2:
+        non_striker: B Biza
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 23.3:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 23.4:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 23.5:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 23.6:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 24.1:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ndiraya
+    - 24.2:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ndiraya
+    - 24.3:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ndiraya
+    - 24.4:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 24.5:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 24.6:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 24.7:
+        non_striker: B Biza
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Ndiraya
+    - 25.1:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 25.2:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 25.3:
+        non_striker: B Biza
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 25.4:
+        non_striker: B Biza
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+    - 25.5:
+        non_striker: B Biza
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 25.6:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 26.1:
+        non_striker: B Biza
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Ndiraya
+    - 26.2:
+        non_striker: B Biza
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 26.3:
+        non_striker: A Ndiraya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 26.4:
+        non_striker: A Ndiraya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 26.5:
+        non_striker: B Biza
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Ndiraya
+    - 26.6:
+        non_striker: A Ndiraya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Biza
+    - 27.1:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+    - 27.2:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Biza
+        wicket:
+          player_out: B Biza
+          fielders:
+          - JL Aras
+          kind: caught
+    - 27.3:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 27.4:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: J Nkomo
+    - 27.5:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 27.6:
+        non_striker: A Ndiraya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+        wicket:
+          player_out: J Nkomo
+          kind: lbw
+    - 28.1:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: R Pasipanodya
+        batsman: A Ndiraya
+    - 28.2:
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: R Pasipanodya
+        batsman: A Ndiraya
+    - 28.3:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pasipanodya
+    - 28.4:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 28.5:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 28.6:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Pasipanodya
+    - 28.7:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 28.8:
+        non_striker: A Ndiraya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 29.1:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Ndiraya
+    - 29.2:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Ndiraya
+        wicket:
+          player_out: A Ndiraya
+          kind: bowled
+    - 29.3:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 29.4:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 29.5:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 29.6:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 29.7:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 30.1:
+        non_striker: C Chatonzwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 30.2:
+        non_striker: C Chatonzwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pasipanodya
+    - 30.3:
+        non_striker: R Pasipanodya
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Chatonzwa
+    - 30.4:
+        non_striker: C Chatonzwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 30.5:
+        non_striker: C Chatonzwa
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pasipanodya
+    - 30.6:
+        non_striker: R Pasipanodya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 31.1:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 31.2:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatonzwa
+    - 31.3:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 31.4:
+        non_striker: R Pasipanodya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 31.5:
+        non_striker: C Chatonzwa
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 31.6:
+        non_striker: C Chatonzwa
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pasipanodya
+    - 32.1:
+        non_striker: C Chatonzwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 32.2:
+        non_striker: C Chatonzwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+    - 32.3:
+        non_striker: C Chatonzwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Pasipanodya
+    - 32.4:
+        non_striker: R Pasipanodya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+    - 32.5:
+        non_striker: R Pasipanodya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Chatonzwa
+    - 32.6:
+        non_striker: C Chatonzwa
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Pasipanodya
+        wicket:
+          player_out: R Pasipanodya
+          fielders:
+          - S Sriharsha
+          kind: caught
+    - 33.1:
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 33.2:
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 33.3:
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 33.4:
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 33.5:
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Mazvishaya
+        batsman: C Chatonzwa
+    - 33.6:
+        non_striker: C Chatonzwa
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 34.1:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Chatonzwa
+    - 34.2:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Chatonzwa
+        wicket:
+          player_out: C Chatonzwa
+          kind: bowled
+    - 34.3:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: N Sibanda
+    - 34.4:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 34.5:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 34.6:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 35.1:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 35.2:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mazvishaya
+    - 35.3:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 35.4:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 35.5:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 35.6:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mazvishaya
+    - 35.7:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 36.1:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 36.2:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 36.3:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: N Sibanda
+    - 36.4:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 36.5:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 36.6:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Sibanda
+    - 37.1:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Mazvishaya
+    - 37.2:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 37.3:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 37.4:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 37.5:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 37.6:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 37.7:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 38.1:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 38.2:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mazvishaya
+    - 38.3:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 38.4:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 38.5:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 38.6:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 38.7:
+        non_striker: N Sibanda
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 39.1:
+        non_striker: A Mazvishaya
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 39.2:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mazvishaya
+    - 39.3:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 39.4:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 39.5:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 39.6:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 40.1:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 40.2:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 40.3:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 40.4:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 40.5:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 40.6:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 41.1:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.2:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mazvishaya
+    - 41.3:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.4:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.5:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.6:
+        non_striker: N Sibanda
+        bowler: S Immadi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Mazvishaya
+    - 42.1:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 42.2:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 42.3:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Sibanda
+    - 42.4:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 42.5:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 42.6:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 42.7:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 43.1:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 43.2:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 43.3:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 43.4:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 43.5:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 43.6:
+        non_striker: N Sibanda
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 44.1:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+        wicket:
+          player_out: N Sibanda
+          kind: lbw
+    - 44.2:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 44.3:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Chare
+    - 44.4:
+        non_striker: O Chare
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 44.5:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 44.6:
+        non_striker: A Mazvishaya
+        bowler: G Kodali
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 45.1:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 45.2:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 45.3:
+        non_striker: A Mazvishaya
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Chare
+    - 45.4:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mazvishaya
+    - 45.5:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 45.6:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Mazvishaya
+    - 45.7:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 45.8:
+        non_striker: O Chare
+        bowler: IM Vaghela
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 46.1:
+        non_striker: O Chare
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 46.2:
+        non_striker: O Chare
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 46.3:
+        non_striker: O Chare
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 46.4:
+        non_striker: A Mazvishaya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 46.5:
+        non_striker: A Mazvishaya
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Chare
+    - 46.6:
+        non_striker: A Mazvishaya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 46.7:
+        non_striker: A Mazvishaya
+        bowler: TG Norris
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Chare
+    - 46.8:
+        non_striker: A Mazvishaya
+        bowler: TG Norris
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 47.1:
+        non_striker: O Chare
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 47.2:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 47.3:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 47.4:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: O Chare
+    - 47.5:
+        non_striker: A Mazvishaya
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Chare
+    - 47.6:
+        non_striker: O Chare
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 47.7:
+        non_striker: O Chare
+        bowler: JL Aras
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mazvishaya
+    - 48.1:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 48.2:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 48.3:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+    - 48.4:
+        non_striker: A Mazvishaya
+        bowler: AI Chudasama
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Chare
+        wicket:
+          player_out: O Chare
+          kind: bowled
+- 2nd innings:
+    team: United States of America
+    deliveries:
+    - 0.1:
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GC Bhogle
+        batsman: D Dhingra
+    - 0.2:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 0.3:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 0.4:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 0.5:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 0.6:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 0.7:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 0.8:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 1.1:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: D Dhingra
+    - 1.2:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.3:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dhingra
+    - 1.4:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.5:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 1.6:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 1.7:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.1:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 2.2:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.3:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.4:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 2.5:
+        non_striker: D Dhingra
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 2.6:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 2.7:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 3.1:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 3.2:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 3.3:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 3.4:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: GC Bhogle
+    - 3.5:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 3.6:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 3.7:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 4.1:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 4.2:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.3:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 4.4:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 4.5:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 4.6:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 5.1:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.2:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 5.3:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 5.4:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 5.5:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 5.6:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 5.7:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 6.1:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: D Dhingra
+    - 6.2:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 6.3:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 6.4:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 6.5:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 6.6:
+        non_striker: GC Bhogle
+        bowler: C Chatonzwa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 7.1:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 7.2:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 7.3:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 7.4:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Dhingra
+    - 7.5:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 7.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 7.7:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 8.1:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GC Bhogle
+    - 8.2:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 8.3:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 8.4:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 8.5:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 8.6:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 8.7:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.1:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 9.2:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 9.3:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.4:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.5:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 9.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 10.1:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 10.2:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 10.3:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 10.4:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 10.5:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 10.6:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 11.1:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.2:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.3:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.4:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.5:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 11.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 12.1:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 12.2:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 12.3:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Bhogle
+    - 12.4:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 12.5:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 12.6:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 13.1:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 13.2:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 13.3:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GC Bhogle
+    - 13.4:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 13.5:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 13.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: D Dhingra
+    - 14.1:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 14.2:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 14.3:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 14.4:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 14.5:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 14.6:
+        non_striker: D Dhingra
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 15.1:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Dhingra
+    - 15.2:
+        non_striker: D Dhingra
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 15.3:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: D Dhingra
+    - 15.4:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+    - 15.5:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Dhingra
+        wicket:
+          player_out: D Dhingra
+          kind: bowled
+    - 15.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 16.1:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 16.2:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 16.3:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 16.4:
+        non_striker: GC Bhogle
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 16.5:
+        non_striker: A Kolan
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GC Bhogle
+    - 16.6:
+        non_striker: A Kolan
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 17.1:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 17.2:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 17.3:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 17.4:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 17.5:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 17.6:
+        non_striker: GC Bhogle
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 18.1:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GC Bhogle
+    - 18.2:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 18.3:
+        non_striker: GC Bhogle
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 18.4:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+    - 18.5:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GC Bhogle
+        wicket:
+          player_out: GC Bhogle
+          fielders:
+          - A Mazvishaya
+          kind: caught
+    - 18.6:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: E Claridge
+    - 18.7:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+    - 19.1:
+        non_striker: E Claridge
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 19.2:
+        non_striker: E Claridge
+        bowler: O Chare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kolan
+    - 19.3:
+        non_striker: E Claridge
+        bowler: O Chare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Kolan
+    - 19.4:
+        non_striker: E Claridge
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 19.5:
+        non_striker: E Claridge
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 19.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: E Claridge
+        wicket:
+          player_out: E Claridge
+          kind: caught and bowled
+    - 19.7:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 19.8:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 20.1:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 20.2:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 20.3:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 20.4:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 20.5:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 20.6:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 21.1:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 21.2:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 21.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: A Kolan
+    - 21.4:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Sriharsha
+    - 21.5:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 21.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 21.7:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 21.8:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 22.1:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 22.2:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 22.3:
+        non_striker: A Kolan
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 22.4:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 22.5:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 22.6:
+        non_striker: S Sriharsha
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 23.1:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sriharsha
+    - 23.2:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 23.3:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 23.4:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 23.5:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 23.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 24.1:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 24.2:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 24.3:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 24.4:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 24.5:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 24.6:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 25.1:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.2:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 25.4:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 25.5:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 25.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 26.1:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: S Sriharsha
+    - 26.2:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sriharsha
+    - 26.3:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 26.4:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 26.5:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 26.6:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 26.7:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 27.1:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 27.2:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 27.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Kolan
+    - 27.4:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 27.5:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 27.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 28.1:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 28.2:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 28.3:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 28.4:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 28.5:
+        non_striker: S Sriharsha
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 28.6:
+        non_striker: A Kolan
+        bowler: B Biza
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 29.1:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 29.2:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 29.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Kolan
+    - 29.4:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 29.5:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 29.6:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 30.1:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 30.2:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 30.3:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 30.4:
+        non_striker: A Kolan
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 30.5:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 30.6:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 31.1:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 31.2:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 31.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Kolan
+    - 31.4:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Sriharsha
+    - 31.5:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 31.6:
+        non_striker: A Kolan
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 32.1:
+        non_striker: A Kolan
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 32.2:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 32.3:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 32.4:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+    - 32.5:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Kolan
+        wicket:
+          player_out: A Kolan
+          kind: lbw
+    - 32.6:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AI Chudasama
+        wicket:
+          player_out: AI Chudasama
+          kind: lbw
+    - 33.1:
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: IM Vaghela
+        batsman: S Sriharsha
+    - 33.2:
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: IM Vaghela
+        batsman: S Sriharsha
+    - 33.3:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 33.4:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 33.5:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 33.6:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 34.1:
+        non_striker: IM Vaghela
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 34.2:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IM Vaghela
+    - 34.3:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IM Vaghela
+    - 34.4:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 34.5:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 34.6:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 34.7:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 34.8:
+        non_striker: S Sriharsha
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+    - 35.1:
+        non_striker: IM Vaghela
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 35.2:
+        non_striker: IM Vaghela
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Sriharsha
+    - 35.3:
+        non_striker: IM Vaghela
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 35.4:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IM Vaghela
+    - 35.5:
+        non_striker: IM Vaghela
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Sriharsha
+    - 35.6:
+        non_striker: S Sriharsha
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IM Vaghela
+        wicket:
+          player_out: IM Vaghela
+          fielders:
+          - M Mupachikwa
+          kind: caught
+    - 36.1:
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TG Norris
+        batsman: S Sriharsha
+    - 36.2:
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: TG Norris
+        batsman: S Sriharsha
+    - 36.3:
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: TG Norris
+        batsman: S Sriharsha
+    - 36.4:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 36.5:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 36.6:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Norris
+    - 36.7:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TG Norris
+    - 36.8:
+        non_striker: S Sriharsha
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TG Norris
+    - 37.1:
+        non_striker: TG Norris
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sriharsha
+    - 37.2:
+        non_striker: TG Norris
+        bowler: O Chare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Sriharsha

@@ -1,0 +1,3464 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2025-04-11'
+  gender: female
+  match_type: ODI
+  match_type_number: 1446
+  outcome:
+    winner: West Indies
+    by:
+      runs: 6
+  overs: 50
+  player_of_match:
+  - HK Matthews
+  players:
+    West Indies:
+    - HK Matthews
+    - Q Joseph
+    - Z James
+    - SR Taylor
+    - CA Henry
+    - SA Campbelle
+    - S Gajnabi
+    - AA Alleyne
+    - CS Fraser
+    - ASS Fletcher
+    - K Ramharack
+    Ireland:
+    - A Hunter
+    - GH Lewis
+    - O Prendergast
+    - L Delany
+    - L Paul
+    - CE Coulter Reilly
+    - L Little
+    - AN Kelly
+    - A Canning
+    - J Maguire
+    - C Murray
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      AA Alleyne: 4b0e3049
+      AN Kelly: 397369e0
+      ASS Fletcher: 42d9dd09
+      Ali Naqvi: 3c89fc88
+      C Murray: 5a50471c
+      CA Henry: '75820733'
+      CE Coulter Reilly: 39f351c6
+      CS Fraser: fb9a8cc3
+      GH Lewis: 1b9d1579
+      HK Matthews: d32cf49a
+      J Maguire: 1b1c23bb
+      K Ramharack: 321c980e
+      L Delany: b4f73b44
+      L Little: 4f86926b
+      L Paul: '07248d8e'
+      LB Gcuma: 02ba88e3
+      Masudur Rahman: 9581ac6b
+      O Prendergast: d8f20ba5
+      Q Joseph: d6164dc0
+      S Dambanevana: '039923bd'
+      S Gajnabi: c35739a1
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      Saleema Imtiaz: d17d21d5
+      Z James: 816af623
+  teams:
+  - West Indies
+  - Ireland
+  toss:
+    winner: Ireland
+    decision: field
+  umpires:
+  - LB Gcuma
+  - S Dambanevana
+  venue: Gaddafi Stadium, Lahore
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.2:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.3:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 0.5:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 0.6:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Joseph
+    - 1.1:
+        non_striker: HK Matthews
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 1.2:
+        non_striker: HK Matthews
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Joseph
+    - 1.3:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.4:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 1.5:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 1.6:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.1:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 2.2:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 2.3:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 2.4:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HK Matthews
+    - 2.5:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 2.6:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Joseph
+    - 3.1:
+        non_striker: HK Matthews
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 3.2:
+        non_striker: HK Matthews
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Q Joseph
+    - 3.3:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.4:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.5:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 3.6:
+        non_striker: Q Joseph
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HK Matthews
+    - 4.1:
+        non_striker: HK Matthews
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Q Joseph
+    - 4.2:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.3:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 4.4:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: caught and bowled
+    - 4.5:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z James
+    - 4.6:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 4.7:
+        non_striker: Q Joseph
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 5.1:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 5.2:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+    - 5.3:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+        wicket:
+          player_out: Q Joseph
+          fielders:
+          - AN Kelly
+          kind: caught
+    - 5.4:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.5:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 5.6:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 6.1:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 6.2:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 6.3:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 6.4:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 6.5:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z James
+    - 6.6:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 6.7:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 7.1:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 7.2:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 7.3:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SR Taylor
+    - 7.4:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 7.5:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 7.6:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 8.1:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 8.2:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 8.3:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 8.4:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 8.5:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 8.6:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 9.1:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 9.2:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 9.3:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 9.4:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 9.5:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 9.6:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Z James
+    - 9.7:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 10.1:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 10.2:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 10.3:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 10.4:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 10.5:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 10.6:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 11.1:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 11.2:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 11.3:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 11.4:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 11.5:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 11.6:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 12.1:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 12.2:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 12.3:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 12.4:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 12.5:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 12.6:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 13.1:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 13.2:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 13.3:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 13.4:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 13.5:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 13.6:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 14.1:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 14.2:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 14.3:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 14.4:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 14.5:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 14.6:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 15.1:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 15.2:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SR Taylor
+    - 15.3:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 15.4:
+        non_striker: Z James
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 15.5:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 15.6:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 15.7:
+        non_striker: SR Taylor
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 16.1:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 16.2:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 16.3:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 16.4:
+        non_striker: SR Taylor
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 16.5:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 16.6:
+        non_striker: Z James
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 17.1:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 17.2:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 17.3:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 17.4:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 17.5:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 17.6:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z James
+    - 18.1:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 18.2:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 18.3:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 18.4:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z James
+    - 18.5:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 18.6:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.1:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 19.2:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.3:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Z James
+    - 19.4:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 19.5:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 19.6:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 20.1:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 20.2:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 20.3:
+        non_striker: Z James
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 20.4:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 20.5:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 20.6:
+        non_striker: SR Taylor
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 21.1:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 21.2:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 21.3:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 21.4:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SR Taylor
+    - 21.5:
+        non_striker: Z James
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 21.6:
+        non_striker: SR Taylor
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 22.1:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Z James
+    - 22.2:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 22.3:
+        non_striker: SR Taylor
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 22.4:
+        non_striker: Z James
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 22.5:
+        non_striker: Z James
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 22.6:
+        non_striker: Z James
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 23.1:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SR Taylor
+    - 23.2:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          fielders:
+          - C Murray
+          kind: caught
+    - 23.3:
+        non_striker: Z James
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 23.4:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+        wicket:
+          player_out: Z James
+          kind: bowled
+    - 23.5:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 23.6:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 24.1:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 24.2:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 24.3:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 24.4:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 24.5:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 24.6:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 25.1:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 25.2:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 25.3:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 25.4:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CA Henry
+    - 25.5:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: CA Henry
+    - 25.6:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 25.7:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 25.8:
+        non_striker: SA Campbelle
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 26.1:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 26.2:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 26.3:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 26.4:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 26.5:
+        non_striker: SA Campbelle
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+        wicket:
+          player_out: SA Campbelle
+          fielders:
+          - AN Kelly
+          kind: run out
+    - 26.6:
+        non_striker: S Gajnabi
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 27.1:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Gajnabi
+    - 27.2:
+        non_striker: S Gajnabi
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 27.3:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 27.4:
+        non_striker: S Gajnabi
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 27.5:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Gajnabi
+    - 27.6:
+        non_striker: S Gajnabi
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 28.1:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+        wicket:
+          player_out: S Gajnabi
+          fielders:
+          - GH Lewis
+          kind: caught
+    - 28.2:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 28.3:
+        non_striker: AA Alleyne
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 28.4:
+        non_striker: AA Alleyne
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 28.5:
+        non_striker: CA Henry
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 28.6:
+        non_striker: AA Alleyne
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: CA Henry
+    - 29.1:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 29.2:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 29.3:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 29.4:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 29.5:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 29.6:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 30.1:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Henry
+    - 30.2:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 30.3:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 30.4:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 30.5:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 30.6:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 31.1:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 31.2:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 31.3:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AA Alleyne
+    - 31.4:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 31.5:
+        non_striker: CA Henry
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 31.6:
+        non_striker: AA Alleyne
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 32.1:
+        non_striker: CA Henry
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 32.2:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 32.3:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 32.4:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 32.5:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 32.6:
+        non_striker: AA Alleyne
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 0.2:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 0.3:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 0.5:
+        non_striker: A Hunter
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.1:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 1.6:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 2.5:
+        non_striker: A Hunter
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: A Hunter
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Hunter
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 3.5:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 3.7:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.8:
+        non_striker: A Hunter
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 4.4:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.5:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.6:
+        non_striker: GH Lewis
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.1:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.2:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.3:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.4:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.5:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 5.6:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.1:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 6.2:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Hunter
+    - 6.5:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 7.2:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 7.3:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.4:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 8.1:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 8.4:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 8.5:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 8.6:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.1:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 9.2:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 9.3:
+        non_striker: GH Lewis
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 9.4:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.5:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GH Lewis
+    - 9.7:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.8:
+        non_striker: A Hunter
+        bowler: CS Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 10.2:
+        non_striker: GH Lewis
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Hunter
+    - 10.3:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.4:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: bowled
+    - 10.5:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 10.6:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 11.1:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 11.2:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 11.3:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 11.4:
+        non_striker: O Prendergast
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 11.5:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 11.6:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 12.1:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 12.2:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          kind: caught and bowled
+    - 12.3:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.4:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 12.5:
+        non_striker: A Hunter
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Delany
+    - 12.6:
+        non_striker: L Delany
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.1:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.2:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 13.3:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 13.4:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 13.5:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 13.6:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 14.1:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 14.2:
+        non_striker: A Hunter
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 14.3:
+        non_striker: A Hunter
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 14.4:
+        non_striker: A Hunter
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 14.5:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 14.6:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.1:
+        non_striker: A Hunter
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 15.2:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 15.3:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          kind: bowled
+    - 15.4:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 15.5:
+        non_striker: L Paul
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 15.6:
+        non_striker: L Paul
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 16.1:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 16.2:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 16.3:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 16.4:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 16.5:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 16.6:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 17.1:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 17.2:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 17.3:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 17.4:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 17.5:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 17.6:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 18.1:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 18.2:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 18.3:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 18.4:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 18.5:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 18.6:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 19.1:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.2:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.3:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.4:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.5:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.6:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 20.1:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 20.2:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 20.3:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 20.4:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 20.5:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 20.6:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 21.1:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 21.2:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 21.3:
+        non_striker: CE Coulter Reilly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 21.4:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE Coulter Reilly
+    - 21.5:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 21.6:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE Coulter Reilly
+    - 21.7:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 21.8:
+        non_striker: L Delany
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.1:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 22.2:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 22.3:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 22.4:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.5:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 22.6:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 23.1:
+        non_striker: L Delany
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 23.2:
+        non_striker: L Delany
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 23.3:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 23.4:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 23.5:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 23.6:
+        non_striker: L Delany
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 24.1:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 24.2:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 24.3:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 24.4:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 24.5:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 24.6:
+        non_striker: L Delany
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 25.1:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - K Ramharack
+          kind: caught
+    - 25.2:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Little
+    - 25.3:
+        non_striker: L Little
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 25.4:
+        non_striker: L Little
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 25.5:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Little
+    - 25.6:
+        non_striker: L Little
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 26.1:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Little
+        wicket:
+          player_out: L Little
+          fielders:
+          - HK Matthews
+          kind: caught
+    - 26.2:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 26.3:
+        non_striker: AN Kelly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 26.4:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 26.5:
+        non_striker: AN Kelly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 26.6:
+        non_striker: CE Coulter Reilly
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 27.1:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 27.2:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 27.3:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: CE Coulter Reilly
+    - 27.4:
+        non_striker: CE Coulter Reilly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 27.5:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+        wicket:
+          player_out: CE Coulter Reilly
+          fielders:
+          - CA Henry
+          kind: caught
+    - 27.6:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Canning
+    - 27.7:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Canning
+    - 27.8:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 28.1:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 28.2:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 28.3:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Canning
+    - 28.4:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 28.5:
+        non_striker: A Canning
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 28.6:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+        wicket:
+          player_out: A Canning
+          kind: lbw
+    - 29.1:
+        non_striker: J Maguire
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: J Maguire
+          fielders:
+          - SA Campbelle
+          - K Ramharack
+          kind: run out
+    - 29.2:
+        non_striker: AN Kelly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 29.3:
+        non_striker: C Murray
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 29.4:
+        non_striker: AN Kelly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+    - 29.5:
+        non_striker: AN Kelly
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+    - 29.6:
+        non_striker: AN Kelly
+        bowler: ASS Fletcher
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: C Murray
+    - 30.1:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 30.2:
+        non_striker: C Murray
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 30.3:
+        non_striker: C Murray
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 30.4:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: C Murray
+    - 30.5:
+        non_striker: C Murray
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 30.6:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: C Murray
+    - 31.1:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 31.2:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 31.3:
+        non_striker: AN Kelly
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 31.4:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 31.5:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 31.6:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Kelly
+    - 31.7:
+        non_striker: C Murray
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 32.1:
+        non_striker: AN Kelly
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 32.2:
+        non_striker: C Murray
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          fielders:
+          - CA Henry
+          kind: caught

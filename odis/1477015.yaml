@@ -1,0 +1,5020 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-14'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2025-04-13'
+  gender: female
+  match_type: ODI
+  match_type_number: 1448
+  outcome:
+    winner: Bangladesh
+    by:
+      wickets: 2
+  overs: 50
+  player_of_match:
+  - Ritu Moni
+  players:
+    Ireland:
+    - S Forbes
+    - GH Lewis
+    - A Hunter
+    - O Prendergast
+    - L Delany
+    - L Paul
+    - CE Coulter Reilly
+    - AN Kelly
+    - A Canning
+    - J Maguire
+    - C Murray
+    Bangladesh:
+    - Ishma Tanjim
+    - Fargana Hoque
+    - Sharmin Akhter
+    - Nigar Sultana
+    - S Mostary
+    - Ritu Moni
+    - Fahima Khatun
+    - Jannatul Ferdus
+    - Rabeya Khan
+    - Nahida Akter
+    - Marufa Akter
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Hunter: e8fa03ed
+      AN Kelly: 397369e0
+      Ali Naqvi: 3c89fc88
+      C La Borde: 32157f67
+      C Murray: 5a50471c
+      CE Coulter Reilly: 39f351c6
+      DM Koch: 6d10c034
+      Fahima Khatun: 558cdd64
+      Faisal Afridi: ed0bc503
+      Fargana Hoque: 6e96c956
+      GH Lewis: 1b9d1579
+      Ishma Tanjim: 5d428b3d
+      J Maguire: 1b1c23bb
+      Jannatul Ferdus: fa948618
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      LDVV Silva: 6e226c31
+      Marufa Akter: a50797a4
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      O Prendergast: d8f20ba5
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Forbes: 5ecfab18
+      S Mostary: 94de63bf
+      Sharmin Akhter: 84fdd3cf
+  teams:
+  - Ireland
+  - Bangladesh
+  toss:
+    winner: Ireland
+    decision: bat
+  umpires:
+  - LDVV Silva
+  - Faisal Afridi
+  venue: Gaddafi Stadium, Lahore
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 0.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 0.3:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 1.5:
+        non_striker: S Forbes
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.1:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.4:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.5:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.1:
+        non_striker: S Forbes
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.2:
+        non_striker: S Forbes
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.3:
+        non_striker: S Forbes
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.4:
+        non_striker: S Forbes
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: S Forbes
+          fielders:
+          - Nahida Akter
+          kind: run out
+    - 3.5:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.6:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 4.3:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 4.4:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 5.5:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 5.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 6.1:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 6.4:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: A Hunter
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 7.1:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.2:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 7.4:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 7.5:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.4:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.5:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 9.1:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.2:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.3:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 9.4:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.5:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 10.2:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.4:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 10.5:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 11.1:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.2:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.3:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.4:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.5:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.6:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 12.1:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 12.2:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.3:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 12.4:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 12.5:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 12.6:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.1:
+        non_striker: GH Lewis
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.2:
+        non_striker: GH Lewis
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.3:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: caught and bowled
+    - 13.4:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 13.5:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.6:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 14.1:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 14.2:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 14.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 14.4:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Hunter
+    - 14.5:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 14.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: A Hunter
+    - 15.1:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 15.2:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 15.3:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 15.4:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 15.5:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 15.6:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 16.1:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 16.2:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: O Prendergast
+    - 16.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 16.4:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 16.5:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 16.6:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 17.1:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 17.2:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 17.3:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 17.4:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 17.5:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 17.6:
+        non_striker: A Hunter
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 18.1:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 18.2:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 18.3:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 18.4:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 18.5:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          fielders:
+          - Nigar Sultana
+          - S Mostary
+          kind: run out
+    - 18.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 19.1:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 19.2:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 19.3:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 19.4:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 19.5:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 19.6:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 20.1:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 20.2:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 20.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 20.4:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 20.5:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 20.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 21.1:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 21.2:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 21.3:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 21.4:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 21.5:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 21.6:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.1:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.2:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.3:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.4:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 22.5:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.6:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 23.1:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 23.2:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.3:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 23.4:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 23.5:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.6:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 24.1:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 24.2:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 24.3:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 24.4:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 24.5:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 24.6:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.1:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 25.2:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.3:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 25.4:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.5:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 25.6:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.1:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 26.2:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 26.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 26.4:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 26.5:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 26.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 27.1:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 27.2:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 27.3:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 27.4:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 27.5:
+        non_striker: L Delany
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 27.6:
+        non_striker: O Prendergast
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 28.1:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 28.2:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 28.3:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 28.4:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 28.5:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 28.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 29.1:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 29.2:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 29.3:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 29.4:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 29.5:
+        non_striker: O Prendergast
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 29.6:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 30.1:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 30.2:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 30.3:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 30.4:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: O Prendergast
+    - 30.5:
+        non_striker: O Prendergast
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 30.6:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 31.1:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 31.2:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 31.3:
+        non_striker: O Prendergast
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 31.4:
+        non_striker: O Prendergast
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 31.5:
+        non_striker: O Prendergast
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 31.6:
+        non_striker: O Prendergast
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 32.1:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 32.2:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 32.3:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 32.4:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 32.5:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 32.6:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 33.1:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 33.2:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 33.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 33.4:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          kind: lbw
+    - 33.5:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 33.6:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 34.1:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 34.2:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 34.3:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 34.4:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 34.5:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 34.6:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 35.1:
+        non_striker: L Paul
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 35.2:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 35.3:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 35.4:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 35.5:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 35.6:
+        non_striker: L Delany
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 36.1:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 36.2:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 36.3:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 36.4:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 36.5:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 36.6:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 37.1:
+        non_striker: L Paul
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 37.2:
+        non_striker: L Paul
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 37.3:
+        non_striker: L Paul
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 37.4:
+        non_striker: L Paul
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 37.5:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 37.6:
+        non_striker: L Delany
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 38.1:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 38.2:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 38.3:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 38.4:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 38.5:
+        non_striker: L Delany
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 38.6:
+        non_striker: L Paul
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 39.1:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 39.2:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 39.3:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 39.4:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 39.5:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 39.6:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 40.1:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 40.2:
+        non_striker: L Delany
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 40.3:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 40.4:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 40.5:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 40.6:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 41.1:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 41.2:
+        non_striker: L Delany
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 41.3:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 41.4:
+        non_striker: L Paul
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 41.5:
+        non_striker: CE Coulter Reilly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 41.6:
+        non_striker: CE Coulter Reilly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 42.1:
+        non_striker: L Paul
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 42.2:
+        non_striker: L Paul
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 42.3:
+        non_striker: L Paul
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 42.4:
+        non_striker: CE Coulter Reilly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 42.5:
+        non_striker: CE Coulter Reilly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 42.6:
+        non_striker: CE Coulter Reilly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 43.1:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 43.2:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 43.3:
+        non_striker: L Paul
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 43.4:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+        wicket:
+          player_out: L Paul
+          kind: bowled
+    - 43.5:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 43.6:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 44.1:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 44.2:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 44.3:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AN Kelly
+    - 44.4:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 44.5:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 44.6:
+        non_striker: CE Coulter Reilly
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 45.1:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 45.2:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 45.3:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 45.4:
+        non_striker: CE Coulter Reilly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 45.5:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 45.6:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 46.1:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 46.2:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 46.3:
+        non_striker: CE Coulter Reilly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AN Kelly
+    - 46.4:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+        wicket:
+          player_out: CE Coulter Reilly
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 46.5:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 46.6:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 47.1:
+        non_striker: A Canning
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 47.2:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 47.3:
+        non_striker: A Canning
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 47.4:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 47.5:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 47.6:
+        non_striker: A Canning
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 48.1:
+        non_striker: A Canning
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 48.2:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Canning
+    - 48.3:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 48.4:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+        wicket:
+          player_out: A Canning
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 48.5:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+    - 48.6:
+        non_striker: J Maguire
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 49.1:
+        non_striker: AN Kelly
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Maguire
+    - 49.2:
+        non_striker: AN Kelly
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Maguire
+    - 49.3:
+        non_striker: AN Kelly
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Maguire
+    - 49.4:
+        non_striker: AN Kelly
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+    - 49.5:
+        non_striker: J Maguire
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 49.6:
+        non_striker: AN Kelly
+        bowler: S Mostary
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Maguire
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishma Tanjim
+    - 0.2:
+        non_striker: Ishma Tanjim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 0.3:
+        non_striker: Ishma Tanjim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - A Hunter
+          kind: caught
+    - 0.4:
+        non_striker: Ishma Tanjim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.5:
+        non_striker: Ishma Tanjim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 0.6:
+        non_striker: Ishma Tanjim
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 1.1:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 1.2:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 1.3:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 1.4:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 1.5:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 1.6:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ishma Tanjim
+    - 2.1:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 2.2:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 2.3:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 2.4:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 2.5:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 2.6:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 3.1:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.2:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.3:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.4:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.5:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.6:
+        non_striker: Ishma Tanjim
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.1:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+    - 4.2:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ishma Tanjim
+        wicket:
+          player_out: Ishma Tanjim
+          fielders:
+          - C Murray
+          kind: caught
+    - 4.3:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.4:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.5:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 4.6:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 5.1:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 5.2:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 5.3:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 5.4:
+        non_striker: Nigar Sultana
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sharmin Akhter
+    - 5.5:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 5.6:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.1:
+        non_striker: Nigar Sultana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.2:
+        non_striker: Nigar Sultana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.3:
+        non_striker: Nigar Sultana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.4:
+        non_striker: Nigar Sultana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sharmin Akhter
+    - 6.5:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.6:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.1:
+        non_striker: Nigar Sultana
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.2:
+        non_striker: Nigar Sultana
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sharmin Akhter
+    - 7.3:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.4:
+        non_striker: Sharmin Akhter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 7.5:
+        non_striker: Nigar Sultana
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.6:
+        non_striker: Nigar Sultana
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 8.1:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.2:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 8.3:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 8.4:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 8.5:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.6:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.7:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.1:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 9.2:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.3:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 9.4:
+        non_striker: Sharmin Akhter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.5:
+        non_striker: Sharmin Akhter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.6:
+        non_striker: Sharmin Akhter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.1:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.2:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.3:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.4:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.5:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 10.6:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.1:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 11.2:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.3:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.4:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.5:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.6:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 12.1:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.2:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.3:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.4:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.5:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 12.6:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.1:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.2:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.3:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.4:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.5:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 13.6:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.1:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 14.2:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.3:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.4:
+        non_striker: Nigar Sultana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 14.5:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 14.6:
+        non_striker: Sharmin Akhter
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.1:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 15.2:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.3:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 15.4:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 15.5:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 15.6:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 16.1:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.2:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.3:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.4:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          kind: lbw
+    - 16.5:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 16.6:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 17.1:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 17.2:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 17.3:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 17.4:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 17.5:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mostary
+    - 17.6:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 17.7:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.1:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 18.2:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 18.3:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 18.4:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 18.5:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mostary
+    - 18.6:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 18.7:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 19.1:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 19.2:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 19.3:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.4:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.5:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.6:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.7:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 20.1:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 20.2:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 20.3:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.4:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.5:
+        non_striker: S Mostary
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 20.6:
+        non_striker: Nigar Sultana
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 21.1:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 21.2:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+        wicket:
+          player_out: S Mostary
+          fielders:
+          - J Maguire
+          kind: caught
+    - 21.3:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.4:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.5:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.6:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 22.1:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 22.2:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 22.3:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 22.4:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 22.6:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 23.1:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 23.2:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 23.3:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 23.4:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 23.5:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 23.6:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 23.7:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.1:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 24.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 24.3:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 24.4:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 24.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 24.6:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 25.1:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 25.2:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          fielders:
+          - A Hunter
+          kind: caught
+    - 25.3:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 25.4:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 25.5:
+        non_striker: Fahima Khatun
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 25.6:
+        non_striker: Fahima Khatun
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 26.1:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 26.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 26.3:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 26.4:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 26.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 26.6:
+        non_striker: Fahima Khatun
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 27.1:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 27.2:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Fahima Khatun
+    - 27.3:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 27.4:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 27.5:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 27.6:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 27.7:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 28.1:
+        non_striker: Ritu Moni
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 28.2:
+        non_striker: Ritu Moni
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 28.3:
+        non_striker: Fahima Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 28.4:
+        non_striker: Fahima Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 28.5:
+        non_striker: Ritu Moni
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 28.6:
+        non_striker: Ritu Moni
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 29.1:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 29.2:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 29.3:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 29.4:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 29.5:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 29.6:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 30.1:
+        non_striker: Fahima Khatun
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 30.2:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 30.3:
+        non_striker: Fahima Khatun
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 30.4:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 30.5:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 30.6:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 31.1:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 31.2:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 31.3:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 31.4:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 31.5:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 31.6:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 32.1:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 32.2:
+        non_striker: Fahima Khatun
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 32.3:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Fahima Khatun
+    - 32.4:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.5:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.6:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.7:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 33.1:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.2:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 33.3:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 33.4:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 33.5:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 33.6:
+        non_striker: Fahima Khatun
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 34.1:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.2:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.3:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 34.4:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+        wicket:
+          player_out: Fahima Khatun
+          kind: bowled
+    - 34.5:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 34.6:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 35.1:
+        non_striker: Jannatul Ferdus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 35.2:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 35.3:
+        non_striker: Ritu Moni
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 35.4:
+        non_striker: Jannatul Ferdus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 35.5:
+        non_striker: Jannatul Ferdus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 35.6:
+        non_striker: Jannatul Ferdus
+        bowler: L Delany
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 36.1:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 36.2:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 36.3:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 36.4:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 36.5:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jannatul Ferdus
+    - 36.6:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jannatul Ferdus
+    - 36.7:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 37.1:
+        non_striker: Jannatul Ferdus
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 37.2:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 37.3:
+        non_striker: Jannatul Ferdus
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 37.4:
+        non_striker: Jannatul Ferdus
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 37.5:
+        non_striker: Jannatul Ferdus
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Ritu Moni
+    - 37.6:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 38.1:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jannatul Ferdus
+    - 38.2:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jannatul Ferdus
+    - 38.3:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 38.4:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 38.5:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Jannatul Ferdus
+    - 38.6:
+        non_striker: Ritu Moni
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 38.7:
+        non_striker: Jannatul Ferdus
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 39.1:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 39.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 39.3:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 39.4:
+        non_striker: Jannatul Ferdus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Ritu Moni
+    - 39.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 39.6:
+        non_striker: Jannatul Ferdus
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 40.1:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 40.2:
+        non_striker: Jannatul Ferdus
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 40.3:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+        wicket:
+          player_out: Jannatul Ferdus
+          fielders:
+          - J Maguire
+          kind: caught
+    - 40.4:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 40.5:
+        non_striker: Rabeya Khan
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 40.6:
+        non_striker: Rabeya Khan
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 41.1:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 41.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 41.3:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 41.4:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rabeya Khan
+    - 41.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 41.6:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 42.1:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 42.2:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 42.3:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 42.4:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 42.5:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 42.6:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 43.1:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          fielders:
+          - A Hunter
+          kind: stumped
+    - 43.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 43.3:
+        non_striker: Nahida Akter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 43.4:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nahida Akter
+    - 43.5:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 43.6:
+        non_striker: Nahida Akter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 44.1:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 44.2:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 44.3:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 44.4:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 44.5:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 44.6:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 45.1:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 45.2:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 45.3:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 45.4:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 45.5:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 45.6:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 46.1:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 46.2:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 46.3:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 46.4:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 46.5:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 46.6:
+        non_striker: Ritu Moni
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 46.7:
+        non_striker: Nahida Akter
+        bowler: J Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 47.1:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 47.2:
+        non_striker: Ritu Moni
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 47.3:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 47.4:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 47.5:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 47.6:
+        non_striker: Nahida Akter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 48.1:
+        non_striker: Nahida Akter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 48.2:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 48.3:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 48.4:
+        non_striker: Ritu Moni
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Nahida Akter
+    - 48.5:
+        non_striker: Nahida Akter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Ritu Moni

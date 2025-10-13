@@ -1,0 +1,4671 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-30'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Harare
+  dates:
+  - '2024-03-28'
+  gender: female
+  match_type: ODI
+  match_type_number: 1371
+  outcome:
+    winner: Zimbabwe
+    by:
+      runs: 35
+  overs: 50
+  player_of_match:
+  - J Nkomo
+  players:
+    Zimbabwe:
+    - K Ndlovu
+    - M Mupachikwa
+    - CS Mugeri-Tiripano
+    - P Mujaji
+    - J Nkomo
+    - CT Dhururu
+    - L Tshuma
+    - L Phiri
+    - A Mazvishaya
+    - N Sibanda
+    - L Mabhero
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - T Ruma
+    - S Jimmy
+    - P Siaka
+    - L Rajadurai
+    - Melanie Ani
+    - HJ Thomas
+    - V Araa
+    - I Toua
+    - D Lohia
+  registry:
+    people:
+      A Mazvishaya: '09a58e2d'
+      B Tau: 3a6cbb8e
+      CS Mugeri-Tiripano: 99c86133
+      CT Dhururu: 8d7fba79
+      D Lohia: '01341439'
+      HJ Thomas: a3034d3d
+      I Chabi: 5e39110e
+      I Toua: 83cde44d
+      J Chibhabha: 4c5c47a4
+      J Nkomo: 36dfa62e
+      K Ndlovu: 8d25271a
+      L Mabhero: 37f9eb59
+      L Phiri: cca8bdca
+      L Rajadurai: 0d0d3eeb
+      L Tshuma: f281dd00
+      M Mupachikwa: 6657b319
+      Melanie Ani: ff05f9f8
+      N Sibanda: edf62a25
+      N Vare: 20ace887
+      P Mujaji: a246f48f
+      P Siaka: 595433d2
+      S Dambanevana: '039923bd'
+      S Jimmy: 2daa8e40
+      T Musakwa: 5f925536
+      T Ruma: 3697a0ff
+      V Araa: 040f11e8
+  teams:
+  - Zimbabwe
+  - Papua New Guinea
+  toss:
+    winner: Papua New Guinea
+    decision: field
+  umpires:
+  - S Dambanevana
+  - T Musakwa
+  venue: Harare Sports Club
+innings:
+- 1st innings:
+    team: Zimbabwe
+    deliveries:
+    - 0.1:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: K Ndlovu
+    - 0.2:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: K Ndlovu
+    - 0.3:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: K Ndlovu
+    - 0.4:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: K Ndlovu
+    - 0.5:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: M Mupachikwa
+        batsman: K Ndlovu
+    - 0.6:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 1.1:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.2:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.3:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 1.4:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.5:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 1.6:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 2.1:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 2.2:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 2.3:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 2.4:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 2.5:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 2.6:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 3.1:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.2:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 3.3:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 3.4:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 3.5:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 3.6:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.1:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 4.2:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.3:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 4.4:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 4.5:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 4.6:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 5.1:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.2:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.3:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 5.4:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 5.5:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 5.6:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 6.1:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.2:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.3:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 6.4:
+        non_striker: K Ndlovu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 6.5:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 6.6:
+        non_striker: M Mupachikwa
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.1:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mupachikwa
+    - 7.2:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 7.3:
+        non_striker: K Ndlovu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 7.4:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 7.5:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 7.6:
+        non_striker: M Mupachikwa
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 8.1:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 8.2:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 8.3:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 8.4:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 8.5:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Ndlovu
+    - 8.6:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 8.7:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 9.1:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 9.2:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 9.3:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 9.4:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 9.5:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Ndlovu
+    - 9.6:
+        non_striker: M Mupachikwa
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.1:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mupachikwa
+    - 10.2:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.3:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.4:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ndlovu
+    - 10.5:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 10.6:
+        non_striker: M Mupachikwa
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 11.1:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.2:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+    - 11.3:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mupachikwa
+        wicket:
+          player_out: M Mupachikwa
+          kind: bowled
+    - 11.4:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 11.5:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Mugeri-Tiripano
+    - 11.6:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 11.7:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 12.1:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 12.2:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 12.3:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 12.4:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 12.5:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 12.6:
+        non_striker: K Ndlovu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 13.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 13.2:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 13.3:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 13.4:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 13.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 13.6:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 14.1:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 14.2:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 14.3:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 14.4:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 14.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 14.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 15.1:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.2:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.3:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.4:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.5:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 15.6:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 16.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 16.2:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 16.3:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 16.4:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 16.5:
+        non_striker: K Ndlovu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 16.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 17.1:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 17.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 17.3:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 17.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ndlovu
+    - 17.5:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 17.6:
+        non_striker: K Ndlovu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 18.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 18.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+    - 18.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ndlovu
+        wicket:
+          player_out: K Ndlovu
+          kind: lbw
+    - 18.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 18.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 18.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 19.1:
+        non_striker: P Mujaji
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: CS Mugeri-Tiripano
+    - 19.2:
+        non_striker: P Mujaji
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 19.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 19.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 19.5:
+        non_striker: P Mujaji
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 19.6:
+        non_striker: P Mujaji
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 19.7:
+        non_striker: CS Mugeri-Tiripano
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 20.1:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 20.2:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 20.3:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 20.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 20.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 20.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 21.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Mujaji
+    - 21.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 21.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 21.4:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 21.5:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 21.6:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 22.1:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 22.2:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 22.3:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 22.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 22.5:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 22.6:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 23.1:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 23.2:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 23.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 23.4:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 23.5:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 23.6:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 24.1:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CS Mugeri-Tiripano
+    - 24.2:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 24.3:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 24.4:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CS Mugeri-Tiripano
+    - 24.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 24.6:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CS Mugeri-Tiripano
+    - 24.7:
+        non_striker: P Mujaji
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 25.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 25.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 25.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 25.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 25.5:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 25.6:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 26.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 26.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 26.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 26.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: HJ Thomas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: P Mujaji
+    - 26.5:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CS Mugeri-Tiripano
+    - 26.6:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 26.7:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+    - 27.1:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 27.2:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 27.3:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Mujaji
+    - 27.4:
+        non_striker: CS Mugeri-Tiripano
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 27.5:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CS Mugeri-Tiripano
+        wicket:
+          player_out: CS Mugeri-Tiripano
+          fielders:
+          - B Tau
+          kind: caught
+    - 27.6:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 28.1:
+        non_striker: J Nkomo
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 28.2:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 28.3:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 28.4:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 28.5:
+        non_striker: J Nkomo
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 28.6:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: J Nkomo
+    - 28.7:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 29.1:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 29.2:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 29.3:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 29.4:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 29.5:
+        non_striker: P Mujaji
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 29.6:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 30.1:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 30.2:
+        non_striker: J Nkomo
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Mujaji
+    - 30.3:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 30.4:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: J Nkomo
+    - 30.5:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 30.6:
+        non_striker: P Mujaji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 31.1:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+    - 31.2:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Mujaji
+        wicket:
+          player_out: P Mujaji
+          fielders:
+          - T Ruma
+          kind: caught
+    - 31.3:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 31.4:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 31.5:
+        non_striker: CT Dhururu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 31.6:
+        non_striker: CT Dhururu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 32.1:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 32.2:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 32.3:
+        non_striker: J Nkomo
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 32.4:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 32.5:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 32.6:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 33.1:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 33.2:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 33.3:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 33.4:
+        non_striker: CT Dhururu
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 33.5:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 33.6:
+        non_striker: J Nkomo
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 34.1:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 34.2:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 34.3:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 34.4:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+    - 34.5:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: J Nkomo
+    - 34.6:
+        non_striker: J Nkomo
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 35.1:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: J Nkomo
+        wicket:
+          player_out: J Nkomo
+          kind: lbw
+    - 35.2:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+    - 35.3:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Tshuma
+        wicket:
+          player_out: L Tshuma
+          fielders:
+          - S Jimmy
+          - L Rajadurai
+          kind: run out
+    - 35.4:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Phiri
+        batsman: CT Dhururu
+    - 35.5:
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: L Phiri
+        batsman: CT Dhururu
+    - 35.6:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 36.1:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 36.2:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 36.3:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 36.4:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 36.5:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 36.6:
+        non_striker: CT Dhururu
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 37.1:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 37.2:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 37.3:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 37.4:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 37.5:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 37.6:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 38.1:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 38.2:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 38.3:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 38.4:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 38.5:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 38.6:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 39.1:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 39.2:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Phiri
+    - 39.3:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 39.4:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 39.5:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 39.6:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CT Dhururu
+    - 40.1:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 40.2:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 40.3:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 40.4:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Phiri
+    - 40.5:
+        non_striker: L Phiri
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 40.6:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+    - 41.1:
+        non_striker: L Phiri
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 41.2:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Phiri
+        wicket:
+          player_out: L Phiri
+          fielders:
+          - N Vare
+          kind: caught
+    - 41.3:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.4:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.5:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 41.6:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 42.1:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 42.2:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 42.3:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 42.4:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 42.5:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 42.6:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 43.1:
+        non_striker: A Mazvishaya
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 43.2:
+        non_striker: A Mazvishaya
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 43.3:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 43.4:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 43.5:
+        non_striker: A Mazvishaya
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 43.6:
+        non_striker: A Mazvishaya
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 44.1:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Mazvishaya
+    - 44.2:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 44.3:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 44.4:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 44.5:
+        non_striker: CT Dhururu
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Mazvishaya
+    - 44.6:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CT Dhururu
+    - 44.7:
+        non_striker: A Mazvishaya
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CT Dhururu
+    - 45.1:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Mazvishaya
+    - 45.2:
+        non_striker: A Mazvishaya
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CT Dhururu
+    - 45.3:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+    - 45.4:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Mazvishaya
+        wicket:
+          player_out: A Mazvishaya
+          kind: bowled
+    - 45.5:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 45.6:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Sibanda
+    - 45.7:
+        non_striker: CT Dhururu
+        bowler: D Lohia
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Sibanda
+    - 46.1:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+    - 46.2:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Sibanda
+        wicket:
+          player_out: N Sibanda
+          fielders:
+          - B Tau
+          kind: caught
+    - 46.3:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+    - 46.4:
+        non_striker: CT Dhururu
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Mabhero
+        wicket:
+          player_out: L Mabhero
+          kind: lbw
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        non_striker: B Tau
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          kind: lbw
+    - 0.3:
+        non_striker: B Tau
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 0.4:
+        non_striker: B Tau
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 0.5:
+        non_striker: B Tau
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 0.6:
+        non_striker: B Tau
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 1.1:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.2:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.3:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: B Tau
+    - 1.4:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 1.5:
+        non_striker: B Tau
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 1.6:
+        non_striker: B Tau
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 2.1:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.2:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          kind: lbw
+    - 2.3:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.4:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.5:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 2.6:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 2.7:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 3.1:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.2:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.3:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.4:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.5:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 3.6:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 4.1:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 4.2:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 4.3:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 4.4:
+        non_striker: T Ruma
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 4.5:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.6:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.7:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 5.1:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.2:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.3:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.4:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.5:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 5.6:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 6.1:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 6.2:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.3:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.4:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 6.5:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.6:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 6.7:
+        non_striker: S Jimmy
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 7.1:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.2:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.3:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.4:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.5:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.6:
+        non_striker: T Ruma
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 8.1:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.2:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.3:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 8.4:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.5:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 8.6:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 9.1:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.2:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.3:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.4:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.5:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 9.6:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 10.1:
+        non_striker: T Ruma
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.2:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 10.3:
+        non_striker: T Ruma
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 10.4:
+        non_striker: T Ruma
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 10.5:
+        non_striker: T Ruma
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 10.6:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 11.1:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.2:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 11.3:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 11.4:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 11.5:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 11.6:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 12.1:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.2:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.3:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.4:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.5:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 12.6:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.1:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.2:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 13.3:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 13.4:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 13.5:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 13.6:
+        non_striker: S Jimmy
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.1:
+        non_striker: T Ruma
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 14.2:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.3:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.4:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.5:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.6:
+        non_striker: S Jimmy
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.1:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 15.2:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 15.3:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 15.4:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 15.5:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 15.6:
+        non_striker: T Ruma
+        bowler: L Mabhero
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 16.1:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Jimmy
+    - 16.2:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 16.3:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 16.4:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.5:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.6:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.7:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 17.1:
+        non_striker: T Ruma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 17.2:
+        non_striker: T Ruma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 17.3:
+        non_striker: T Ruma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 17.4:
+        non_striker: T Ruma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 17.5:
+        non_striker: T Ruma
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 17.6:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 18.1:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 18.2:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 18.3:
+        non_striker: T Ruma
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 18.4:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 18.5:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 18.6:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          fielders:
+          - CT Dhururu
+          kind: stumped
+    - 19.1:
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: P Siaka
+        batsman: S Jimmy
+    - 19.2:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 19.3:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 19.4:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 19.5:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Jimmy
+    - 19.6:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 19.7:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 20.1:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 20.2:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 20.3:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 20.4:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 20.5:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 20.6:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 21.1:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 21.2:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 21.3:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 21.4:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 21.5:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 21.6:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 22.1:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.2:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.3:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.4:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Siaka
+    - 22.5:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 22.6:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 23.1:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 23.2:
+        non_striker: P Siaka
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 23.3:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 23.4:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 23.5:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 23.6:
+        non_striker: S Jimmy
+        bowler: L Tshuma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 24.1:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 24.2:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 24.3:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 24.4:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 24.5:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 24.6:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: S Jimmy
+    - 24.7:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 25.1:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 25.2:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 25.3:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 25.4:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 25.5:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 25.6:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 26.1:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 26.2:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 26.3:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 26.4:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 26.5:
+        non_striker: P Siaka
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 26.6:
+        non_striker: S Jimmy
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 27.1:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 27.2:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 27.3:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 27.4:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 27.5:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 27.6:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 28.1:
+        non_striker: P Siaka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 28.2:
+        non_striker: P Siaka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 28.3:
+        non_striker: S Jimmy
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 28.4:
+        non_striker: P Siaka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 28.5:
+        non_striker: P Siaka
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 28.6:
+        non_striker: S Jimmy
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 29.1:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 29.2:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 29.3:
+        non_striker: S Jimmy
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 29.4:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Jimmy
+    - 29.5:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 29.6:
+        non_striker: P Siaka
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          fielders:
+          - CT Dhururu
+          kind: caught
+    - 30.1:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: bowled
+    - 30.2:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Melanie Ani
+        wicket:
+          player_out: Melanie Ani
+          fielders:
+          - CT Dhururu
+          kind: caught
+    - 30.3:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HJ Thomas
+    - 30.4:
+        non_striker: HJ Thomas
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 30.5:
+        non_striker: HJ Thomas
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 30.6:
+        non_striker: HJ Thomas
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: L Rajadurai
+    - 31.1:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Rajadurai
+    - 31.2:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 31.3:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 31.4:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 31.5:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 31.6:
+        non_striker: HJ Thomas
+        bowler: L Phiri
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 32.1:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 32.2:
+        non_striker: HJ Thomas
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 32.3:
+        non_striker: HJ Thomas
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Rajadurai
+    - 32.4:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 32.5:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 32.6:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 32.7:
+        non_striker: L Rajadurai
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 33.1:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Rajadurai
+    - 33.2:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 33.3:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Rajadurai
+    - 33.4:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 33.5:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Rajadurai
+    - 33.6:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 33.7:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 33.8:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 34.1:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 34.2:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 34.3:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 34.4:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 34.5:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 34.6:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 35.1:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 35.2:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 35.3:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 35.4:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 35.5:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: HJ Thomas
+    - 35.6:
+        non_striker: HJ Thomas
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Rajadurai
+    - 35.7:
+        non_striker: L Rajadurai
+        bowler: K Ndlovu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 36.1:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Rajadurai
+    - 36.2:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 36.3:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 36.4:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 36.5:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 36.6:
+        non_striker: HJ Thomas
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 37.1:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 37.2:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 37.3:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 37.4:
+        non_striker: HJ Thomas
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 37.5:
+        non_striker: HJ Thomas
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 37.6:
+        non_striker: HJ Thomas
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 38.1:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          kind: bowled
+    - 38.2:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 38.3:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 38.4:
+        non_striker: L Rajadurai
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 38.5:
+        non_striker: V Araa
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Rajadurai
+    - 38.6:
+        non_striker: V Araa
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Rajadurai
+    - 39.1:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Araa
+    - 39.2:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 39.3:
+        non_striker: L Rajadurai
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+        wicket:
+          player_out: L Rajadurai
+          fielders:
+          - J Nkomo
+          - CT Dhururu
+          kind: run out
+    - 39.4:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 39.5:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Toua
+    - 39.6:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 40.1:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 40.2:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 40.3:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Toua
+    - 40.4:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: I Toua
+    - 40.5:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 40.6:
+        non_striker: V Araa
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 40.7:
+        non_striker: I Toua
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 40.8:
+        non_striker: I Toua
+        bowler: N Sibanda
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 41.1:
+        non_striker: I Toua
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 41.2:
+        non_striker: I Toua
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 41.3:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 41.4:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 41.5:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          fielders:
+          - J Nkomo
+          kind: caught
+    - 41.6:
+        non_striker: V Araa
+        bowler: A Mazvishaya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+    - 42.1:
+        non_striker: D Lohia
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Araa
+    - 42.2:
+        non_striker: D Lohia
+        bowler: J Nkomo
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Araa
+    - 42.3:
+        non_striker: D Lohia
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 42.4:
+        non_striker: V Araa
+        bowler: J Nkomo
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Lohia
+        wicket:
+          player_out: D Lohia
+          fielders:
+          - CS Mugeri-Tiripano
+          - N Sibanda
+          kind: run out

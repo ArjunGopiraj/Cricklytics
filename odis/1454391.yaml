@@ -1,0 +1,4440 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2024-10-24'
+  gender: female
+  match_type: ODI
+  match_type_number: 1411
+  outcome:
+    winner: India
+    by:
+      runs: 59
+  overs: 50
+  player_of_match:
+  - DB Sharma
+  players:
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - YH Bhatia
+    - D Hemalatha
+    - JI Rodrigues
+    - TS Hasabnis
+    - DB Sharma
+    - A Reddy
+    - RP Yadav
+    - SZ Thakor
+    - Renuka Singh
+    New Zealand:
+    - SW Bates
+    - GE Plimmer
+    - LR Down
+    - SFM Devine
+    - BM Halliday
+    - ML Green
+    - IC Gaze
+    - JM Kerr
+    - AC Kerr
+    - MM Penfold
+    - EJ Carson
+  registry:
+    people:
+      A Reddy: eadc8924
+      AC Kerr: 7673c908
+      BM Halliday: efb6cb2a
+      CA Polosak: 26a360d2
+      D Hemalatha: 1d6ff329
+      DB Sharma: 201fef33
+      EJ Carson: 7693851c
+      GE Plimmer: 575494db
+      GS Lakshmi: ba8d5615
+      Gayathri Venugopal: 20e3ae99
+      HM Rowe: 8ca1f93a
+      IC Gaze: 60c250bf
+      JI Rodrigues: cb08b611
+      JM Kerr: 9af58032
+      LR Down: 19147fe0
+      ML Green: 865eae1f
+      MM Penfold: 645b2a2f
+      R Pandit: 8a604384
+      RP Yadav: 6c3aef71
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      SZ Thakor: 7d794fa6
+      Shafali Verma: d8f59089
+      TS Hasabnis: 9728fe6c
+      VG Rathi: 144e5b16
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - India
+  - New Zealand
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - CA Polosak
+  - R Pandit
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 1.2:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.3:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 1.4:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - GE Plimmer
+          kind: caught
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.3:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 2.4:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 2.5:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 2.6:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 3.1:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 3.2:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 3.4:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.5:
+        non_striker: YH Bhatia
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.6:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.7:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.1:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shafali Verma
+    - 4.2:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Shafali Verma
+    - 4.3:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Shafali Verma
+    - 4.4:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.5:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 4.6:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 4.7:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 5.1:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.2:
+        non_striker: YH Bhatia
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.3:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 5.4:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 5.5:
+        non_striker: YH Bhatia
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 5.6:
+        non_striker: Shafali Verma
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 6.1:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 6.2:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 6.3:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          fielders:
+          - BM Halliday
+          kind: caught
+    - 6.4:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 6.5:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 6.6:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 7.1:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 7.2:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.3:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.4:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 7.5:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.6:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 7.7:
+        non_striker: D Hemalatha
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 8.1:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 8.2:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 8.3:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 8.4:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 8.5:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 8.6:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 9.1:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 9.2:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 9.3:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+    - 9.4:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: D Hemalatha
+    - 9.5:
+        non_striker: D Hemalatha
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 9.6:
+        non_striker: D Hemalatha
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 10.1:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 10.2:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 10.3:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 10.4:
+        non_striker: D Hemalatha
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 10.5:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: D Hemalatha
+    - 10.6:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: D Hemalatha
+        wicket:
+          player_out: D Hemalatha
+          fielders:
+          - IC Gaze
+          kind: stumped
+    - 10.7:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.1:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 11.3:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 11.4:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.5:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.6:
+        non_striker: YH Bhatia
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.1:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: YH Bhatia
+    - 12.3:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 13.1:
+        non_striker: YH Bhatia
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 13.3:
+        non_striker: YH Bhatia
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.4:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 13.5:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 13.6:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 14.1:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.2:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 14.3:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 14.4:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.5:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 14.6:
+        non_striker: YH Bhatia
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.1:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - EJ Carson
+          kind: caught
+    - 15.2:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.3:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.4:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.5:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.6:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Hasabnis
+    - 16.1:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 16.2:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Hasabnis
+    - 16.3:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.4:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.5:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.6:
+        non_striker: JI Rodrigues
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.1:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 17.2:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.3:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.4:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.5:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.6:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 18.1:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 18.2:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 18.3:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 18.4:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.5:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 19.1:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 19.2:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 19.3:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TS Hasabnis
+    - 19.4:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 19.5:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 19.6:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Hasabnis
+    - 20.1:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 20.2:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 20.3:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 20.4:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 20.5:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 20.6:
+        non_striker: TS Hasabnis
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.1:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 21.2:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.3:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TS Hasabnis
+    - 21.4:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 21.5:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.6:
+        non_striker: JI Rodrigues
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 22.1:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.2:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.3:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.4:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.5:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Hasabnis
+    - 22.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 23.1:
+        non_striker: JI Rodrigues
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 23.2:
+        non_striker: JI Rodrigues
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 23.3:
+        non_striker: TS Hasabnis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 23.4:
+        non_striker: JI Rodrigues
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 23.5:
+        non_striker: TS Hasabnis
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 23.6:
+        non_striker: JI Rodrigues
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 24.1:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 24.2:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 24.3:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 24.4:
+        non_striker: JI Rodrigues
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 24.5:
+        non_striker: JI Rodrigues
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 24.6:
+        non_striker: JI Rodrigues
+        bowler: SW Bates
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: TS Hasabnis
+    - 24.7:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.2:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 25.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.4:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 25.5:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 25.6:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 26.1:
+        non_striker: JI Rodrigues
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 26.2:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 26.3:
+        non_striker: JI Rodrigues
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 26.4:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 26.5:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: lbw
+    - 26.6:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.2:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.4:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.5:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 27.6:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 28.1:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 28.2:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 28.3:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 28.4:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 28.5:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 28.6:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 29.1:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 29.2:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 29.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 29.4:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 29.5:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 29.6:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 30.1:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 30.2:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 30.3:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 30.4:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 30.5:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 30.6:
+        non_striker: TS Hasabnis
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DB Sharma
+    - 31.2:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 31.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.4:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 31.5:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 31.6:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 31.7:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 32.1:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 32.2:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 32.3:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 32.4:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 32.5:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 32.6:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 33.1:
+        non_striker: TS Hasabnis
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 33.2:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 33.3:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+        wicket:
+          player_out: TS Hasabnis
+          fielders:
+          - IC Gaze
+          kind: stumped
+    - 33.4:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 33.5:
+        non_striker: A Reddy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 33.6:
+        non_striker: A Reddy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.1:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 34.3:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 34.4:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 34.5:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 34.6:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 35.1:
+        non_striker: A Reddy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 35.2:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 35.3:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 35.4:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 35.5:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 35.6:
+        non_striker: A Reddy
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 36.1:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 36.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 36.3:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 36.4:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 36.5:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 36.6:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 37.1:
+        non_striker: DB Sharma
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 37.2:
+        non_striker: A Reddy
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 37.3:
+        non_striker: DB Sharma
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 37.4:
+        non_striker: DB Sharma
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: A Reddy
+    - 37.5:
+        non_striker: A Reddy
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 37.6:
+        non_striker: A Reddy
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 37.7:
+        non_striker: A Reddy
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 37.8:
+        non_striker: A Reddy
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.1:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 38.2:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 38.3:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 38.4:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 38.5:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 38.6:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 39.1:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Reddy
+    - 39.2:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 39.3:
+        non_striker: A Reddy
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 39.4:
+        non_striker: DB Sharma
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 39.5:
+        non_striker: A Reddy
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 39.6:
+        non_striker: A Reddy
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 39.7:
+        non_striker: A Reddy
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 40.1:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 40.2:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 40.3:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 40.4:
+        non_striker: A Reddy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 40.5:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 40.6:
+        non_striker: A Reddy
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 41.1:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+        wicket:
+          player_out: A Reddy
+          fielders:
+          - HM Rowe (sub)
+          kind: caught
+    - 41.2:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 41.3:
+        non_striker: RP Yadav
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 41.4:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 41.5:
+        non_striker: RP Yadav
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 41.6:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 42.1:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+        wicket:
+          player_out: RP Yadav
+          kind: caught and bowled
+    - 42.2:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 42.3:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 42.4:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 42.5:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 42.6:
+        non_striker: DB Sharma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 43.1:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 43.2:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+        wicket:
+          player_out: SZ Thakor
+          fielders:
+          - HM Rowe (sub)
+          kind: caught
+    - 43.3:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.4:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.5:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.6:
+        non_striker: DB Sharma
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 44.1:
+        non_striker: Renuka Singh
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 44.2:
+        non_striker: Renuka Singh
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 44.3:
+        non_striker: Renuka Singh
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 44.4:
+        non_striker: Renuka Singh
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          kind: bowled
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 0.2:
+        non_striker: SW Bates
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 0.3:
+        non_striker: SW Bates
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 0.4:
+        non_striker: SW Bates
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 0.5:
+        non_striker: SW Bates
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 0.6:
+        non_striker: SW Bates
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 1.1:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.2:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.3:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - YH Bhatia
+          kind: caught
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 1.6:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.1:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.2:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 2.3:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 2.4:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.5:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 2.6:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 2.7:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.1:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.2:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.3:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.4:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: LR Down
+    - 3.5:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 3.6:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.1:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.2:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 4.3:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.4:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.5:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 4.6:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 5.1:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 5.3:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.4:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.5:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 5.6:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 6.1:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.2:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 6.3:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.4:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 6.5:
+        non_striker: GE Plimmer
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 6.6:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 6.7:
+        non_striker: LR Down
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.1:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.2:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 7.3:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 7.4:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.5:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.6:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.1:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.2:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: LR Down
+    - 8.3:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.4:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.5:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 8.6:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 9.1:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 9.2:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 9.3:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 9.4:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.5:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          kind: caught and bowled
+    - 9.6:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 10.1:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 10.2:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 10.4:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 10.5:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 10.6:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.1:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 11.2:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 11.3:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 11.4:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 11.5:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 11.6:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - YH Bhatia
+          - DB Sharma
+          kind: run out
+    - 12.1:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 12.2:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 12.3:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Halliday
+    - 12.4:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 12.5:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 12.6:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 12.7:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 13.1:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 13.2:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 13.3:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 13.4:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 13.5:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 13.6:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 14.1:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 14.2:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 14.3:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 14.4:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 14.5:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 14.6:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.1:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 15.2:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 15.3:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 15.4:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 15.5:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 15.6:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 16.1:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 16.2:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 16.3:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 16.4:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 16.5:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 16.6:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 17.1:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.2:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 17.3:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.4:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 17.5:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.6:
+        non_striker: LR Down
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 18.1:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 18.2:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 18.3:
+        non_striker: LR Down
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 18.4:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 18.5:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+        wicket:
+          player_out: LR Down
+          fielders:
+          - TS Hasabnis
+          kind: caught
+    - 18.6:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.1:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 19.2:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 19.3:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 19.4:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 19.5:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.6:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.1:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 20.2:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 20.3:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 20.4:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.5:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 20.6:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.1:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.2:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 21.3:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 21.4:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.5:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.6:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 22.1:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 22.2:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 22.3:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 22.4:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 22.5:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 22.6:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 23.1:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 23.2:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 23.3:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 23.4:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 23.5:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: ML Green
+    - 23.6:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 23.7:
+        non_striker: BM Halliday
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.1:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 24.2:
+        non_striker: ML Green
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 24.3:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 24.4:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 24.5:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.6:
+        non_striker: BM Halliday
+        bowler: D Hemalatha
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 25.1:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 25.2:
+        non_striker: BM Halliday
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 25.3:
+        non_striker: BM Halliday
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 25.4:
+        non_striker: BM Halliday
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 25.5:
+        non_striker: BM Halliday
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 25.6:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 26.1:
+        non_striker: BM Halliday
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 26.2:
+        non_striker: BM Halliday
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 26.3:
+        non_striker: BM Halliday
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.4:
+        non_striker: ML Green
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 26.5:
+        non_striker: ML Green
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 26.6:
+        non_striker: BM Halliday
+        bowler: Shafali Verma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 27.1:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.2:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.3:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.4:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.5:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 27.6:
+        non_striker: BM Halliday
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 28.1:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.2:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.3:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 28.4:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 28.5:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 28.6:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 29.1:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          kind: caught and bowled
+    - 29.2:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 29.3:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 29.4:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: ML Green
+          fielders:
+          - S Mandhana
+          kind: run out
+    - 29.5:
+        non_striker: IC Gaze
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 29.6:
+        non_striker: JM Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 30.1:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 30.2:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 30.3:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 30.4:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          fielders:
+          - SZ Thakor
+          kind: caught
+    - 30.5:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 30.6:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 31.1:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 31.2:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 31.3:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 31.4:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 31.5:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 31.6:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IC Gaze
+    - 31.7:
+        non_striker: AC Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 32.1:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 32.2:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 32.3:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 32.4:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 32.5:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 32.6:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 33.1:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 33.2:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 33.3:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 33.4:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 33.5:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 33.6:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 33.7:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 34.1:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 34.2:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 34.3:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 34.4:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 34.5:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 34.6:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 35.1:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 35.2:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 35.3:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 35.4:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 35.5:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 35.6:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.1:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 36.2:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.3:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.4:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 36.5:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 36.6:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 37.1:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 37.2:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 37.3:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 37.4:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 37.5:
+        non_striker: IC Gaze
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 37.6:
+        non_striker: AC Kerr
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 38.1:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 38.2:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 38.3:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 38.4:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 38.5:
+        non_striker: AC Kerr
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 38.6:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 39.1:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 39.2:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 39.3:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 39.4:
+        non_striker: AC Kerr
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 39.5:
+        non_striker: AC Kerr
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          fielders:
+          - SZ Thakor
+          kind: caught
+    - 39.6:
+        non_striker: AC Kerr
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MM Penfold
+    - 40.1:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 40.2:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+    - 40.3:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MM Penfold
+        wicket:
+          player_out: MM Penfold
+          kind: bowled
+    - 40.4:
+        non_striker: AC Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+        wicket:
+          player_out: EJ Carson
+          fielders:
+          - D Hemalatha
+          - RP Yadav
+          kind: run out

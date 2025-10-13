@@ -1,0 +1,3345 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-11'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2025-04-11'
+  gender: female
+  match_type: ODI
+  match_type_number: 1445
+  outcome:
+    winner: Pakistan
+    by:
+      wickets: 6
+  overs: 50
+  player_of_match:
+  - Aliya Riaz
+  players:
+    Scotland:
+    - A Aitken-Drummond
+    - PN Sproul
+    - KE Bryce
+    - SJ Bryce
+    - A Lister
+    - M McColl
+    - K Fraser
+    - PA Chatterji
+    - C Abel
+    - AH Maqsood
+    - R Slater
+    Pakistan:
+    - Muneeba Ali
+    - Gull Feroza
+    - Sidra Ameen
+    - Aliya Riaz
+    - Fatima Sana
+    - Sidra Nawaz
+    - Umaima Sohail
+    - Rameen Shamim
+    - Diana Baig
+    - Nashra Sandhu
+    - Sadia Iqbal
+  registry:
+    people:
+      A Aitken-Drummond: 25c73eb6
+      A Lister: '090c0213'
+      AH Maqsood: f61e2829
+      Aliya Riaz: 2904b4b6
+      C Abel: d92d3563
+      C La Borde: 32157f67
+      DM Koch: 6d10c034
+      Diana Baig: a51e6c6e
+      Fatima Sana: ea9c54de
+      Gull Feroza: 9ff1e91e
+      K Fraser: a0a65375
+      KE Bryce: f13d3eba
+      LDVV Silva: 6e226c31
+      M McColl: d5fa2ab3
+      Muneeba Ali: 86fdf668
+      Nashra Sandhu: c981d3c2
+      PA Chatterji: 8e7be59c
+      PN Sproul: 789fe152
+      R Slater: 8a452195
+      Rameen Shamim: 0b78b7c1
+      SA Fritz: d15e60c8
+      SJ Bryce: 2ca65aee
+      Sadia Iqbal: 53bb50f0
+      Shathira Jakir: 6b992a6f
+      Sidra Ameen: 72c9ad99
+      Sidra Nawaz: ca3ded6f
+      Umaima Sohail: 821d7d46
+  teams:
+  - Scotland
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - LDVV Silva
+  - DM Koch
+  venue: Lahore City Cricket Association Ground
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Aitken-Drummond
+    - 0.2:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken-Drummond
+    - 0.3:
+        non_striker: A Aitken-Drummond
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 0.4:
+        non_striker: A Aitken-Drummond
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 0.5:
+        non_striker: A Aitken-Drummond
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 0.6:
+        non_striker: A Aitken-Drummond
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PN Sproul
+    - 0.7:
+        non_striker: A Aitken-Drummond
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 1.1:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 1.2:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 1.3:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+        wicket:
+          player_out: A Aitken-Drummond
+          fielders:
+          - Rameen Shamim
+          kind: caught
+    - 1.4:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.5:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 1.6:
+        non_striker: PN Sproul
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.1:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PN Sproul
+    - 2.2:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 2.3:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PN Sproul
+    - 2.4:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 2.5:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 2.6:
+        non_striker: PN Sproul
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 3.1:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 3.2:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 3.3:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PN Sproul
+    - 3.4:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 3.5:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 3.6:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PN Sproul
+    - 4.1:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: PN Sproul
+    - 4.2:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+    - 4.3:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PN Sproul
+        wicket:
+          player_out: PN Sproul
+          kind: lbw
+    - 4.4:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 4.5:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SJ Bryce
+    - 4.6:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 4.7:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 5.1:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.2:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 5.3:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.4:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 5.5:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 5.6:
+        non_striker: SJ Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 6.1:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.2:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.3:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.4:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.5:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 6.6:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 7.1:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.2:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.3:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 7.4:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 7.5:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 7.6:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 8.1:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.2:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 8.3:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 8.4:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 8.5:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 8.6:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.1:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 9.2:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 9.3:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.4:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.5:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 9.6:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.1:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 10.2:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 10.3:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.4:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 10.5:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 10.6:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.1:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 11.2:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 11.3:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 11.4:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 11.5:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 11.6:
+        non_striker: SJ Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 11.7:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.1:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 12.2:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.3:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.4:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 12.5:
+        non_striker: SJ Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 12.6:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SJ Bryce
+    - 13.1:
+        non_striker: SJ Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.2:
+        non_striker: SJ Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.3:
+        non_striker: SJ Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 13.4:
+        non_striker: SJ Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 13.5:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 13.6:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SJ Bryce
+    - 14.1:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+    - 14.2:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SJ Bryce
+        wicket:
+          player_out: SJ Bryce
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 14.3:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 14.4:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 14.5:
+        non_striker: A Lister
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 14.6:
+        non_striker: A Lister
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 15.1:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.2:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 15.3:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 15.4:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 15.5:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 15.6:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 16.1:
+        non_striker: A Lister
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 16.2:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 16.3:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 16.4:
+        non_striker: KE Bryce
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 16.5:
+        non_striker: A Lister
+        bowler: Rameen Shamim
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: KE Bryce
+    - 16.6:
+        non_striker: A Lister
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 17.1:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 17.2:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 17.3:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 17.4:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 17.5:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 17.6:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 18.1:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 18.2:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 18.3:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 18.4:
+        non_striker: A Lister
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 18.5:
+        non_striker: A Lister
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 18.6:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 19.1:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: KE Bryce
+    - 19.2:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 19.3:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 19.4:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 19.5:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+    - 19.6:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 19.7:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 20.1:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 20.2:
+        non_striker: A Lister
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 20.3:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Lister
+    - 20.4:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 20.5:
+        non_striker: A Lister
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 20.6:
+        non_striker: KE Bryce
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 21.1:
+        non_striker: KE Bryce
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Lister
+    - 21.2:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 21.3:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 21.4:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 21.5:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 21.6:
+        non_striker: A Lister
+        bowler: Umaima Sohail
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 22.1:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Lister
+        wicket:
+          player_out: A Lister
+          fielders:
+          - Sidra Ameen
+          kind: caught
+    - 22.2:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 22.3:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 22.4:
+        non_striker: M McColl
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 22.5:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 22.6:
+        non_striker: M McColl
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 23.1:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 23.2:
+        non_striker: M McColl
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 23.3:
+        non_striker: M McColl
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 23.4:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          kind: bowled
+    - 23.5:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 23.6:
+        non_striker: K Fraser
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 24.1:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 24.2:
+        non_striker: K Fraser
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 24.3:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 24.4:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 24.5:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 24.6:
+        non_striker: K Fraser
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 25.1:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 25.2:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: K Fraser
+    - 25.3:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 25.4:
+        non_striker: K Fraser
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 25.5:
+        non_striker: K Fraser
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 25.6:
+        non_striker: K Fraser
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 25.7:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Fraser
+    - 25.8:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 26.1:
+        non_striker: K Fraser
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 26.2:
+        non_striker: K Fraser
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 26.3:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+    - 26.4:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 26.5:
+        non_striker: K Fraser
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 26.6:
+        non_striker: KE Bryce
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 27.1:
+        non_striker: K Fraser
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 27.2:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+        wicket:
+          player_out: K Fraser
+          fielders:
+          - Aliya Riaz
+          kind: caught
+    - 27.3:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 27.4:
+        non_striker: PA Chatterji
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 27.5:
+        non_striker: PA Chatterji
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 27.6:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 28.1:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 28.2:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 28.3:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 28.4:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 28.5:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 28.6:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 29.1:
+        non_striker: PA Chatterji
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KE Bryce
+    - 29.2:
+        non_striker: PA Chatterji
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 29.3:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 29.4:
+        non_striker: PA Chatterji
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 29.5:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 29.6:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 30.1:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+    - 30.2:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+    - 30.3:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 30.4:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PA Chatterji
+    - 30.5:
+        non_striker: KE Bryce
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 30.6:
+        non_striker: PA Chatterji
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: KE Bryce
+    - 31.1:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          kind: bowled
+    - 31.2:
+        non_striker: KE Bryce
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Abel
+    - 31.3:
+        non_striker: C Abel
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 31.4:
+        non_striker: C Abel
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: KE Bryce
+    - 31.5:
+        non_striker: C Abel
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KE Bryce
+        wicket:
+          player_out: C Abel
+          fielders:
+          - Aliya Riaz
+          - Fatima Sana
+          kind: run out
+    - 31.6:
+        non_striker: AH Maqsood
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KE Bryce
+        wicket:
+          player_out: KE Bryce
+          kind: bowled
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Gull Feroza
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 0.2:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 0.5:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 0.6:
+        non_striker: Gull Feroza
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Gull Feroza
+    - 1.3:
+        non_striker: Gull Feroza
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.4:
+        non_striker: Gull Feroza
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.5:
+        non_striker: Gull Feroza
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 1.7:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 2.1:
+        non_striker: Gull Feroza
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Gull Feroza
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Gull Feroza
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 2.4:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 2.5:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 2.6:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Gull Feroza
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Gull Feroza
+        wicket:
+          player_out: Gull Feroza
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 3.3:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.5:
+        non_striker: Sidra Ameen
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 3.7:
+        non_striker: Sidra Ameen
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.8:
+        non_striker: Sidra Ameen
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Sidra Ameen
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 4.2:
+        non_striker: Sidra Ameen
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 4.3:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.5:
+        non_striker: Muneeba Ali
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 4.7:
+        non_striker: Sidra Ameen
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Muneeba Ali
+    - 4.8:
+        non_striker: Sidra Ameen
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.3:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sidra Ameen
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 5.7:
+        non_striker: Sidra Ameen
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.1:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.2:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 6.3:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.4:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.5:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Sidra Ameen
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.1:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.2:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - SJ Bryce
+          kind: stumped
+    - 7.3:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 7.4:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.5:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 7.6:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 8.1:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 8.3:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.4:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 8.5:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.6:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.7:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.1:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 9.4:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 9.5:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 9.6:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.1:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.3:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.5:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 10.6:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 11.1:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 11.2:
+        non_striker: Muneeba Ali
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 11.3:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.4:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.5:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 11.6:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 12.1:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.2:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.3:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 12.5:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 12.6:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 12.7:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 13.1:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.4:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Aliya Riaz
+    - 13.5:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 13.6:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 14.1:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.2:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 14.3:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aliya Riaz
+    - 14.4:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 14.5:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 14.6:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 15.1:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.3:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.4:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 15.5:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.6:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.1:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.2:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 16.3:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.4:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 16.5:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 16.6:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 16.7:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 17.1:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.2:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.3:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.4:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 17.5:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.6:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 18.1:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.2:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.3:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 18.4:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 18.5:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 18.6:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 19.1:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 19.2:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 19.3:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.4:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.5:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 19.6:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.7:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 20.1:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 20.2:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 20.3:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Muneeba Ali
+    - 20.4:
+        non_striker: Muneeba Ali
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 20.5:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 20.6:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.1:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.2:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.3:
+        non_striker: Muneeba Ali
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 21.4:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.5:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.6:
+        non_striker: Aliya Riaz
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 22.1:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 22.2:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.3:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 22.4:
+        non_striker: Muneeba Ali
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 22.5:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 22.6:
+        non_striker: Aliya Riaz
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.1:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 23.2:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Muneeba Ali
+    - 23.3:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.4:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.5:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - A Lister
+          kind: caught
+    - 23.6:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 24.1:
+        non_striker: Aliya Riaz
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 24.2:
+        non_striker: Aliya Riaz
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 24.3:
+        non_striker: Fatima Sana
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 24.4:
+        non_striker: Fatima Sana
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.5:
+        non_striker: Aliya Riaz
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 24.6:
+        non_striker: Aliya Riaz
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 25.1:
+        non_striker: Fatima Sana
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 25.2:
+        non_striker: Fatima Sana
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.3:
+        non_striker: Fatima Sana
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 25.4:
+        non_striker: Fatima Sana
+        bowler: C Abel
+        runs:
+          extras: 5
+          total: 6
+          batsman: 1
+        extras:
+          penalty: 5
+        batsman: Aliya Riaz
+    - 25.5:
+        non_striker: Aliya Riaz
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 25.6:
+        non_striker: Fatima Sana
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 26.1:
+        non_striker: Fatima Sana
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.2:
+        non_striker: Fatima Sana
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 26.3:
+        non_striker: Fatima Sana
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.4:
+        non_striker: Fatima Sana
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.5:
+        non_striker: Fatima Sana
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 26.6:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 26.7:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          fielders:
+          - C Abel
+          kind: caught
+    - 27.1:
+        non_striker: Sidra Nawaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 27.2:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 27.3:
+        non_striker: Sidra Nawaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 27.4:
+        non_striker: Sidra Nawaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 27.5:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 27.6:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 28.1:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 28.2:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 28.3:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.4:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 28.5:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.6:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Nawaz
+    - 29.1:
+        non_striker: Sidra Nawaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.2:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 29.3:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 29.4:
+        non_striker: Sidra Nawaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.5:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 29.6:
+        non_striker: Aliya Riaz
+        bowler: KE Bryce
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Nawaz
+    - 30.1:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.2:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Nawaz
+    - 30.3:
+        non_striker: Aliya Riaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Nawaz
+    - 30.4:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.5:
+        non_striker: Sidra Nawaz
+        bowler: R Slater
+        runs:
+          extras: 1
+          total: 5
+          batsman: 4
+        extras:
+          noballs: 1
+        batsman: Aliya Riaz

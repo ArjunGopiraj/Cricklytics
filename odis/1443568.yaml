@@ -1,0 +1,1987 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-05'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Napier
+  dates:
+  - '2025-03-04'
+  gender: female
+  match_type: ODI
+  match_type_number: 1439
+  outcome:
+    result: no result
+  overs: 50
+  players:
+    Sri Lanka:
+    - RMVD Gunaratne
+    - AC Jayangani
+    - H Madavi
+    - WK Dilhari
+    - M Nanayakkara
+    - NND de Silva
+    - MAA Sanjeewani
+    - BMSM Kumari
+    - SIP Fernando
+    - WGAKK Kulasuriya
+    - AGC Vimukthi
+    New Zealand:
+    - SW Bates
+    - GE Plimmer
+    - EMA McLeod
+    - BM Halliday
+    - ML Green
+    - IC Gaze
+    - JM Kerr
+    - PM Inglis
+    - HM Rowe
+    - EJ Carson
+    - BG Illing
+  registry:
+    people:
+      AC Jayangani: ac56b5a7
+      AGC Vimukthi: 87e5a75b
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      BMSM Kumari: b55fb828
+      EJ Carson: 7693851c
+      EMA McLeod: 1f1ee021
+      Eloise Sheridan: d8d43840
+      GE Plimmer: 575494db
+      GG Pennell: d9376677
+      H Madavi: 85021bcd
+      HM Rowe: 8ca1f93a
+      IC Gaze: 60c250bf
+      JM Kerr: 9af58032
+      KS Jagannathan: 9bc8dcec
+      M Nanayakkara: d661bc57
+      MAA Sanjeewani: 318a4039
+      ML Green: 865eae1f
+      NND de Silva: f0b4294e
+      PM Inglis: e4a71d18
+      R Black: 156c8fb1
+      RE Hayward: 57689d0b
+      RMVD Gunaratne: 9e866b59
+      SIP Fernando: 5838cb64
+      SW Bates: 89bbc67a
+      WGAKK Kulasuriya: 550373ea
+      WK Dilhari: c34a15e6
+  teams:
+  - Sri Lanka
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - Eloise Sheridan
+  - R Black
+  venue: McLean Park, Napier
+innings:
+- 1st innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 0.4:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.5:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMVD Gunaratne
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 1.4:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMVD Gunaratne
+    - 1.7:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 2.1:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.7:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 2.8:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 3.1:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 3.4:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 4.1:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.6:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.1:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.4:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - JM Kerr
+          kind: caught
+    - 6.6:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 6.7:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 7.1:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.2:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.3:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.4:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 7.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Madavi
+    - 7.6:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 8.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 8.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: RMVD Gunaratne
+    - 8.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.5:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMVD Gunaratne
+    - 8.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.7:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.8:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 9.1:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.2:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.3:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.4:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.6:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 10.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 10.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 10.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMVD Gunaratne
+    - 10.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 10.5:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 10.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 10.7:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 11.1:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 11.2:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RMVD Gunaratne
+    - 11.3:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 11.4:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 11.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 11.6:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 12.1:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 12.2:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 12.3:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 12.4:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 12.5:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 12.6:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 13.1:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 13.2:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 13.3:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 13.4:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 13.5:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 13.6:
+        non_striker: RMVD Gunaratne
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 14.1:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 14.2:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 14.3:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 14.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 14.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 14.6:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 15.1:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 15.2:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 15.3:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 15.4:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 15.5:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 15.6:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 16.1:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 16.2:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Madavi
+    - 16.3:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 16.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: RMVD Gunaratne
+    - 16.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 16.6:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 16.7:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 17.1:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 17.2:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 17.3:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 17.4:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 17.5:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 17.6:
+        non_striker: RMVD Gunaratne
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 18.1:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 18.2:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 18.3:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - PM Inglis
+          kind: caught
+    - 18.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.6:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 19.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 19.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 19.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 19.4:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 19.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 19.6:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 20.1:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 20.2:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 20.3:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 20.4:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 20.5:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 20.6:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 21.1:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 21.2:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 21.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 21.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 21.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: H Madavi
+    - 21.6:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.1:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 22.2:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 22.3:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 22.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.5:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.7:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 23.1:
+        non_striker: WK Dilhari
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 23.2:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 23.3:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 23.4:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 23.5:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          fielders:
+          - EMA McLeod
+          kind: caught
+    - 23.6:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Nanayakkara
+    - 24.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nanayakkara
+    - 24.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Nanayakkara
+        wicket:
+          player_out: M Nanayakkara
+          kind: lbw
+    - 24.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.5:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 25.1:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 25.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 25.3:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 25.4:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 25.5:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 25.6:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 26.1:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 26.2:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 26.3:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 26.4:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 26.5:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 26.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 26.7:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 26.8:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 27.1:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 27.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 27.3:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 27.4:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 27.5:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 27.6:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 28.1:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 28.2:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 28.3:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 28.4:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 28.5:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 28.6:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 29.1:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 29.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 29.3:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 29.4:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 29.5:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 29.6:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 30.1:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: NND de Silva
+    - 30.2:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 30.3:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 30.4:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 30.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 30.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 31.1:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 31.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 31.3:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 31.4:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 31.5:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 31.6:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 32.1:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.2:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.3:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 32.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 32.5:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.6:
+        non_striker: H Madavi
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 33.1:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Madavi
+    - 33.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 33.3:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 33.4:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 33.5:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 33.6:
+        non_striker: H Madavi
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 34.1:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 34.2:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 34.3:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 34.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 34.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 34.6:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+        wicket:
+          player_out: NND de Silva
+          fielders:
+          - EJ Carson
+          kind: run out
+    - 35.1:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 35.2:
+        non_striker: MAA Sanjeewani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 35.3:
+        non_striker: MAA Sanjeewani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 35.4:
+        non_striker: H Madavi
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 35.5:
+        non_striker: MAA Sanjeewani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 35.6:
+        non_striker: MAA Sanjeewani
+        bowler: HM Rowe
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 36.1:
+        non_striker: MAA Sanjeewani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 36.2:
+        non_striker: MAA Sanjeewani
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 36.3:
+        non_striker: MAA Sanjeewani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 36.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani

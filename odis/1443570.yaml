@@ -1,0 +1,5148 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-03-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Nelson
+  dates:
+  - '2025-03-09'
+  gender: female
+  match_type: ODI
+  match_type_number: 1441
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 98
+  overs: 50
+  player_of_match:
+  - GE Plimmer
+  players:
+    New Zealand:
+    - SW Bates
+    - GE Plimmer
+    - EMA McLeod
+    - BM Halliday
+    - ML Green
+    - IC Gaze
+    - JM Kerr
+    - PM Inglis
+    - EJ Carson
+    - FC Jonas
+    - BG Illing
+    Sri Lanka:
+    - RMVD Gunaratne
+    - AC Jayangani
+    - H Madavi
+    - I Dulani
+    - WK Dilhari
+    - NND de Silva
+    - MAA Sanjeewani
+    - S Nisansala
+    - BMSM Kumari
+    - WGAKK Kulasuriya
+    - AGC Vimukthi
+  registry:
+    people:
+      AC Jayangani: ac56b5a7
+      AGC Vimukthi: 87e5a75b
+      BG Illing: 80a0cd77
+      BM Halliday: efb6cb2a
+      BMSM Kumari: b55fb828
+      C Black: 75b42f71
+      EJ Black: 2817e17a
+      EJ Carson: 7693851c
+      EMA McLeod: 1f1ee021
+      Eloise Sheridan: d8d43840
+      FC Jonas: 6df697a9
+      GE Plimmer: 575494db
+      GG Pennell: d9376677
+      H Madavi: 85021bcd
+      I Dulani: a2c23f31
+      IC Gaze: 60c250bf
+      JM Kerr: 9af58032
+      MAA Sanjeewani: 318a4039
+      ML Green: 865eae1f
+      NND de Silva: f0b4294e
+      PM Inglis: e4a71d18
+      RE Hayward: 57689d0b
+      RMVD Gunaratne: 9e866b59
+      S Nisansala: 1251a339
+      SB Haig: 811655b3
+      SW Bates: 89bbc67a
+      WGAKK Kulasuriya: 550373ea
+      WK Dilhari: c34a15e6
+  teams:
+  - New Zealand
+  - Sri Lanka
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - SB Haig
+  venue: Saxton Oval, Nelson
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 1.2:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 1.3:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: GE Plimmer
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.6:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 2.2:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.3:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.4:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 2.5:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 2.6:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.1:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.2:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.3:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 3.4:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 3.5:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 3.6:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 4.1:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.2:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.3:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.4:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 4.5:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.6:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.3:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 5.4:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 5.5:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 5.6:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.1:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.2:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.3:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.4:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.5:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.6:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.1:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.2:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 7.3:
+        non_striker: SW Bates
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 7.4:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.5:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.6:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 8.1:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.2:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.3:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 8.4:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.5:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.6:
+        non_striker: SW Bates
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.1:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.2:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.3:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.4:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 9.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.1:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.2:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 10.3:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.4:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 10.5:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 10.6:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 11.1:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.2:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.3:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.4:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 11.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 11.6:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 12.1:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 12.2:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 12.4:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.5:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 12.6:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.1:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 13.2:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 13.3:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GE Plimmer
+    - 13.4:
+        non_striker: SW Bates
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.1:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.2:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.4:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 14.5:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 14.6:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.1:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 15.2:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.3:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.4:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.5:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 15.6:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.1:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.2:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 16.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.4:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.5:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.6:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 17.1:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 17.2:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.3:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 17.4:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 17.5:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 17.6:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 18.1:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: GE Plimmer
+    - 18.2:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.3:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 18.4:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.5:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 18.6:
+        non_striker: SW Bates
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 19.1:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 19.2:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 19.3:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 19.4:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 19.5:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.6:
+        non_striker: SW Bates
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 20.1:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 20.2:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 20.3:
+        non_striker: SW Bates
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 20.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.5:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 20.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.7:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.1:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 21.2:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.3:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.4:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 21.5:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 21.6:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 22.1:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 22.2:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 22.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 22.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMA McLeod
+    - 22.5:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 22.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 23.1:
+        non_striker: EMA McLeod
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 23.2:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMA McLeod
+    - 23.3:
+        non_striker: EMA McLeod
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 23.4:
+        non_striker: EMA McLeod
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 23.5:
+        non_striker: EMA McLeod
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 23.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 24.1:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 24.2:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 24.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMA McLeod
+    - 24.4:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 24.5:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 24.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 25.1:
+        non_striker: EMA McLeod
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 25.2:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 25.3:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 25.4:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 25.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 25.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 26.1:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 26.2:
+        non_striker: EMA McLeod
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 26.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 26.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 26.5:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 26.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EMA McLeod
+    - 27.1:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+    - 27.2:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EMA McLeod
+        wicket:
+          player_out: EMA McLeod
+          fielders:
+          - MAA Sanjeewani
+          kind: caught
+    - 27.3:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.4:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 28.1:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 28.2:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 28.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.5:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 29.1:
+        non_striker: BM Halliday
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 29.2:
+        non_striker: BM Halliday
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 29.3:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 29.4:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 29.5:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 29.6:
+        non_striker: BM Halliday
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 30.1:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 30.2:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: GE Plimmer
+    - 30.3:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 30.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 30.5:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 30.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 30.7:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 31.1:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 31.2:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 31.3:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 31.4:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 31.5:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 31.6:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 32.1:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 32.2:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 32.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 32.4:
+        non_striker: BM Halliday
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 32.5:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 32.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 33.1:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 33.2:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 33.3:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 33.4:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 33.5:
+        non_striker: GE Plimmer
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 33.6:
+        non_striker: BM Halliday
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 34.1:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 34.2:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 34.3:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 34.4:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: BM Halliday
+    - 34.5:
+        non_striker: BM Halliday
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 34.6:
+        non_striker: BM Halliday
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 35.1:
+        non_striker: BM Halliday
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 35.2:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 35.3:
+        non_striker: BM Halliday
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 35.4:
+        non_striker: BM Halliday
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 35.5:
+        non_striker: BM Halliday
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 35.6:
+        non_striker: GE Plimmer
+        bowler: AGC Vimukthi
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 36.1:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 36.2:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 36.3:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 36.4:
+        non_striker: BM Halliday
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 36.5:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 36.6:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 37.1:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 37.2:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 37.3:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 37.4:
+        non_striker: BM Halliday
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 37.5:
+        non_striker: BM Halliday
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 37.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 38.1:
+        non_striker: BM Halliday
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 38.2:
+        non_striker: BM Halliday
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 38.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 38.4:
+        non_striker: BM Halliday
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 38.5:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          kind: bowled
+    - 38.6:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 39.1:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 39.2:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 39.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 39.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 39.5:
+        non_striker: ML Green
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 39.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 40.1:
+        non_striker: ML Green
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 40.2:
+        non_striker: ML Green
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 40.3:
+        non_striker: ML Green
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 40.4:
+        non_striker: ML Green
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GE Plimmer
+    - 40.5:
+        non_striker: ML Green
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 40.6:
+        non_striker: GE Plimmer
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 41.1:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 41.2:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 41.3:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 41.4:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 41.5:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 41.6:
+        non_striker: GE Plimmer
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 42.1:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 42.2:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 42.3:
+        non_striker: GE Plimmer
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 42.4:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 42.5:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 42.6:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 43.1:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 43.2:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 43.3:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 43.4:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 43.5:
+        non_striker: ML Green
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 43.6:
+        non_striker: GE Plimmer
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 44.1:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - WK Dilhari
+          kind: caught
+    - 44.2:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 44.3:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 44.4:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 44.5:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 44.6:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.1:
+        non_striker: IC Gaze
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 45.2:
+        non_striker: IC Gaze
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.3:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 45.4:
+        non_striker: IC Gaze
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.5:
+        non_striker: ML Green
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 45.6:
+        non_striker: IC Gaze
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 46.1:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 46.2:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 46.3:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 46.4:
+        non_striker: ML Green
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 46.5:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 46.6:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 47.1:
+        non_striker: JM Kerr
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 47.2:
+        non_striker: IC Gaze
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 47.3:
+        non_striker: IC Gaze
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+        wicket:
+          player_out: JM Kerr
+          kind: bowled
+    - 47.4:
+        non_striker: IC Gaze
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PM Inglis
+    - 47.5:
+        non_striker: IC Gaze
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PM Inglis
+    - 47.6:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 48.1:
+        non_striker: PM Inglis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 48.2:
+        non_striker: PM Inglis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 48.3:
+        non_striker: PM Inglis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IC Gaze
+    - 48.4:
+        non_striker: PM Inglis
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 48.5:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 48.6:
+        non_striker: IC Gaze
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: PM Inglis
+    - 49.1:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 49.2:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IC Gaze
+    - 49.3:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IC Gaze
+    - 49.4:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 49.5:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 49.6:
+        non_striker: PM Inglis
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 49.7:
+        non_striker: IC Gaze
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: PM Inglis
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.2:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 0.3:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 0.4:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 0.5:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 0.6:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.1:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 1.2:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.3:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.4:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.5:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.6:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.1:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.2:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.3:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: RMVD Gunaratne
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.6:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 3.1:
+        non_striker: RMVD Gunaratne
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 3.2:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - ML Green
+          kind: caught
+    - 3.3:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.4:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.5:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 3.6:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Madavi
+    - 4.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 4.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 4.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 4.5:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.6:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.7:
+        non_striker: AC Jayangani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 5.1:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.2:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.3:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.4:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Madavi
+    - 5.5:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.6:
+        non_striker: AC Jayangani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 6.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Jayangani
+    - 6.5:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.6:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 6.7:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 7.1:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          fielders:
+          - ML Green
+          kind: caught
+    - 7.2:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 7.3:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 7.4:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 7.5:
+        non_striker: H Madavi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 7.6:
+        non_striker: I Dulani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 8.1:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 8.2:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 8.3:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 8.4:
+        non_striker: H Madavi
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 8.5:
+        non_striker: I Dulani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 8.6:
+        non_striker: I Dulani
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Madavi
+    - 9.1:
+        non_striker: I Dulani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 9.2:
+        non_striker: I Dulani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - EJ Carson
+          kind: caught
+    - 9.3:
+        non_striker: I Dulani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 9.4:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 9.5:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 9.6:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 10.1:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 10.2:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 10.3:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 10.4:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 10.5:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 10.6:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 10.7:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 11.1:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 11.2:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 11.3:
+        non_striker: I Dulani
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 11.4:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 11.5:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 11.6:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 12.1:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 12.2:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 12.3:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 12.4:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 12.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 12.6:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 13.1:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 13.2:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 13.3:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 13.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 13.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 13.6:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 14.1:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 14.2:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 14.3:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 14.4:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 14.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 14.6:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 15.1:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.2:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.3:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 15.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 15.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 15.6:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 16.1:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 16.2:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 16.3:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 16.4:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 16.5:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 16.6:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 17.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Dulani
+    - 17.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 17.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 17.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 17.5:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 17.6:
+        non_striker: I Dulani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.1:
+        non_striker: WK Dilhari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Dulani
+    - 18.2:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 18.3:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 18.4:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 18.5:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 18.6:
+        non_striker: I Dulani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 19.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 19.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 19.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+    - 19.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Dulani
+        wicket:
+          player_out: I Dulani
+          fielders:
+          - PM Inglis
+          kind: caught
+    - 19.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 19.6:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 20.1:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 20.2:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 20.3:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 20.4:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.5:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 20.6:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 20.7:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 21.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 21.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 21.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 21.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 21.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: WK Dilhari
+    - 21.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 22.1:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 22.2:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 22.3:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 22.4:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 22.5:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 22.6:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: NND de Silva
+    - 23.1:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 23.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 23.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 23.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 23.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 23.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 24.1:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.2:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 24.3:
+        non_striker: NND de Silva
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 24.4:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 24.5:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 24.6:
+        non_striker: WK Dilhari
+        bowler: BG Illing
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 25.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 25.2:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 25.3:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 25.4:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 25.5:
+        non_striker: WK Dilhari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 25.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 26.1:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 26.2:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 26.3:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 26.4:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 26.5:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 26.6:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 27.1:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: WK Dilhari
+    - 27.2:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 27.3:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 27.4:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 27.5:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 27.6:
+        non_striker: WK Dilhari
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 28.1:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 28.2:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 28.3:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 28.4:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 28.5:
+        non_striker: NND de Silva
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 28.6:
+        non_striker: WK Dilhari
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 29.1:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          kind: bowled
+    - 29.2:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 29.3:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 29.4:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MAA Sanjeewani
+    - 29.5:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 29.6:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 30.1:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 30.2:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 30.3:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 30.4:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 30.5:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 30.6:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 31.1:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 31.2:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 31.3:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MAA Sanjeewani
+    - 31.4:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 31.5:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 31.6:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.1:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: MAA Sanjeewani
+    - 32.2:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 32.3:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 32.4:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.5:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.6:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 32.7:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 33.1:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 33.2:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 33.3:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 33.4:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 33.5:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 33.6:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 34.1:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NND de Silva
+    - 34.2:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 34.3:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 34.4:
+        non_striker: NND de Silva
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 34.5:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 34.6:
+        non_striker: MAA Sanjeewani
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 35.1:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 35.2:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 35.3:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 35.4:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 35.5:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 35.6:
+        non_striker: NND de Silva
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.1:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 36.2:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.4:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 36.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 37.1:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 37.2:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NND de Silva
+    - 37.3:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 37.4:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 37.5:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 37.6:
+        non_striker: MAA Sanjeewani
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 38.1:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 38.2:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 38.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: MAA Sanjeewani
+    - 38.4:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 38.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 38.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 39.1:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 39.2:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 39.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: MAA Sanjeewani
+    - 39.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: MAA Sanjeewani
+    - 39.5:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 39.6:
+        non_striker: MAA Sanjeewani
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 40.1:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 40.2:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 40.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 40.4:
+        non_striker: MAA Sanjeewani
+        bowler: FC Jonas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: NND de Silva
+    - 40.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+        wicket:
+          player_out: MAA Sanjeewani
+          fielders:
+          - EJ Black (sub)
+          kind: caught
+    - 40.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Nisansala
+    - 40.7:
+        non_striker: S Nisansala
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 41.1:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 41.2:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 41.3:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 41.4:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 41.5:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 41.6:
+        non_striker: NND de Silva
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+    - 42.1:
+        non_striker: S Nisansala
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 42.2:
+        non_striker: S Nisansala
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 42.3:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Nisansala
+        wicket:
+          player_out: S Nisansala
+          kind: bowled
+    - 42.4:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 42.5:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMSM Kumari
+    - 42.6:
+        non_striker: NND de Silva
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 42.7:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 43.1:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 43.2:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 43.3:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+        wicket:
+          player_out: NND de Silva
+          kind: bowled
+    - 43.4:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 43.5:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WGAKK Kulasuriya
+    - 43.6:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 43.7:
+        non_striker: BMSM Kumari
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 44.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+    - 44.2:
+        non_striker: WGAKK Kulasuriya
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BMSM Kumari
+    - 44.3:
+        non_striker: WGAKK Kulasuriya
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BMSM Kumari
+    - 44.4:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 44.5:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 44.6:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WGAKK Kulasuriya
+    - 44.7:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WGAKK Kulasuriya
+    - 44.8:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WGAKK Kulasuriya
+    - 44.9:
+        non_striker: BMSM Kumari
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WGAKK Kulasuriya
+    - 44.10:
+        non_striker: WGAKK Kulasuriya
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BMSM Kumari
+        wicket:
+          player_out: BMSM Kumari
+          fielders:
+          - BG Illing
+          kind: caught
+    - 45.1:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: WGAKK Kulasuriya
+    - 45.2:
+        non_striker: WGAKK Kulasuriya
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 45.3:
+        non_striker: WGAKK Kulasuriya
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 45.4:
+        non_striker: WGAKK Kulasuriya
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGC Vimukthi
+    - 45.5:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 45.6:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 45.7:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 46.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 46.2:
+        non_striker: WGAKK Kulasuriya
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGC Vimukthi
+    - 46.3:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 46.4:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 46.5:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 46.6:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 47.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AGC Vimukthi
+    - 47.2:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 47.3:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 47.4:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 47.5:
+        non_striker: AGC Vimukthi
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WGAKK Kulasuriya
+    - 47.6:
+        non_striker: WGAKK Kulasuriya
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGC Vimukthi
+    - 48.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AGC Vimukthi
+    - 48.2:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: WGAKK Kulasuriya
+    - 48.3:
+        non_striker: WGAKK Kulasuriya
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: AGC Vimukthi
+    - 48.4:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WGAKK Kulasuriya
+    - 48.5:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 48.6:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WGAKK Kulasuriya
+    - 48.7:
+        non_striker: AGC Vimukthi
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+    - 49.1:
+        non_striker: WGAKK Kulasuriya
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 49.2:
+        non_striker: WGAKK Kulasuriya
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 49.3:
+        non_striker: WGAKK Kulasuriya
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AGC Vimukthi
+    - 49.4:
+        non_striker: WGAKK Kulasuriya
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AGC Vimukthi
+    - 49.5:
+        non_striker: AGC Vimukthi
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WGAKK Kulasuriya
+    - 49.6:
+        non_striker: AGC Vimukthi
+        bowler: ML Green
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WGAKK Kulasuriya
+        wicket:
+          player_out: WGAKK Kulasuriya
+          fielders:
+          - BM Halliday
+          kind: caught

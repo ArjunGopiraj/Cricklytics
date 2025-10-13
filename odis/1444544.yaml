@@ -1,0 +1,5020 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Utrecht
+  dates:
+  - '2024-08-06'
+  gender: female
+  match_type: ODI
+  match_type_number: 1397
+  outcome:
+    winner: Scotland
+    by:
+      runs: 62
+  overs: 50
+  player_of_match:
+  - S Horley
+  players:
+    Scotland:
+    - S Horley
+    - A Aitken-Drummond
+    - DEM Carter
+    - PA Chatterji
+    - M McColl
+    - L Jack
+    - K Fraser
+    - EL Watson
+    - C Abel
+    - AH Maqsood
+    - G Fontenla
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - T Ruma
+    - S Jimmy
+    - P Siaka
+    - K Frank
+    - V Araa
+    - HJ Thomas
+    - I Toua
+    - GP Tom
+    - V Buruka
+  registry:
+    people:
+      A Aitken-Drummond: 25c73eb6
+      AH Maqsood: f61e2829
+      Adriaan van den Dries: 94b5ec3b
+      B Tau: 3a6cbb8e
+      C Abel: d92d3563
+      DEM Carter: c3394c16
+      EL Watson: 45dd7433
+      G Fontenla: 581eec7e
+      GP Tom: 88bcd09d
+      HJ Thomas: a3034d3d
+      I Toua: 83cde44d
+      J Westerberg: eaad0353
+      Jareth McCready: 84fa5232
+      K Frank: f7e96532
+      K Fraser: a0a65375
+      L Jack: e565ceb7
+      M McColl: d5fa2ab3
+      M Prabhudesa: c36bcd1e
+      N Vare: 20ace887
+      P Siaka: 595433d2
+      PA Chatterji: 8e7be59c
+      S Horley: 8cd72e0b
+      S Jimmy: 2daa8e40
+      T Ruma: 3697a0ff
+      V Araa: 040f11e8
+      V Buruka: 62d92d76
+  teams:
+  - Scotland
+  - Papua New Guinea
+  toss:
+    winner: Papua New Guinea
+    decision: field
+  umpires:
+  - Jareth McCready
+  - M Prabhudesa
+  venue: Sportpark Maarschalkerweerd, Utrecht
+innings:
+- 1st innings:
+    team: Scotland
+    deliveries:
+    - 0.1:
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: A Aitken-Drummond
+        batsman: S Horley
+    - 0.2:
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        non_striker: A Aitken-Drummond
+        batsman: S Horley
+    - 0.3:
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: A Aitken-Drummond
+        batsman: S Horley
+    - 0.4:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aitken-Drummond
+    - 0.5:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken-Drummond
+    - 0.6:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 0.7:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken-Drummond
+    - 0.8:
+        non_striker: A Aitken-Drummond
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 1.1:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken-Drummond
+    - 1.2:
+        non_striker: A Aitken-Drummond
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 1.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 1.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 1.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 1.6:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 2.1:
+        non_striker: A Aitken-Drummond
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 2.2:
+        non_striker: A Aitken-Drummond
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 2.3:
+        non_striker: A Aitken-Drummond
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 2.4:
+        non_striker: A Aitken-Drummond
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 2.5:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 2.6:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Aitken-Drummond
+    - 3.1:
+        non_striker: A Aitken-Drummond
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 3.2:
+        non_striker: A Aitken-Drummond
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 3.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 3.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 3.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken-Drummond
+    - 3.6:
+        non_striker: A Aitken-Drummond
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 4.1:
+        non_striker: A Aitken-Drummond
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 4.2:
+        non_striker: A Aitken-Drummond
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 4.3:
+        non_striker: A Aitken-Drummond
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 4.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Aitken-Drummond
+    - 4.5:
+        non_striker: A Aitken-Drummond
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 4.6:
+        non_striker: A Aitken-Drummond
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 5.1:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 5.2:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 5.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 5.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Aitken-Drummond
+    - 5.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+    - 5.6:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Aitken-Drummond
+        wicket:
+          player_out: A Aitken-Drummond
+          kind: bowled
+    - 6.1:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DEM Carter
+        batsman: S Horley
+    - 6.2:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DEM Carter
+        batsman: S Horley
+    - 6.3:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DEM Carter
+        batsman: S Horley
+    - 6.4:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DEM Carter
+        batsman: S Horley
+    - 6.5:
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: DEM Carter
+        batsman: S Horley
+    - 6.6:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 7.1:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.2:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 7.6:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 8.1:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Horley
+    - 8.2:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DEM Carter
+    - 8.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 8.6:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 1
+          noballs: 1
+        batsman: DEM Carter
+    - 8.7:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 9.1:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 9.2:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 9.3:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 9.4:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 9.5:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 9.6:
+        non_striker: DEM Carter
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 10.1:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.2:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 10.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 10.6:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 11.1:
+        non_striker: DEM Carter
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 11.2:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 11.3:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: DEM Carter
+    - 11.4:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DEM Carter
+    - 11.5:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 11.6:
+        non_striker: DEM Carter
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 12.1:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 12.2:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 12.3:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 12.4:
+        non_striker: DEM Carter
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 12.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 12.6:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 13.1:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 13.2:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 13.3:
+        non_striker: DEM Carter
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 13.4:
+        non_striker: DEM Carter
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 13.5:
+        non_striker: DEM Carter
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 13.6:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DEM Carter
+    - 14.1:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+    - 14.2:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DEM Carter
+        wicket:
+          player_out: DEM Carter
+          fielders:
+          - B Tau
+          kind: stumped
+    - 14.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 14.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: PA Chatterji
+    - 14.6:
+        non_striker: PA Chatterji
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 15.1:
+        non_striker: PA Chatterji
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 15.2:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.3:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.4:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+    - 15.5:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: PA Chatterji
+        wicket:
+          player_out: PA Chatterji
+          fielders:
+          - B Tau
+          kind: caught
+    - 15.6:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 16.1:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 16.2:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 16.3:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 16.4:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 16.5:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 16.6:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 17.1:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 17.2:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 17.3:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 17.4:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 17.5:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 17.6:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 18.1:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 18.2:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 18.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 18.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 18.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 18.6:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 19.1:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 19.2:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 19.3:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 19.4:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 19.5:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 19.6:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 20.1:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: S Horley
+    - 20.2:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 20.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 20.4:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 20.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 20.6:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 20.7:
+        non_striker: M McColl
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 21.1:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: M McColl
+    - 21.2:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 21.3:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 21.4:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 21.5:
+        non_striker: S Horley
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 21.6:
+        non_striker: M McColl
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 22.1:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 22.2:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 22.3:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 22.4:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M McColl
+    - 22.5:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 22.6:
+        non_striker: M McColl
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 23.1:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 23.2:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 23.3:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 23.4:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 23.5:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 23.6:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 24.1:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 24.2:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M McColl
+    - 24.3:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 24.4:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 24.5:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M McColl
+    - 24.6:
+        non_striker: M McColl
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 25.1:
+        non_striker: M McColl
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 25.2:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+    - 25.3:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M McColl
+        wicket:
+          player_out: M McColl
+          kind: lbw
+    - 25.4:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Jack
+    - 25.5:
+        non_striker: L Jack
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+        wicket:
+          player_out: L Jack
+          fielders:
+          - B Tau
+          - T Ruma
+          kind: run out
+    - 25.6:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 26.1:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 26.2:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 26.3:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 26.4:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 26.5:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 26.6:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 27.1:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 27.2:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 27.3:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 27.4:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 27.5:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 27.6:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 28.1:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 28.2:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 28.3:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 28.4:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 28.5:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 28.6:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 29.1:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 29.2:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 29.3:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 29.4:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Horley
+    - 29.5:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Horley
+    - 29.6:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 29.7:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 30.1:
+        non_striker: K Fraser
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 30.2:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 30.3:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 30.4:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 30.5:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 30.6:
+        non_striker: S Horley
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 31.1:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 31.2:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 31.3:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 31.4:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 31.5:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 31.6:
+        non_striker: S Horley
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 32.1:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 32.2:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 32.3:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 32.4:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 32.5:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 32.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 33.1:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 33.2:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 33.3:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 33.4:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 33.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 33.6:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 34.1:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 34.2:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 34.3:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 34.4:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 34.5:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 34.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Horley
+    - 34.7:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 35.1:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 35.2:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 35.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 35.4:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 35.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 35.6:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 36.1:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 36.2:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 36.3:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 36.4:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 36.5:
+        non_striker: S Horley
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 36.6:
+        non_striker: K Fraser
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 37.1:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 37.2:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 37.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: K Fraser
+    - 37.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 37.5:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 37.6:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 37.7:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 38.1:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 38.2:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 38.3:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 38.4:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 38.5:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 38.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Horley
+    - 39.1:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 39.2:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 39.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 39.4:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 39.5:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 39.6:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 40.1:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 40.2:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 40.3:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 40.4:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 40.5:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 40.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 41.1:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Horley
+    - 41.2:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 41.3:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 41.4:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 41.5:
+        non_striker: S Horley
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 41.6:
+        non_striker: K Fraser
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 42.1:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 42.2:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 42.3:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 42.4:
+        non_striker: S Horley
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 42.5:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 42.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 43.1:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 43.2:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 43.3:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Horley
+    - 43.4:
+        non_striker: S Horley
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 43.5:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+    - 43.6:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Horley
+        wicket:
+          player_out: S Horley
+          fielders:
+          - HJ Thomas
+          kind: caught
+    - 44.1:
+        bowler: V Araa
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        non_striker: EL Watson
+        batsman: K Fraser
+    - 44.2:
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: EL Watson
+        batsman: K Fraser
+    - 44.3:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 44.4:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 44.5:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 44.6:
+        non_striker: K Fraser
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 45.1:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 45.2:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 45.3:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 45.4:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 45.5:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 45.6:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EL Watson
+    - 46.1:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 46.2:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 46.3:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 46.4:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 46.5:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 46.6:
+        non_striker: EL Watson
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 47.1:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 47.2:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 47.3:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 47.4:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 47.5:
+        non_striker: K Fraser
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 47.6:
+        non_striker: EL Watson
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: K Fraser
+    - 48.1:
+        non_striker: K Fraser
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EL Watson
+    - 48.2:
+        non_striker: K Fraser
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EL Watson
+    - 48.3:
+        non_striker: EL Watson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 48.4:
+        non_striker: K Fraser
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 48.5:
+        non_striker: EL Watson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 48.6:
+        non_striker: K Fraser
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 49.1:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+    - 49.2:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Fraser
+    - 49.3:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Fraser
+    - 49.4:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Fraser
+    - 49.5:
+        non_striker: EL Watson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Fraser
+    - 49.6:
+        non_striker: K Fraser
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EL Watson
+- 2nd innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.3:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.4:
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.5:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.6:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.7:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.1:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.2:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 1.3:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 1.4:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.5:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 1.6:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 1.7:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 2.1:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.2:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.3:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Tau
+    - 2.4:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.5:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 2.6:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.7:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.1:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 3.2:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.3:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.4:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.5:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.6:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 3.7:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.8:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 4.1:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: B Tau
+    - 4.2:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.3:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.4:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.5:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.6:
+        non_striker: N Vare
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Tau
+    - 4.7:
+        non_striker: B Tau
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.1:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 5.2:
+        non_striker: N Vare
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 5.3:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.4:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.5:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 5.6:
+        non_striker: B Tau
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 6.1:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.2:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.3:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.4:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 6.5:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 6.6:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 7.1:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: B Tau
+    - 7.2:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 7.3:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: B Tau
+    - 7.4:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Tau
+    - 7.5:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: N Vare
+    - 7.6:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 7.7:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 8.2:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 8.3:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.4:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.5:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.6:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 9.1:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 9.2:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.3:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 9.4:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: B Tau
+    - 9.5:
+        non_striker: N Vare
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 9.6:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 9.7:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 9.8:
+        non_striker: B Tau
+        bowler: C Abel
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 10.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 10.2:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 10.3:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 10.4:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 10.5:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: N Vare
+    - 10.6:
+        non_striker: B Tau
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 10.7:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 11.1:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.2:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 11.3:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.4:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.5:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.6:
+        non_striker: B Tau
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 12.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          kind: bowled
+    - 12.2:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.3:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.4:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.5:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 12.6:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 13.1:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 13.2:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 13.3:
+        non_striker: N Vare
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 13.4:
+        non_striker: N Vare
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 13.5:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 13.6:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 14.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.2:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 14.3:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.4:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.5:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 14.6:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.1:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 15.2:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 15.3:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 15.4:
+        non_striker: N Vare
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 15.5:
+        non_striker: N Vare
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 15.6:
+        non_striker: T Ruma
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 16.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.2:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.3:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 16.4:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 16.5:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 16.6:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 17.1:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 17.2:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.3:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.4:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.5:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 17.6:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 18.1:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 18.2:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 18.3:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 18.4:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 18.5:
+        non_striker: N Vare
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 18.6:
+        non_striker: T Ruma
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 19.1:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 19.2:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 19.3:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 19.4:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 19.5:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 19.6:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 20.1:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.2:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.3:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.4:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.5:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 20.6:
+        non_striker: N Vare
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 21.1:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: T Ruma
+    - 21.2:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.3:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 21.4:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.5:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 21.6:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: T Ruma
+    - 21.7:
+        non_striker: N Vare
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 21.8:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          fielders:
+          - EL Watson
+          kind: stumped
+    - 22.1:
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: T Ruma
+    - 22.2:
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: T Ruma
+    - 22.3:
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Jimmy
+        batsman: T Ruma
+    - 22.4:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 22.5:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 22.6:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 23.1:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 23.2:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 23.3:
+        non_striker: S Jimmy
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 23.4:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 23.5:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 23.6:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 24.1:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 24.2:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 24.3:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 24.4:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 24.5:
+        non_striker: S Jimmy
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 24.6:
+        non_striker: S Jimmy
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 25.1:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          kind: lbw
+    - 25.2:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 25.3:
+        non_striker: T Ruma
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 25.4:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 25.5:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: T Ruma
+    - 25.6:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 26.1:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 26.2:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: T Ruma
+    - 26.3:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 26.4:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 26.5:
+        non_striker: T Ruma
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 26.6:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          kind: bowled
+    - 27.1:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        non_striker: K Frank
+        batsman: P Siaka
+    - 27.2:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Frank
+        batsman: P Siaka
+    - 27.3:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Frank
+        batsman: P Siaka
+    - 27.4:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: K Frank
+        batsman: P Siaka
+    - 27.5:
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: K Frank
+        batsman: P Siaka
+    - 27.6:
+        non_striker: K Frank
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 28.1:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: K Frank
+    - 28.2:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 28.3:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+        wicket:
+          player_out: K Frank
+          fielders:
+          - A Aitken-Drummond
+          kind: caught
+    - 28.4:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 28.5:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 28.6:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 29.1:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 29.2:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 29.3:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 29.4:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 29.5:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 29.6:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Araa
+    - 30.1:
+        non_striker: V Araa
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Siaka
+    - 30.2:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 30.3:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 30.4:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 30.5:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Araa
+    - 30.6:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 31.1:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 31.2:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 31.3:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 31.4:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: V Araa
+    - 31.5:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 31.6:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Araa
+    - 31.7:
+        non_striker: P Siaka
+        bowler: DEM Carter
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Araa
+    - 31.8:
+        non_striker: V Araa
+        bowler: DEM Carter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 32.1:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 32.2:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 32.3:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 32.4:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 32.5:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 32.6:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 33.1:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 33.2:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 33.3:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 33.4:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 33.5:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 33.6:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 34.1:
+        non_striker: V Araa
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 34.2:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 34.3:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 34.4:
+        non_striker: V Araa
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 34.5:
+        non_striker: V Araa
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 34.6:
+        non_striker: P Siaka
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 35.1:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 35.2:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 35.3:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 35.4:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 35.5:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 35.6:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 35.7:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 36.1:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 36.2:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 36.3:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 36.4:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 36.5:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 36.6:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 37.1:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 37.2:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 37.3:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 37.4:
+        non_striker: P Siaka
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 37.5:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 37.6:
+        non_striker: V Araa
+        bowler: PA Chatterji
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 38.1:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 38.2:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 38.3:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 38.4:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 38.5:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 38.6:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 39.1:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 39.2:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 39.3:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 39.4:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 39.5:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Siaka
+    - 39.6:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 40.1:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 40.2:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 40.3:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 40.4:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 40.5:
+        non_striker: V Araa
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 40.6:
+        non_striker: P Siaka
+        bowler: K Fraser
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 41.1:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 41.2:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 41.3:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 41.4:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: V Araa
+    - 41.5:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 41.6:
+        non_striker: V Araa
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 41.7:
+        non_striker: P Siaka
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+        wicket:
+          player_out: V Araa
+          fielders:
+          - EL Watson
+          kind: stumped
+    - 42.1:
+        non_striker: HJ Thomas
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          kind: lbw
+    - 42.2:
+        non_striker: HJ Thomas
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 42.3:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 42.4:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 42.5:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 42.6:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 43.1:
+        non_striker: HJ Thomas
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 43.2:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 43.3:
+        non_striker: HJ Thomas
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 43.4:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 43.5:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 43.6:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 44.1:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 44.2:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 44.3:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 44.4:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 44.5:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          fielders:
+          - G Fontenla
+          kind: caught
+    - 44.6:
+        non_striker: I Toua
+        bowler: S Horley
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 45.1:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 45.2:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 45.3:
+        non_striker: GP Tom
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: I Toua
+    - 45.4:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 45.5:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+        wicket:
+          player_out: GP Tom
+          kind: lbw
+    - 45.6:
+        non_striker: I Toua
+        bowler: AH Maqsood
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 46.1:
+        non_striker: V Buruka
+        bowler: G Fontenla
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          kind: lbw

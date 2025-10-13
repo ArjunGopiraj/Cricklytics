@@ -1,0 +1,4419 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-03-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  dates:
+  - '2024-03-21'
+  gender: female
+  match_type: ODI
+  match_type_number: 1366
+  outcome:
+    winner: Australia
+    by:
+      runs: 118
+  overs: 50
+  player_of_match:
+  - A King
+  players:
+    Australia:
+    - AJ Healy
+    - P Litchfield
+    - EA Perry
+    - BL Mooney
+    - TM McGrath
+    - A Gardner
+    - A Sutherland
+    - G Wareham
+    - A King
+    - KJ Garth
+    - ML Schutt
+    Bangladesh:
+    - Fargana Hoque
+    - S Mostary
+    - Murshida Khatun
+    - Nigar Sultana
+    - Fahima Khatun
+    - Ritu Moni
+    - Shorna Akter
+    - Rabeya Khan
+    - Nahida Akter
+    - Sultana Khatun
+    - Marufa Akter
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      AJ Healy: 321644de
+      Ali Arman: 1342d8d8
+      BL Mooney: 52d1dbc8
+      EA Perry: be150fc8
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      G Wareham: f0b4e47d
+      Gazi Sohel: f0df3ed7
+      KJ Garth: 0b69a844
+      ML Schutt: 17608a6f
+      Marufa Akter: a50797a4
+      Morshed Ali Khan: a7c3cf5f
+      Murshida Khatun: 712bbd92
+      Nahida Akter: '66078174'
+      Neeyamur Rashid: bd81a027
+      Nigar Sultana: 3827f6a2
+      P Litchfield: 4e6ef14f
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      S Mostary: 94de63bf
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      TM McGrath: ca5acfa4
+      VG Rathi: 144e5b16
+  teams:
+  - Australia
+  - Bangladesh
+  toss:
+    winner: Bangladesh
+    decision: field
+  umpires:
+  - Gazi Sohel
+  - VG Rathi
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 0.3:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.5:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: P Litchfield
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          kind: bowled
+    - 1.2:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 1.3:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 1.4:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.5:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 1.6:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.1:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.2:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 2.3:
+        non_striker: AJ Healy
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.4:
+        non_striker: AJ Healy
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.5:
+        non_striker: AJ Healy
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 2.6:
+        non_striker: AJ Healy
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 3.1:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.2:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.3:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.4:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Healy
+    - 3.5:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AJ Healy
+    - 3.6:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 3.7:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 4.1:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.2:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.3:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.4:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.5:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.6:
+        non_striker: EA Perry
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 5.1:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 5.2:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 5.3:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 5.4:
+        non_striker: EA Perry
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 5.5:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 5.6:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - Rabeya Khan
+          kind: caught
+    - 6.1:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.2:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.3:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.4:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.5:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 6.6:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 7.1:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.2:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.3:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 7.4:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 7.5:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 7.6:
+        non_striker: AJ Healy
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 8.1:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 8.2:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 8.3:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 8.4:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 8.5:
+        non_striker: BL Mooney
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 8.6:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 9.1:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.2:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.3:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.4:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.5:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 9.6:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 10.1:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 10.2:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 10.3:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 10.4:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 10.5:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 10.6:
+        non_striker: TM McGrath
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 11.1:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.2:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.3:
+        non_striker: TM McGrath
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 11.4:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 11.5:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 11.6:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 12.1:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 12.2:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 12.3:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 12.4:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 12.5:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 12.6:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 13.1:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.2:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.3:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.4:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.5:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 13.6:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.1:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 14.2:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 14.3:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.4:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.5:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.6:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 15.1:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TM McGrath
+    - 15.2:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 15.3:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 15.4:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 15.5:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 15.6:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 15.7:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 16.1:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.2:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 16.3:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: TM McGrath
+    - 16.4:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.5:
+        non_striker: TM McGrath
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 16.6:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 17.1:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 17.2:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BL Mooney
+    - 17.3:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 17.4:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 17.5:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 17.6:
+        non_striker: TM McGrath
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 18.1:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 18.2:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: lbw
+    - 18.3:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 18.4:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 18.5:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 18.6:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 19.1:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.2:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 19.3:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 19.4:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 19.5:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.6:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 20.1:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.2:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.3:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.4:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: BL Mooney
+    - 20.5:
+        non_striker: BL Mooney
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 20.6:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 21.1:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 21.2:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 21.3:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 21.4:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 21.5:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 21.6:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 22.1:
+        non_striker: BL Mooney
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 22.2:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 22.3:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.4:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 22.5:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.6:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 23.1:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 23.2:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 23.3:
+        non_striker: BL Mooney
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 23.4:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 23.5:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 23.6:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 24.1:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 24.2:
+        non_striker: A Gardner
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 24.3:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 24.4:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 24.5:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 24.6:
+        non_striker: BL Mooney
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 25.1:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - Nigar Sultana
+          kind: caught
+    - 25.2:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 25.3:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 25.4:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 25.5:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 25.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 26.1:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 26.2:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 26.3:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 26.4:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 26.5:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 26.6:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.1:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 27.2:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.3:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.4:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 27.5:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 27.6:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 28.1:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.2:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.3:
+        non_striker: A Gardner
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 28.4:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 28.5:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 28.6:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.1:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 29.2:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.3:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.4:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 29.5:
+        non_striker: A Gardner
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 29.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 30.1:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 30.2:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 30.3:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 30.4:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 30.5:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 30.6:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 31.1:
+        non_striker: A Gardner
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 31.2:
+        non_striker: A Gardner
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 31.3:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 31.4:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 31.5:
+        non_striker: A Gardner
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 31.6:
+        non_striker: A Gardner
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.1:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 32.2:
+        non_striker: A Gardner
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.3:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 32.4:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 32.5:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 32.6:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 33.1:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 33.2:
+        non_striker: G Wareham
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 33.3:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 33.4:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 33.5:
+        non_striker: G Wareham
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 33.6:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 34.1:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.2:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.3:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.4:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.5:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.6:
+        non_striker: G Wareham
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 35.1:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 35.2:
+        non_striker: G Wareham
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 35.3:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 35.4:
+        non_striker: G Wareham
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 35.5:
+        non_striker: A Sutherland
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 35.6:
+        non_striker: G Wareham
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 36.1:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 36.2:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 36.3:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 36.4:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 36.5:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 36.6:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.1:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.2:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 37.3:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 37.4:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 37.5:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 38.1:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 38.2:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 38.3:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 38.4:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 38.5:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 38.6:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 39.1:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Wareham
+    - 39.2:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 39.3:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 39.4:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 39.5:
+        non_striker: G Wareham
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 39.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 40.1:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 40.2:
+        non_striker: G Wareham
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 40.3:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+    - 40.4:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Wareham
+        wicket:
+          player_out: G Wareham
+          fielders:
+          - Rabeya Khan
+          kind: caught
+    - 40.5:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 40.6:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 41.1:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 41.2:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 41.3:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 41.4:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 41.5:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 41.6:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 42.1:
+        non_striker: A King
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 42.2:
+        non_striker: A King
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 42.3:
+        non_striker: A King
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.4:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 42.5:
+        non_striker: A King
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.6:
+        non_striker: A Sutherland
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 43.1:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 43.2:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 43.3:
+        non_striker: A Sutherland
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 43.4:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 43.5:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 43.6:
+        non_striker: A King
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 44.1:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 44.2:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 44.3:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 44.4:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 44.5:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 44.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 45.1:
+        non_striker: A King
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 45.2:
+        non_striker: A King
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 45.3:
+        non_striker: A Sutherland
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 45.4:
+        non_striker: A Sutherland
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 45.5:
+        non_striker: A Sutherland
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 45.6:
+        non_striker: A Sutherland
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 46.1:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 46.2:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 46.3:
+        non_striker: A King
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 46.4:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 46.5:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 46.6:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 47.1:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 47.2:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 47.3:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 47.4:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 47.5:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 47.6:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 48.1:
+        non_striker: A King
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 48.2:
+        non_striker: A King
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 48.3:
+        non_striker: A King
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 48.4:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 48.5:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 48.6:
+        non_striker: A Sutherland
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 49.1:
+        non_striker: A King
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 49.2:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 49.3:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 49.4:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A King
+    - 49.5:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+    - 49.6:
+        non_striker: A Sutherland
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A King
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 0.2:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 0.3:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - AJ Healy
+          kind: caught
+    - 0.4:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.5:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.6:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.7:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.1:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 1.2:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 1.3:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murshida Khatun
+    - 1.4:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 1.5:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.6:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murshida Khatun
+    - 1.7:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.8:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 2.1:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.2:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.3:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.4:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 2.5:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 2.6:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 3.1:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 3.2:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 3.3:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 3.4:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Murshida Khatun
+    - 3.5:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 3.6:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 3.7:
+        non_striker: S Mostary
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.1:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 4.2:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 4.3:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 4.4:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.5:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.6:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 5.1:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.2:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.3:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.4:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 5.5:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 5.6:
+        non_striker: Murshida Khatun
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 6.1:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.2:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.3:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.4:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.5:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 6.6:
+        non_striker: Murshida Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 7.1:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 7.2:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+        wicket:
+          player_out: Murshida Khatun
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 7.3:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Nigar Sultana
+    - 7.4:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.5:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.6:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 7.7:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.1:
+        non_striker: Nigar Sultana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 8.2:
+        non_striker: Nigar Sultana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 8.3:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.4:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.5:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 8.6:
+        non_striker: S Mostary
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Nigar Sultana
+    - 9.1:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.2:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 9.3:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 9.4:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 9.5:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Nigar Sultana
+    - 9.6:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 9.7:
+        non_striker: Nigar Sultana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 10.1:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.2:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.3:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 10.4:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 10.5:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: Nigar Sultana
+    - 10.6:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 11.1:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.2:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.3:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 11.4:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.5:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 11.6:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 12.1:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.2:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.3:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.4:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 12.5:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 12.6:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 13.1:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.2:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.3:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.4:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.5:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 13.6:
+        non_striker: S Mostary
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 14.1:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.2:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.3:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 14.4:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.5:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 14.6:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: S Mostary
+    - 15.2:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: S Mostary
+    - 15.3:
+        non_striker: S Mostary
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 15.4:
+        non_striker: S Mostary
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 15.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 15.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 16.1:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 16.2:
+        non_striker: S Mostary
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 16.3:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary
+    - 16.4:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 16.5:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 16.6:
+        non_striker: Nigar Sultana
+        bowler: G Wareham
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 17.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 17.2:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 17.3:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+        wicket:
+          player_out: S Mostary
+          kind: bowled
+    - 17.4:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 17.5:
+        non_striker: Fahima Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 17.6:
+        non_striker: Fahima Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 18.1:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 18.2:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 18.3:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 18.4:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 18.5:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 18.6:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+        wicket:
+          player_out: Fahima Khatun
+          fielders:
+          - P Litchfield
+          kind: run out
+    - 19.1:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 19.2:
+        non_striker: Ritu Moni
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 19.3:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 19.4:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 19.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 19.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 20.1:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.2:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 20.3:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 20.4:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 20.5:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 20.6:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 21.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.2:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.3:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.4:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 22.1:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 22.2:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.3:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.4:
+        non_striker: Ritu Moni
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Ritu Moni
+          fielders:
+          - BL Mooney
+          kind: run out
+    - 22.5:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 22.6:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.7:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 22.8:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 23.1:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 23.2:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 23.3:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 23.4:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 23.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 23.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 24.1:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.2:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.3:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.4:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 24.5:
+        non_striker: Shorna Akter
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 24.6:
+        non_striker: Nigar Sultana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 25.1:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 25.2:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 25.3:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 25.4:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 25.5:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 25.6:
+        non_striker: Nigar Sultana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Shorna Akter
+    - 26.1:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 26.2:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shorna Akter
+    - 26.3:
+        non_striker: Nigar Sultana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Nigar Sultana
+          fielders:
+          - AJ Healy
+          - A Sutherland
+          kind: run out
+    - 26.4:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 26.5:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 26.6:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 27.1:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 27.2:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 27.3:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 27.4:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 27.5:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 27.6:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 28.1:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 28.2:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Rabeya Khan
+    - 28.3:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 28.4:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 28.5:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 28.6:
+        non_striker: Shorna Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 28.7:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 29.1:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 29.2:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 29.3:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 29.4:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 29.5:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Rabeya Khan
+    - 29.6:
+        non_striker: Shorna Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 30.1:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+    - 30.2:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          fielders:
+          - P Litchfield
+          kind: caught
+    - 30.3:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.4:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.5:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 30.6:
+        non_striker: Rabeya Khan
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nahida Akter
+    - 31.1:
+        non_striker: Nahida Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 31.2:
+        non_striker: Nahida Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 31.3:
+        non_striker: Nahida Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 31.4:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.5:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.6:
+        non_striker: Rabeya Khan
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 32.1:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 32.2:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 32.3:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          kind: bowled
+    - 32.4:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 32.5:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 32.6:
+        non_striker: Nahida Akter
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 33.1:
+        non_striker: Sultana Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 33.2:
+        non_striker: Nahida Akter
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 33.3:
+        non_striker: Sultana Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 33.4:
+        non_striker: Sultana Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 33.5:
+        non_striker: Sultana Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 33.6:
+        non_striker: Sultana Khatun
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 34.1:
+        non_striker: Nahida Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 34.2:
+        non_striker: Nahida Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 34.3:
+        non_striker: Nahida Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 34.4:
+        non_striker: Nahida Akter
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sultana Khatun
+    - 34.5:
+        non_striker: Sultana Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 34.6:
+        non_striker: Sultana Khatun
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 35.1:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 35.2:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 35.3:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+    - 35.4:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sultana Khatun
+        wicket:
+          player_out: Sultana Khatun
+          fielders:
+          - EA Perry
+          kind: caught
+    - 35.5:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 35.6:
+        non_striker: Nahida Akter
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+        wicket:
+          player_out: Marufa Akter
+          kind: lbw

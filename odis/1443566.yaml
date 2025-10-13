@@ -1,0 +1,4141 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-21'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Wellington
+  dates:
+  - '2024-12-21'
+  gender: female
+  match_type: ODI
+  match_type_number: 1425
+  outcome:
+    winner: Australia
+    by:
+      runs: 65
+    method: D/L
+  overs: 50
+  player_of_match:
+  - A Sutherland
+  players:
+    Australia:
+    - AJ Healy
+    - P Litchfield
+    - EA Perry
+    - BL Mooney
+    - A Sutherland
+    - A Gardner
+    - TM McGrath
+    - A King
+    - KJ Garth
+    - ML Schutt
+    - D Brown
+    New Zealand:
+    - SW Bates
+    - IR James
+    - AC Kerr
+    - SFM Devine
+    - BM Halliday
+    - ML Green
+    - LR Down
+    - IC Gaze
+    - RA Mair
+    - MM Penfold
+    - EJ Carson
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Sutherland: 65d9b6b6
+      AC Kerr: 7673c908
+      AJ Healy: 321644de
+      BL Mooney: 52d1dbc8
+      BM Halliday: efb6cb2a
+      C Black: 75b42f71
+      D Brown: 2e81be88
+      EA Perry: be150fc8
+      EJ Carson: 7693851c
+      IC Gaze: 60c250bf
+      IR James: 57bdbc16
+      KJ Garth: 0b69a844
+      Kim Cotton: 67a7c2ee
+      LR Down: 19147fe0
+      ML Green: 865eae1f
+      ML Schutt: 17608a6f
+      MM Penfold: 645b2a2f
+      P Litchfield: 4e6ef14f
+      RA Mair: d5eb8b84
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      T Semmens: 3b471aa4
+      TL Anderson: f52ddf8d
+      TM McGrath: ca5acfa4
+      VG Rathi: 144e5b16
+  teams:
+  - Australia
+  - New Zealand
+  toss:
+    winner: New Zealand
+    decision: field
+  umpires:
+  - C Black
+  - Kim Cotton
+  venue: Basin Reserve, Wellington
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Healy
+    - 0.2:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 0.3:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 0.5:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 0.6:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.7:
+        non_striker: AJ Healy
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.1:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 1.2:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 1.3:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 1.4:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.5:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AJ Healy
+    - 1.6:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.7:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 1.8:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.2:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.3:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.4:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 2.5:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 2.6:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 3.1:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.2:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 3.5:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 3.6:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.1:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.2:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 4.3:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.4:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 4.5:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 4.6:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 5.1:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.2:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.3:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.4:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 5.5:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 5.6:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 6.2:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.3:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 6.4:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AJ Healy
+    - 6.5:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 6.6:
+        non_striker: AJ Healy
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.1:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AJ Healy
+    - 7.2:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.3:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.4:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 7.5:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.6:
+        non_striker: AJ Healy
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.1:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+    - 8.2:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AJ Healy
+        wicket:
+          player_out: AJ Healy
+          fielders:
+          - AC Kerr
+          kind: caught
+    - 8.3:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.4:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.5:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 9.1:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 9.2:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.3:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.4:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.5:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.6:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.1:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.2:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EA Perry
+    - 10.3:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.4:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.5:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.6:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 10.7:
+        non_striker: P Litchfield
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.1:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.2:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.3:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.4:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.5:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 11.6:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 12.1:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 12.2:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.3:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 12.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 12.5:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 12.6:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 13.1:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 13.2:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 13.3:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 13.4:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 13.5:
+        non_striker: P Litchfield
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.6:
+        non_striker: EA Perry
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.1:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 14.2:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.3:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 14.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 14.5:
+        non_striker: P Litchfield
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 14.6:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 15.1:
+        non_striker: P Litchfield
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 15.2:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 15.3:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 15.4:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 15.5:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 15.6:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 16.1:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 16.2:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 16.3:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 16.4:
+        non_striker: EA Perry
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 16.5:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 16.6:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 17.1:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 17.2:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 17.3:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 17.4:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 17.5:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 17.6:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 18.1:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 18.2:
+        non_striker: BL Mooney
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 18.3:
+        non_striker: BL Mooney
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 18.4:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 18.5:
+        non_striker: BL Mooney
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 18.6:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.1:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 19.2:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.3:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.4:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 19.5:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 19.6:
+        non_striker: EA Perry
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 19.7:
+        non_striker: BL Mooney
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 20.1:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 20.2:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.3:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.4:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 20.5:
+        non_striker: BL Mooney
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 20.6:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 20.7:
+        non_striker: EA Perry
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 21.1:
+        non_striker: BL Mooney
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: EA Perry
+    - 21.2:
+        non_striker: EA Perry
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 21.3:
+        non_striker: EA Perry
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 21.4:
+        non_striker: BL Mooney
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EA Perry
+    - 21.5:
+        non_striker: BL Mooney
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 21.6:
+        non_striker: BL Mooney
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 22.1:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.2:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.3:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 22.4:
+        non_striker: BL Mooney
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 22.5:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 22.6:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 23.1:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - IR James
+          kind: caught
+    - 23.2:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 23.3:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 23.4:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 23.5:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 23.6:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 23.7:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 24.1:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 24.2:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 24.3:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 24.4:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 24.5:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 24.6:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 25.1:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 25.2:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 25.3:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 25.4:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 25.5:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 25.6:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 26.1:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 26.2:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 26.3:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 26.4:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 26.5:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 26.6:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 27.1:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.2:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 27.3:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 27.4:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.5:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 27.6:
+        non_striker: A Gardner
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.1:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 28.2:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 28.3:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 28.4:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 28.5:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.6:
+        non_striker: A Gardner
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 29.1:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.2:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 29.3:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 29.4:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 29.5:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 29.6:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 30.1:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 30.2:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 30.3:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 30.4:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 30.5:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 30.6:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 31.1:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 31.2:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 31.3:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 31.4:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 31.5:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 31.6:
+        non_striker: A Gardner
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 32.1:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.2:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 32.3:
+        non_striker: A Gardner
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.4:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          kind: bowled
+    - 32.5:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 32.6:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 33.1:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 33.2:
+        non_striker: TM McGrath
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 33.3:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 33.4:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 33.5:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 33.6:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 34.1:
+        non_striker: TM McGrath
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 34.2:
+        non_striker: A Sutherland
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 34.3:
+        non_striker: A Sutherland
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 34.4:
+        non_striker: A Sutherland
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 34.5:
+        non_striker: TM McGrath
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 34.6:
+        non_striker: A Sutherland
+        bowler: BM Halliday
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 35.1:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.2:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.3:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.4:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.5:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 35.6:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 36.1:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 36.2:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 36.3:
+        non_striker: A Sutherland
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 36.4:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sutherland
+    - 36.5:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 36.6:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 36.7:
+        non_striker: TM McGrath
+        bowler: SW Bates
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 37.1:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 37.2:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 37.3:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 37.4:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.5:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 37.6:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 38.1:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 38.2:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 38.3:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 38.4:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 38.5:
+        non_striker: TM McGrath
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 38.6:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 39.1:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 39.2:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 39.3:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 39.4:
+        non_striker: TM McGrath
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 39.5:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 39.6:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 40.1:
+        non_striker: TM McGrath
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 40.2:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 40.3:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 40.4:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 40.5:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+        wicket:
+          player_out: TM McGrath
+          kind: bowled
+    - 40.6:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A King
+    - 40.7:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 41.1:
+        non_striker: A King
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 41.2:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 41.3:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 41.4:
+        non_striker: A King
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 41.5:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 41.6:
+        non_striker: A King
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.1:
+        non_striker: A King
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.2:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 42.3:
+        non_striker: A King
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.4:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 42.5:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 42.6:
+        non_striker: A King
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 43.1:
+        non_striker: A King
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 43.2:
+        non_striker: A King
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 43.3:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A King
+    - 43.4:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 43.5:
+        non_striker: A Sutherland
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 43.6:
+        non_striker: A King
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 44.1:
+        non_striker: A King
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 44.2:
+        non_striker: A King
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 44.3:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A King
+    - 44.4:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 44.5:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 44.6:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 44.7:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A King
+    - 45.1:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+    - 45.2:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A King
+        wicket:
+          player_out: A King
+          kind: lbw
+    - 45.3:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KJ Garth
+    - 45.4:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 45.5:
+        non_striker: KJ Garth
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 45.6:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 46.1:
+        non_striker: A Sutherland
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 46.2:
+        non_striker: KJ Garth
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 46.3:
+        non_striker: KJ Garth
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 46.4:
+        non_striker: KJ Garth
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 46.5:
+        non_striker: KJ Garth
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 46.6:
+        non_striker: KJ Garth
+        bowler: MM Penfold
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 47.1:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 47.2:
+        non_striker: KJ Garth
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 47.3:
+        non_striker: KJ Garth
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 47.4:
+        non_striker: A Sutherland
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: KJ Garth
+    - 47.5:
+        non_striker: KJ Garth
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 47.6:
+        non_striker: KJ Garth
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 48.1:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 48.2:
+        non_striker: KJ Garth
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 48.3:
+        non_striker: A Sutherland
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 48.4:
+        non_striker: KJ Garth
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 48.5:
+        non_striker: KJ Garth
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 48.6:
+        non_striker: KJ Garth
+        bowler: AC Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 49.1:
+        non_striker: KJ Garth
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 49.2:
+        non_striker: KJ Garth
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 49.3:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KJ Garth
+    - 49.4:
+        non_striker: A Sutherland
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KJ Garth
+    - 49.5:
+        non_striker: KJ Garth
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 49.6:
+        non_striker: KJ Garth
+        bowler: RA Mair
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+- 2nd innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 0.3:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.4:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.7:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 1.2:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 1.3:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.4:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.5:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.6:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 2.2:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 2.3:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 2.4:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IR James
+    - 2.5:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 2.6:
+        non_striker: IR James
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.1:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.2:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.3:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 3.4:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IR James
+    - 3.5:
+        non_striker: SW Bates
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IR James
+    - 3.6:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.1:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 4.2:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: IR James
+    - 4.3:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 4.4:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IR James
+    - 4.5:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 4.6:
+        non_striker: SW Bates
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IR James
+    - 5.1:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.2:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.3:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.4:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 5.5:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          fielders:
+          - A Gardner
+          kind: caught
+    - 5.6:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 6.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 6.2:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 6.3:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 6.4:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 6.5:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 6.6:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IR James
+    - 7.1:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.2:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.3:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 7.4:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.5:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 7.6:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 8.1:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 8.2:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 8.3:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 8.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 8.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 8.6:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 9.1:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.2:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 9.3:
+        non_striker: IR James
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 9.4:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+    - 9.5:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IR James
+    - 9.6:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IR James
+        wicket:
+          player_out: IR James
+          fielders:
+          - A King
+          kind: caught
+    - 10.1:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.2:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.3:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.4:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 10.5:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 10.6:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 11.1:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.2:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.3:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.4:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.5:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 11.6:
+        non_striker: AC Kerr
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 12.1:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 12.2:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 12.3:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 12.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 12.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 12.6:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 12.7:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 13.1:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.2:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.3:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 13.4:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.5:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 13.6:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 14.1:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.2:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 14.3:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 14.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 14.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 14.6:
+        non_striker: SFM Devine
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 15.1:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 15.2:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 15.3:
+        non_striker: SFM Devine
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 15.4:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 15.5:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 15.6:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 16.1:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AC Kerr
+    - 16.2:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.3:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 16.4:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 16.5:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 16.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 16.7:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 17.1:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 17.2:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 17.3:
+        non_striker: BM Halliday
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AC Kerr
+    - 17.4:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 17.5:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 17.6:
+        non_striker: AC Kerr
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 18.1:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BM Halliday
+    - 18.2:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 18.3:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 18.4:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 18.5:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BM Halliday
+    - 18.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 18.7:
+        non_striker: BM Halliday
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 19.1:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 19.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 19.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - A Sutherland
+          kind: caught
+    - 19.4:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 19.5:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: ML Green
+    - 19.6:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AC Kerr
+    - 20.1:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.2:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.3:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.4:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.5:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 20.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.1:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.4:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 21.5:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 21.6:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 22.1:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 22.2:
+        non_striker: ML Green
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 22.3:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 22.4:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 22.5:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 22.6:
+        non_striker: AC Kerr
+        bowler: D Brown
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 23.1:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.2:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 23.3:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 23.4:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 23.5:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 23.6:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.1:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 24.2:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.3:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 24.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 24.6:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 25.1:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 25.2:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 25.3:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 25.4:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 25.5:
+        non_striker: ML Green
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 25.6:
+        non_striker: AC Kerr
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.1:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.2:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 26.3:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 26.4:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 26.5:
+        non_striker: AC Kerr
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 26.6:
+        non_striker: ML Green
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 27.1:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 27.2:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 27.3:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 27.4:
+        non_striker: AC Kerr
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 27.5:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 27.6:
+        non_striker: ML Green
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 28.1:
+        non_striker: ML Green
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 28.2:
+        non_striker: ML Green
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Kerr
+    - 28.3:
+        non_striker: ML Green
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AC Kerr
+    - 28.4:
+        non_striker: ML Green
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Kerr
+    - 28.5:
+        non_striker: AC Kerr
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: AC Kerr
+          fielders:
+          - P Litchfield
+          - BL Mooney
+          kind: run out
+    - 28.6:
+        non_striker: ML Green
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 29.1:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 29.2:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ML Green
+    - 29.3:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 29.4:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 29.5:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 29.6:
+        non_striker: LR Down
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 30.1:
+        non_striker: LR Down
+        bowler: A King
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green

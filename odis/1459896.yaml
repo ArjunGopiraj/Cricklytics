@@ -1,0 +1,3572 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-03'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Vadodara
+  dates:
+  - '2024-12-27'
+  gender: female
+  match_type: ODI
+  match_type_number: 1429
+  outcome:
+    winner: India
+    by:
+      wickets: 5
+  overs: 50
+  player_of_match:
+  - DB Sharma
+  players:
+    West Indies:
+    - Q Joseph
+    - HK Matthews
+    - SA Campbelle
+    - DJS Dottin
+    - CA Henry
+    - Z James
+    - AA Alleyne
+    - M Mangru
+    - ASS Fletcher
+    - A Munisar
+    - K Ramharack
+    India:
+    - S Mandhana
+    - Pratika Rawal
+    - H Deol
+    - H Kaur
+    - JI Rodrigues
+    - DB Sharma
+    - RM Ghosh
+    - TP Kanwar
+    - TR Sadhu
+    - Priya Mishra
+    - Renuka Singh
+  registry:
+    people:
+      A Munisar: a811cb83
+      AA Alleyne: 4b0e3049
+      AS Guha: c21b184d
+      ASS Fletcher: 42d9dd09
+      CA Henry: '75820733'
+      DB Sharma: 201fef33
+      DJS Dottin: 53bee17f
+      Eloise Sheridan: d8d43840
+      H Deol: 3664712e
+      H Kaur: 53cd8da6
+      HK Matthews: d32cf49a
+      J Madanagopal: 8275b04a
+      JI Rodrigues: cb08b611
+      K Ramharack: 321c980e
+      K Swaroopanand: aa2a4962
+      M Mangru: b9fec7a5
+      Prakash Bhatt: f848ab0b
+      Pratika Rawal: 45a13dcf
+      Priya Mishra: 91e217c3
+      Q Joseph: d6164dc0
+      RM Ghosh: 721e0199
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      SA Campbelle: a7cd72b2
+      TP Kanwar: 443c122f
+      TR Sadhu: 25ca0573
+      Z James: 816af623
+  teams:
+  - West Indies
+  - India
+  toss:
+    winner: West Indies
+    decision: bat
+  umpires:
+  - Eloise Sheridan
+  - K Swaroopanand
+  venue: Kotambi Stadium, Vadodara
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        non_striker: HK Matthews
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Q Joseph
+        wicket:
+          player_out: Q Joseph
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 0.2:
+        non_striker: HK Matthews
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 0.3:
+        non_striker: HK Matthews
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 0.4:
+        non_striker: HK Matthews
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 0.5:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+    - 0.6:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HK Matthews
+        wicket:
+          player_out: HK Matthews
+          kind: bowled
+    - 1.1:
+        non_striker: DJS Dottin
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.2:
+        non_striker: DJS Dottin
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.3:
+        non_striker: DJS Dottin
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.4:
+        non_striker: DJS Dottin
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 1.5:
+        non_striker: DJS Dottin
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 1.6:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.1:
+        non_striker: DJS Dottin
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 2.2:
+        non_striker: DJS Dottin
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 2.3:
+        non_striker: DJS Dottin
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 2.4:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.5:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 2.6:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DJS Dottin
+    - 3.1:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 3.2:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DJS Dottin
+    - 3.3:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 3.4:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 3.5:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 3.6:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 4.1:
+        non_striker: DJS Dottin
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 4.2:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+    - 4.3:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DJS Dottin
+        wicket:
+          player_out: DJS Dottin
+          kind: bowled
+    - 4.4:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 4.5:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 4.6:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 5.1:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.2:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.3:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.4:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.5:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.6:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.1:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 6.2:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 6.3:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 6.4:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 6.5:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.6:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 7.1:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 7.2:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 7.3:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 7.4:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 7.5:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Henry
+    - 7.6:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 7.7:
+        non_striker: SA Campbelle
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 8.1:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 8.2:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 8.3:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 8.4:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 8.5:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 8.6:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 9.1:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.2:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.3:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 9.4:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 9.5:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 9.6:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 10.1:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.2:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SA Campbelle
+    - 10.3:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.4:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.5:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 10.6:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 10.7:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.1:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 11.2:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 11.3:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 11.4:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Henry
+    - 11.5:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 11.6:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 12.1:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 12.2:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 12.3:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 12.4:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 12.5:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 12.6:
+        non_striker: SA Campbelle
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 13.1:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 13.2:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 13.3:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 13.4:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 13.5:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 13.6:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 14.1:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 14.2:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 14.3:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 14.4:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 14.5:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 14.6:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 15.1:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 15.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 15.3:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 15.4:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 15.5:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 15.6:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 16.1:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 16.2:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 16.3:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 16.4:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 16.5:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Henry
+    - 16.6:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 16.7:
+        non_striker: SA Campbelle
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 17.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 17.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.3:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 17.4:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 17.5:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 17.6:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 18.1:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 18.2:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 18.3:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 18.4:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 18.5:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 18.6:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 19.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 19.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 19.3:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 19.4:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Henry
+    - 19.5:
+        non_striker: SA Campbelle
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 19.6:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 20.1:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: CA Henry
+    - 20.2:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 20.3:
+        non_striker: SA Campbelle
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 20.4:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 20.5:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 20.6:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 21.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          fielders:
+          - Pratika Rawal
+          kind: caught
+    - 21.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 21.3:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 21.4:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 21.5:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 21.6:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 22.1:
+        non_striker: Z James
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 22.2:
+        non_striker: Z James
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 22.3:
+        non_striker: Z James
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 22.4:
+        non_striker: Z James
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 22.5:
+        non_striker: Z James
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 22.6:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 23.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 23.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 23.3:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 23.4:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+        wicket:
+          player_out: Z James
+          fielders:
+          - H Kaur
+          kind: caught
+    - 23.5:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 23.6:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 24.1:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.2:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.3:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.4:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.5:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 24.6:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 25.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.3:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.4:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.5:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.6:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 26.1:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 26.2:
+        non_striker: CA Henry
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 26.3:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 26.4:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 26.5:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CA Henry
+    - 26.6:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: CA Henry
+    - 26.7:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 26.8:
+        non_striker: AA Alleyne
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 27.1:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 27.2:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 27.3:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 27.4:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 27.5:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 27.6:
+        non_striker: AA Alleyne
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 28.1:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AA Alleyne
+    - 28.2:
+        non_striker: CA Henry
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 28.3:
+        non_striker: AA Alleyne
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 28.4:
+        non_striker: AA Alleyne
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 28.5:
+        non_striker: AA Alleyne
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 28.6:
+        non_striker: AA Alleyne
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 29.1:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 29.2:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 29.3:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 29.4:
+        non_striker: AA Alleyne
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 29.5:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 29.6:
+        non_striker: CA Henry
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 30.1:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 30.2:
+        non_striker: CA Henry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 30.3:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 30.4:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CA Henry
+    - 30.5:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 30.6:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 31.1:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 31.2:
+        non_striker: CA Henry
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 31.3:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+        wicket:
+          player_out: CA Henry
+          kind: bowled
+    - 31.4:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 31.5:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 31.6:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 32.1:
+        non_striker: M Mangru
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 32.2:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 32.3:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 32.4:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 32.5:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mangru
+    - 32.6:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: M Mangru
+    - 32.7:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 32.8:
+        non_striker: AA Alleyne
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mangru
+    - 33.1:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 33.2:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 33.3:
+        non_striker: AA Alleyne
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mangru
+    - 33.4:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 33.5:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 33.6:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+        wicket:
+          player_out: AA Alleyne
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 34.1:
+        non_striker: ASS Fletcher
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 34.2:
+        non_striker: ASS Fletcher
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 34.3:
+        non_striker: ASS Fletcher
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 34.4:
+        non_striker: ASS Fletcher
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mangru
+    - 34.5:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 34.6:
+        non_striker: ASS Fletcher
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+    - 35.1:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 35.2:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 35.3:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+        wicket:
+          player_out: ASS Fletcher
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 35.4:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 35.5:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 35.6:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 36.1:
+        non_striker: A Munisar
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mangru
+    - 36.2:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 36.3:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 36.4:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 36.5:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Munisar
+    - 36.6:
+        non_striker: M Mangru
+        bowler: TP Kanwar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 37.1:
+        non_striker: A Munisar
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mangru
+    - 37.2:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 37.3:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 37.4:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 37.5:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+    - 37.6:
+        non_striker: M Mangru
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Munisar
+        wicket:
+          player_out: A Munisar
+          kind: bowled
+    - 38.1:
+        non_striker: K Ramharack
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mangru
+    - 38.2:
+        non_striker: M Mangru
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 38.3:
+        non_striker: M Mangru
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Ramharack
+    - 38.4:
+        non_striker: M Mangru
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ramharack
+    - 38.5:
+        non_striker: K Ramharack
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mangru
+        wicket:
+          player_out: M Mangru
+          fielders:
+          - JI Rodrigues
+          kind: caught
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 1.8:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Pratika Rawal
+    - 1.9:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 2.1:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.1:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.2:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.4:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.5:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 3.7:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 4.1:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.2:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.3:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.4:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 5.3:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 5.4:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - A Munisar
+          kind: caught
+    - 5.5:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.6:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 5.7:
+        non_striker: H Deol
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.1:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          fielders:
+          - SA Campbelle
+          kind: caught
+    - 6.2:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.3:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 6.4:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 6.5:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 6.6:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.1:
+        non_striker: H Kaur
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 7.2:
+        non_striker: H Kaur
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 7.3:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 7.4:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.5:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.6:
+        non_striker: Pratika Rawal
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 7.7:
+        non_striker: H Kaur
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 7.8:
+        non_striker: H Kaur
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 7.9:
+        non_striker: H Kaur
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 8.1:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.2:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 8.3:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 8.4:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.5:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 8.6:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 8.7:
+        non_striker: Pratika Rawal
+        bowler: DJS Dottin
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 9.1:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.2:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.3:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.4:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+        wicket:
+          player_out: Pratika Rawal
+          fielders:
+          - K Ramharack
+          kind: caught
+    - 9.5:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 9.6:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JI Rodrigues
+    - 10.1:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.2:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.3:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 10.5:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.6:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.1:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.3:
+        non_striker: H Kaur
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.4:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 11.5:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.6:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.1:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: H Kaur
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.3:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          kind: bowled
+    - 13.1:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.4:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 13.5:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.6:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 14.1:
+        non_striker: DB Sharma
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.2:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 14.3:
+        non_striker: DB Sharma
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 14.4:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 14.5:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 14.6:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 15.1:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 15.2:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 15.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.4:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.5:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 15.6:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 16.1:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 16.2:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: DB Sharma
+    - 16.3:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 16.4:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 16.5:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 16.6:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 16.7:
+        non_striker: JI Rodrigues
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 17.1:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 17.2:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 17.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 17.4:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 17.5:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 17.6:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 18.1:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.2:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 18.3:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 18.4:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 18.5:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 18.6:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 19.1:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.2:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 19.3:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 19.4:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 19.5:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 19.6:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 20.1:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 20.2:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 20.3:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 20.4:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 20.5:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 20.6:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.1:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.2:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 21.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.4:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 21.5:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 21.6:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.1:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 22.2:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.3:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.4:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 22.5:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.6:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 23.1:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 23.2:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 23.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 23.4:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.5:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.6:
+        non_striker: JI Rodrigues
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 24.1:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 24.2:
+        non_striker: JI Rodrigues
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 24.3:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.4:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - DJS Dottin
+          kind: caught
+    - 24.5:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 24.6:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 25.1:
+        non_striker: RM Ghosh
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 25.2:
+        non_striker: RM Ghosh
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 25.3:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 25.4:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 25.5:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 25.6:
+        non_striker: DB Sharma
+        bowler: HK Matthews
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 26.1:
+        non_striker: RM Ghosh
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 26.2:
+        non_striker: RM Ghosh
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 26.3:
+        non_striker: RM Ghosh
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 26.4:
+        non_striker: RM Ghosh
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 26.5:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 26.6:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: RM Ghosh
+    - 26.7:
+        non_striker: DB Sharma
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 27.1:
+        non_striker: RM Ghosh
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 27.2:
+        non_striker: DB Sharma
+        bowler: A Munisar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RM Ghosh
+    - 27.3:
+        non_striker: DB Sharma
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 27.4:
+        non_striker: RM Ghosh
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.5:
+        non_striker: RM Ghosh
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: DB Sharma
+    - 27.6:
+        non_striker: RM Ghosh
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 27.7:
+        non_striker: RM Ghosh
+        bowler: A Munisar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 28.1:
+        non_striker: DB Sharma
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh
+    - 28.2:
+        non_striker: DB Sharma
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: RM Ghosh

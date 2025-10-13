@@ -1,0 +1,2708 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-06-18'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Hambantota
+  dates:
+  - '2024-06-18'
+  gender: female
+  match_type: ODI
+  match_type_number: 1389
+  outcome:
+    winner: Sri Lanka
+    by:
+      wickets: 5
+  overs: 50
+  players:
+    West Indies:
+    - RS Williams
+    - S Gajnabi
+    - SA Campbelle
+    - SR Taylor
+    - CN Nation
+    - CA Henry
+    - AA Alleyne
+    - ASS Fletcher
+    - Z James
+    - K Ramharack
+    - SS Connell
+    Sri Lanka:
+    - RMVD Gunaratne
+    - AC Jayangani
+    - H Madavi
+    - WK Dilhari
+    - GWHM Perera
+    - NND de Silva
+    - MAA Sanjeewani
+    - BMSM Kumari
+    - KDU Prabodhani
+    - WGAKK Kulasuriya
+    - S Nisansala
+  registry:
+    people:
+      AA Alleyne: 4b0e3049
+      AC Jayangani: ac56b5a7
+      ASS Fletcher: 42d9dd09
+      BMSM Kumari: b55fb828
+      CA Henry: '75820733'
+      CN Nation: 639000b6
+      GWHM Perera: 53068b45
+      H Madavi: 85021bcd
+      K Ramharack: 321c980e
+      KDU Prabodhani: a0fdf513
+      LDVV Silva: 6e226c31
+      LE Hannibal: 3c04e91a
+      Lauren Agenbag: 40849abd
+      MAA Sanjeewani: 318a4039
+      NND de Silva: f0b4294e
+      RMVD Gunaratne: 9e866b59
+      RS Williams: 406de451
+      RSA Palliyaguruge: 4339c19d
+      S Gajnabi: c35739a1
+      S Nisansala: 1251a339
+      SA Campbelle: a7cd72b2
+      SR Taylor: 92cf79a8
+      SS Connell: 2f9a6bd1
+      V Bowen: 7297ac4d
+      WGAKK Kulasuriya: 550373ea
+      WK Dilhari: c34a15e6
+      Z James: 816af623
+  teams:
+  - West Indies
+  - Sri Lanka
+  toss:
+    winner: West Indies
+    decision: bat
+  umpires:
+  - Lauren Agenbag
+  - LE Hannibal
+  venue: Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota
+innings:
+- 1st innings:
+    team: West Indies
+    deliveries:
+    - 0.1:
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: S Gajnabi
+        batsman: RS Williams
+    - 0.2:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 0.3:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 0.4:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 0.5:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 0.6:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Gajnabi
+    - 1.1:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.2:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.3:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.4:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.5:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 1.6:
+        non_striker: S Gajnabi
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 2.1:
+        non_striker: S Gajnabi
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 2.2:
+        non_striker: S Gajnabi
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 2.3:
+        non_striker: S Gajnabi
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 2.4:
+        non_striker: S Gajnabi
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+        wicket:
+          player_out: S Gajnabi
+          fielders:
+          - WK Dilhari
+          kind: run out
+    - 2.5:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 2.6:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 3.1:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.2:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.3:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 3.4:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 3.5:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 3.6:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 4.1:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SA Campbelle
+    - 4.2:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.3:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.4:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.5:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 4.6:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.1:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 5.2:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 5.3:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 5.4:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.5:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 5.6:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+    - 6.1:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 6.2:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Williams
+    - 6.3:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 6.4:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 6.5:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 6.6:
+        non_striker: SA Campbelle
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 7.1:
+        non_striker: RS Williams
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SA Campbelle
+    - 7.2:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 7.3:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 7.4:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 7.5:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 7.6:
+        non_striker: SA Campbelle
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 8.1:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SA Campbelle
+    - 8.2:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SA Campbelle
+        wicket:
+          player_out: SA Campbelle
+          kind: bowled
+    - 8.3:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 8.4:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 8.5:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 8.6:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 9.1:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 9.2:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 9.3:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 9.4:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 9.5:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 9.6:
+        non_striker: SR Taylor
+        bowler: KDU Prabodhani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 10.1:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 10.2:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 10.3:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 10.4:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 10.5:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 10.6:
+        non_striker: SR Taylor
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 11.1:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 11.2:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 11.3:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SR Taylor
+    - 11.4:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Williams
+    - 11.5:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 11.6:
+        non_striker: SR Taylor
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 12.1:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+    - 12.2:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SR Taylor
+        wicket:
+          player_out: SR Taylor
+          kind: lbw
+    - 12.3:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 12.4:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 12.5:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CN Nation
+    - 12.6:
+        non_striker: RS Williams
+        bowler: WGAKK Kulasuriya
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 13.1:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 13.2:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 13.3:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 13.4:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 13.5:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 13.6:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 14.1:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 14.2:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Williams
+    - 14.3:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 14.4:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 14.5:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 14.6:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RS Williams
+    - 15.1:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 15.2:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 15.3:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 15.4:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 15.5:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 15.6:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 16.1:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 16.2:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 16.3:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 16.4:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RS Williams
+    - 16.5:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 16.6:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 17.1:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation
+    - 17.2:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 17.3:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 17.4:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 17.5:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 17.6:
+        non_striker: RS Williams
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 18.1:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CN Nation
+    - 18.2:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CN Nation
+    - 18.3:
+        non_striker: CN Nation
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RS Williams
+    - 18.4:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 18.5:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 18.6:
+        non_striker: RS Williams
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 19.1:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 19.2:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+    - 19.3:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RS Williams
+        wicket:
+          player_out: RS Williams
+          kind: bowled
+    - 19.4:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 19.5:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 19.6:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 20.1:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+    - 20.2:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 20.3:
+        non_striker: CA Henry
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 20.4:
+        non_striker: CA Henry
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 20.5:
+        non_striker: CA Henry
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 20.6:
+        non_striker: CA Henry
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 21.1:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CA Henry
+    - 21.2:
+        non_striker: CN Nation
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CA Henry
+    - 21.3:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 21.4:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 21.5:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 21.6:
+        non_striker: CA Henry
+        bowler: BMSM Kumari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 22.1:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CA Henry
+        wicket:
+          player_out: CA Henry
+          fielders:
+          - NND de Silva
+          kind: caught
+    - 22.2:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 22.3:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 22.4:
+        non_striker: CN Nation
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 22.5:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+    - 22.6:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CN Nation
+        wicket:
+          player_out: CN Nation
+          fielders:
+          - WGAKK Kulasuriya
+          kind: caught
+    - 23.1:
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: ASS Fletcher
+        batsman: AA Alleyne
+    - 23.2:
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: ASS Fletcher
+        batsman: AA Alleyne
+    - 23.3:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 23.4:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 23.5:
+        non_striker: ASS Fletcher
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 23.6:
+        non_striker: ASS Fletcher
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.1:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 24.2:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 24.3:
+        non_striker: AA Alleyne
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 24.4:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 24.5:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 24.6:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 25.1:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ASS Fletcher
+    - 25.2:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASS Fletcher
+    - 25.3:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 25.4:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 25.5:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ASS Fletcher
+    - 25.6:
+        non_striker: AA Alleyne
+        bowler: S Nisansala
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 26.1:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 26.2:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 26.3:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 26.4:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AA Alleyne
+    - 26.5:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+    - 26.6:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AA Alleyne
+    - 27.1:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AA Alleyne
+        wicket:
+          player_out: AA Alleyne
+          kind: bowled
+    - 27.2:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Z James
+    - 27.3:
+        non_striker: Z James
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 27.4:
+        non_striker: Z James
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 27.5:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 27.6:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Z James
+    - 28.1:
+        non_striker: Z James
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 28.2:
+        non_striker: Z James
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 28.3:
+        non_striker: Z James
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 28.4:
+        non_striker: Z James
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 28.5:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 28.6:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+    - 29.1:
+        non_striker: Z James
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ASS Fletcher
+    - 29.2:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Z James
+        wicket:
+          player_out: Z James
+          kind: lbw
+    - 29.3:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 29.4:
+        non_striker: ASS Fletcher
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ramharack
+    - 29.5:
+        non_striker: K Ramharack
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 29.6:
+        non_striker: K Ramharack
+        bowler: AC Jayangani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+    - 30.1:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 30.2:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 30.3:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Ramharack
+    - 30.4:
+        non_striker: ASS Fletcher
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Ramharack
+    - 30.5:
+        non_striker: K Ramharack
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ASS Fletcher
+        wicket:
+          player_out: ASS Fletcher
+          kind: lbw
+    - 30.6:
+        non_striker: K Ramharack
+        bowler: WK Dilhari
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SS Connell
+        wicket:
+          player_out: SS Connell
+          kind: caught and bowled
+- 2nd innings:
+    team: Sri Lanka
+    deliveries:
+    - 0.1:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: RMVD Gunaratne
+    - 0.2:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: RMVD Gunaratne
+    - 0.3:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: AC Jayangani
+        batsman: RMVD Gunaratne
+    - 0.4:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: RMVD Gunaratne
+    - 0.5:
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: AC Jayangani
+        batsman: RMVD Gunaratne
+    - 0.6:
+        non_striker: AC Jayangani
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 1.1:
+        non_striker: RMVD Gunaratne
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AC Jayangani
+    - 1.2:
+        non_striker: AC Jayangani
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.3:
+        non_striker: AC Jayangani
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 1.4:
+        non_striker: AC Jayangani
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 1.5:
+        non_striker: RMVD Gunaratne
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 1.6:
+        non_striker: RMVD Gunaratne
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.1:
+        non_striker: AC Jayangani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 2.2:
+        non_striker: AC Jayangani
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 2.3:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.4:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.5:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+    - 2.6:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AC Jayangani
+        wicket:
+          player_out: AC Jayangani
+          kind: bowled
+    - 3.1:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.2:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.3:
+        bowler: CA Henry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.4:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.5:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.6:
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: H Madavi
+        batsman: RMVD Gunaratne
+    - 3.7:
+        non_striker: H Madavi
+        bowler: CA Henry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 4.1:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.2:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 4.3:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.4:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Madavi
+    - 4.5:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.6:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.7:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 4.8:
+        non_striker: RMVD Gunaratne
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.1:
+        non_striker: H Madavi
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 5.2:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.3:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+    - 5.4:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Madavi
+        wicket:
+          player_out: H Madavi
+          fielders:
+          - CN Nation
+          kind: caught
+    - 5.5:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: WK Dilhari
+    - 5.6:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 5.7:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 6.1:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.2:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.3:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.4:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.5:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 6.6:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 7.1:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.2:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.3:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.4:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.5:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 7.6:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 8.1:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.2:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 8.3:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 8.4:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.5:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 8.6:
+        non_striker: WK Dilhari
+        bowler: AA Alleyne
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 9.1:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: WK Dilhari
+    - 9.2:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.3:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.4:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 9.5:
+        non_striker: RMVD Gunaratne
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 9.6:
+        non_striker: WK Dilhari
+        bowler: SS Connell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 10.1:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 10.2:
+        non_striker: WK Dilhari
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 10.3:
+        non_striker: WK Dilhari
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 10.4:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 10.5:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 10.6:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 11.1:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 11.2:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 11.3:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 11.4:
+        non_striker: RMVD Gunaratne
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 11.5:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 11.6:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 12.1:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 12.2:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: WK Dilhari
+    - 12.3:
+        non_striker: WK Dilhari
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 12.4:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 12.5:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 12.6:
+        non_striker: RMVD Gunaratne
+        bowler: ASS Fletcher
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 13.1:
+        non_striker: RMVD Gunaratne
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 13.2:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: RMVD Gunaratne
+    - 13.3:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 13.4:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 13.5:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 13.6:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 13.7:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 14.1:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 14.2:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 14.3:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 14.4:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 14.5:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 14.6:
+        non_striker: RMVD Gunaratne
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.1:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 15.2:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 15.3:
+        non_striker: RMVD Gunaratne
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 15.4:
+        non_striker: RMVD Gunaratne
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 15.5:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RMVD Gunaratne
+    - 15.6:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RMVD Gunaratne
+    - 16.1:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+    - 16.2:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RMVD Gunaratne
+        wicket:
+          player_out: RMVD Gunaratne
+          fielders:
+          - CA Henry
+          kind: caught
+    - 16.3:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 16.4:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 16.5:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+    - 16.6:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GWHM Perera
+    - 17.1:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GWHM Perera
+        wicket:
+          player_out: GWHM Perera
+          kind: bowled
+    - 17.2:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.3:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 17.4:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: WK Dilhari
+    - 17.5:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 17.6:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: WK Dilhari
+    - 18.1:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.2:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.3:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.4:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 18.5:
+        non_striker: WK Dilhari
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 18.6:
+        non_striker: NND de Silva
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 19.1:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 19.2:
+        non_striker: WK Dilhari
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 19.3:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+    - 19.4:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: WK Dilhari
+        wicket:
+          player_out: WK Dilhari
+          fielders:
+          - CA Henry
+          kind: caught
+    - 19.5:
+        non_striker: NND de Silva
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 19.6:
+        non_striker: MAA Sanjeewani
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 20.1:
+        non_striker: NND de Silva
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 20.2:
+        non_striker: NND de Silva
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 20.3:
+        non_striker: NND de Silva
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: MAA Sanjeewani
+    - 20.4:
+        non_striker: MAA Sanjeewani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 20.5:
+        non_striker: MAA Sanjeewani
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva
+    - 20.6:
+        non_striker: NND de Silva
+        bowler: Z James
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: MAA Sanjeewani
+    - 21.1:
+        non_striker: MAA Sanjeewani
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NND de Silva
+    - 21.2:
+        non_striker: MAA Sanjeewani
+        bowler: K Ramharack
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NND de Silva

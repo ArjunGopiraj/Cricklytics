@@ -1,0 +1,4573 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-02'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Dhaka
+  dates:
+  - '2024-12-02'
+  gender: female
+  match_type: ODI
+  match_type_number: 1418
+  outcome:
+    winner: Bangladesh
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - Sharmin Akhter
+  players:
+    Ireland:
+    - S Forbes
+    - GH Lewis
+    - A Hunter
+    - O Prendergast
+    - L Paul
+    - U Raymond-Hoey
+    - AN Kelly
+    - A Dalzell
+    - C Murray
+    - FA Sargent
+    - AK Maguire
+    Bangladesh:
+    - Fargana Hoque
+    - Murshida Khatun
+    - Sharmin Akhter
+    - Nigar Sultana
+    - S Mostary
+    - Fahima Khatun
+    - Shorna Akter
+    - Nahida Akter
+    - Rabeya Khan
+    - Sultana Khatun
+    - Ritu Moni
+    - Marufa Akter
+  registry:
+    people:
+      A Dalzell: '66498395'
+      A Hunter: e8fa03ed
+      AK Maguire: f888a374
+      AN Kelly: 397369e0
+      Akhtar Ahmad: 29859e71
+      C Murray: 5a50471c
+      FA Sargent: fa6e2cb3
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      GH Lewis: 1b9d1579
+      L Paul: '07248d8e'
+      Marufa Akter: a50797a4
+      Mohammad Kamruzzaman: 74eb8175
+      Murshida Khatun: 712bbd92
+      Nahida Akter: '66078174'
+      Nigar Sultana: 3827f6a2
+      O Prendergast: d8f20ba5
+      Rabeya Khan: aaf037b1
+      Ritu Moni: ad3940a5
+      Rokeya Sultana: 20abf9b9
+      S Forbes: 5ecfab18
+      S Mostary: 94de63bf
+      S Redfern: 5b038989
+      Sharmin Akhter: 84fdd3cf
+      Shathira Jakir: 6b992a6f
+      Shorna Akter: 89895ae1
+      Sultana Khatun: fb0c0bcc
+      U Raymond-Hoey: 1a510809
+  teams:
+  - Ireland
+  - Bangladesh
+  toss:
+    winner: Ireland
+    decision: bat
+  umpires:
+  - Shathira Jakir
+  - S Redfern
+  venue: Shere Bangla National Stadium, Mirpur
+innings:
+- 1st innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: GH Lewis
+        batsman: S Forbes
+    - 0.2:
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: GH Lewis
+        batsman: S Forbes
+    - 0.3:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.4:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.5:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 0.6:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 1.2:
+        non_striker: S Forbes
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.3:
+        non_striker: S Forbes
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.4:
+        non_striker: S Forbes
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.5:
+        non_striker: S Forbes
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.6:
+        non_striker: S Forbes
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.1:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.3:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.4:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.5:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 2.6:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 4.1:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.2:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 4.3:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.4:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: S Forbes
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+        wicket:
+          player_out: S Forbes
+          kind: bowled
+    - 5.5:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 5.6:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 6.1:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Hunter
+    - 6.3:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 6.4:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 6.5:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 6.6:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 7.1:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.2:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.3:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 7.4:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.5:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.6:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 8.1:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.2:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.3:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.4:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 8.5:
+        non_striker: GH Lewis
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 8.6:
+        non_striker: A Hunter
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 9.1:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 9.2:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 9.3:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 9.4:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 9.5:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 9.6:
+        non_striker: A Hunter
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 10.2:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.3:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.4:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 10.5:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 10.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 11.1:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.2:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.3:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.4:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 11.5:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 11.6:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 12.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 12.2:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 12.3:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 12.4:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 12.5:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 12.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.1:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 13.2:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 13.3:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 13.4:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 13.5:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 13.6:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 14.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Hunter
+    - 14.2:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 14.3:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 14.4:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 14.5:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 14.6:
+        non_striker: A Hunter
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 15.1:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.2:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.3:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 15.4:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 15.5:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 15.6:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 16.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 16.2:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.3:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 16.4:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 16.5:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 16.6:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 17.1:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 17.2:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 17.3:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 17.4:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+    - 17.5:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 17.6:
+        non_striker: A Hunter
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Hunter
+    - 18.2:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.3:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.4:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.5:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 18.6:
+        non_striker: A Hunter
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 19.1:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Hunter
+        wicket:
+          player_out: A Hunter
+          kind: lbw
+    - 19.2:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 19.3:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 19.4:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 19.5:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 19.6:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 20.1:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 20.2:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 20.3:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 20.4:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 20.5:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 20.6:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 21.1:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.2:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.3:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.4:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.5:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.6:
+        non_striker: GH Lewis
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.2:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.3:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 22.4:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 22.5:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 22.6:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.2:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GH Lewis
+    - 23.3:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 23.4:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 23.5:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 23.6:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 24.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.2:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.3:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.4:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 24.5:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 24.6:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 25.1:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 25.2:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: O Prendergast
+    - 25.3:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 25.4:
+        non_striker: GH Lewis
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.5:
+        non_striker: O Prendergast
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 25.6:
+        non_striker: O Prendergast
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 26.1:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.2:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 26.3:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 26.4:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.5:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.6:
+        non_striker: GH Lewis
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 27.1:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 27.2:
+        non_striker: O Prendergast
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GH Lewis
+    - 27.3:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 27.4:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 27.5:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 27.6:
+        non_striker: GH Lewis
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 28.1:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          kind: bowled
+    - 28.2:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 28.3:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 28.4:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 28.5:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 28.6:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 29.1:
+        non_striker: L Paul
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 29.2:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 29.3:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 29.4:
+        non_striker: L Paul
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 29.5:
+        non_striker: L Paul
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: L Paul
+          fielders:
+          - Nigar Sultana
+          - Rabeya Khan
+          kind: run out
+    - 29.6:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: U Raymond-Hoey
+    - 29.7:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 30.1:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 30.2:
+        non_striker: U Raymond-Hoey
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 30.3:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 30.4:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 30.5:
+        non_striker: O Prendergast
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 30.6:
+        non_striker: U Raymond-Hoey
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 31.1:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 31.2:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 31.3:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 31.4:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 31.5:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 31.6:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 32.1:
+        non_striker: U Raymond-Hoey
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 32.2:
+        non_striker: U Raymond-Hoey
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: O Prendergast
+    - 32.3:
+        non_striker: U Raymond-Hoey
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 32.4:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 32.5:
+        non_striker: U Raymond-Hoey
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 32.6:
+        non_striker: O Prendergast
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 33.1:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 33.2:
+        non_striker: O Prendergast
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: U Raymond-Hoey
+    - 33.3:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 33.4:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          kind: bowled
+    - 33.5:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 33.6:
+        non_striker: U Raymond-Hoey
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 34.1:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+    - 34.2:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: U Raymond-Hoey
+        wicket:
+          player_out: U Raymond-Hoey
+          fielders:
+          - Fahima Khatun
+          kind: caught
+    - 34.3:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 34.4:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 34.5:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 34.6:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 35.1:
+        non_striker: A Dalzell
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 35.2:
+        non_striker: AN Kelly
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 35.3:
+        non_striker: AN Kelly
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 35.4:
+        non_striker: A Dalzell
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 35.5:
+        non_striker: AN Kelly
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 35.6:
+        non_striker: AN Kelly
+        bowler: Shorna Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 36.1:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 36.2:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 36.3:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 36.4:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 36.5:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 36.6:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 37.1:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 37.2:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 37.3:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 37.4:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 37.5:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 37.6:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 38.1:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 38.2:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 38.3:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 38.4:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 38.5:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 38.6:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 39.1:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 39.2:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 39.3:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 39.4:
+        non_striker: A Dalzell
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 39.5:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 39.6:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 40.1:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 40.2:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Kelly
+    - 40.3:
+        non_striker: A Dalzell
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 40.4:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 40.5:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Dalzell
+    - 40.6:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 40.7:
+        non_striker: AN Kelly
+        bowler: Sultana Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 41.1:
+        non_striker: A Dalzell
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        replacements:
+          match:
+          - in: Ritu Moni
+            out: Marufa Akter
+            team: Bangladesh
+            reason: concussion_substitute
+        batsman: AN Kelly
+    - 41.2:
+        non_striker: A Dalzell
+        bowler: Ritu Moni
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AN Kelly
+    - 41.3:
+        non_striker: A Dalzell
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 41.4:
+        non_striker: A Dalzell
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 41.5:
+        non_striker: A Dalzell
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 41.6:
+        non_striker: AN Kelly
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 41.7:
+        non_striker: AN Kelly
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 42.1:
+        non_striker: A Dalzell
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.2:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 42.3:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 42.4:
+        non_striker: A Dalzell
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.5:
+        non_striker: AN Kelly
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 42.6:
+        non_striker: A Dalzell
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 43.1:
+        non_striker: A Dalzell
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 43.2:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 43.3:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 43.4:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 43.5:
+        non_striker: A Dalzell
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 43.6:
+        non_striker: AN Kelly
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 44.1:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 44.2:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 44.3:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 44.4:
+        non_striker: AN Kelly
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 44.5:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 44.6:
+        non_striker: A Dalzell
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          kind: bowled
+    - 45.1:
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: C Murray
+        batsman: A Dalzell
+    - 45.2:
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: C Murray
+        batsman: A Dalzell
+    - 45.3:
+        non_striker: A Dalzell
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 45.4:
+        non_striker: C Murray
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+    - 45.5:
+        non_striker: C Murray
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Dalzell
+    - 45.6:
+        non_striker: A Dalzell
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+    - 46.1:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Dalzell
+    - 46.2:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Dalzell
+        wicket:
+          player_out: A Dalzell
+          kind: lbw
+    - 46.3:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 46.4:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Sargent
+    - 46.5:
+        non_striker: FA Sargent
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 46.6:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: FA Sargent
+    - 47.1:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 47.2:
+        non_striker: C Murray
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 47.3:
+        non_striker: C Murray
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 47.4:
+        non_striker: C Murray
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 47.5:
+        non_striker: C Murray
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Sargent
+    - 47.6:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Murray
+    - 48.1:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 48.2:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Sargent
+    - 48.3:
+        non_striker: FA Sargent
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C Murray
+    - 48.4:
+        non_striker: FA Sargent
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 48.5:
+        non_striker: C Murray
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Sargent
+    - 48.6:
+        non_striker: FA Sargent
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C Murray
+    - 49.1:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C Murray
+        wicket:
+          player_out: C Murray
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+    - 49.2:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AK Maguire
+    - 49.3:
+        non_striker: AK Maguire
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: FA Sargent
+    - 49.4:
+        non_striker: AK Maguire
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FA Sargent
+    - 49.5:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AK Maguire
+    - 49.6:
+        non_striker: FA Sargent
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AK Maguire
+        wicket:
+          player_out: AK Maguire
+          fielders:
+          - Nigar Sultana
+          kind: stumped
+- 2nd innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: Murshida Khatun
+        batsman: Fargana Hoque
+    - 0.2:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.3:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.4:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 0.5:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 0.6:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.1:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.2:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Murshida Khatun
+    - 1.3:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.4:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.5:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 1.6:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 2.1:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 2.2:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.3:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.4:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.5:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.6:
+        non_striker: Murshida Khatun
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.1:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 3.2:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Murshida Khatun
+    - 3.3:
+        non_striker: Murshida Khatun
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.4:
+        non_striker: Murshida Khatun
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.5:
+        non_striker: Murshida Khatun
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 3.6:
+        non_striker: Murshida Khatun
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 4.1:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.2:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+    - 4.3:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Murshida Khatun
+        wicket:
+          player_out: Murshida Khatun
+          fielders:
+          - S Forbes
+          kind: caught
+    - 4.4:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.5:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 4.6:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.1:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 5.2:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 5.3:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 5.4:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 5.5:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 5.6:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 6.1:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 6.2:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 6.3:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 6.4:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.5:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.6:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.1:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.2:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 7.3:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sharmin Akhter
+    - 7.4:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 7.5:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 7.6:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 8.1:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 8.2:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 8.3:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 8.4:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 8.5:
+        non_striker: Sharmin Akhter
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 8.6:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 8.7:
+        non_striker: Fargana Hoque
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.1:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 9.2:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 9.3:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.4:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.5:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 9.6:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 10.1:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 10.2:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 10.3:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.4:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.5:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Sharmin Akhter
+    - 10.6:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 10.7:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 10.8:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 10.9:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 11.1:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.2:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 11.3:
+        non_striker: Sharmin Akhter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 11.4:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 11.5:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.6:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 12.1:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 12.2:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 12.3:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 12.4:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 12.5:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 12.6:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.1:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.2:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.3:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.4:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.5:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 13.6:
+        non_striker: Sharmin Akhter
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 14.1:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 14.2:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 14.3:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 14.4:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 14.5:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 14.6:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 14.7:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 15.1:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.2:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.3:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.4:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.5:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.6:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.1:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 16.2:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 16.3:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 16.4:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 16.5:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.6:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 17.1:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.2:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.3:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 17.4:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 17.5:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 17.6:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 18.1:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 18.2:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 18.3:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 18.4:
+        non_striker: Sharmin Akhter
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 18.5:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 18.6:
+        non_striker: Fargana Hoque
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 19.1:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 19.2:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 19.3:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 19.4:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 19.5:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 19.6:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 20.1:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 20.2:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 20.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 20.4:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 20.5:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 20.6:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 21.1:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 21.2:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 21.3:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 21.4:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 21.5:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 21.6:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 21.7:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 21.8:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.1:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 22.2:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 22.4:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 22.5:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 22.6:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 23.1:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 23.2:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 23.3:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 23.4:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 23.5:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 23.6:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 23.7:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 23.8:
+        non_striker: Sharmin Akhter
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 24.1:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 24.2:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 24.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.4:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.5:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 24.6:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 25.1:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 25.2:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 25.3:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 25.4:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 25.5:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 25.6:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 25.7:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 25.8:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 25.9:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 25.10:
+        non_striker: Fargana Hoque
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 26.1:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 26.2:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.4:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.5:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 26.6:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 27.1:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 27.2:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 27.3:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 27.4:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 27.5:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 27.6:
+        non_striker: Fargana Hoque
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 28.1:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 28.2:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 28.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 28.4:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 28.5:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 28.6:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 29.1:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 29.2:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 29.3:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 29.4:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 29.5:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 29.6:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 29.7:
+        non_striker: Sharmin Akhter
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 30.1:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 30.2:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 30.3:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 30.4:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 30.5:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 30.6:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 31.1:
+        non_striker: Fargana Hoque
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 31.2:
+        non_striker: Fargana Hoque
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 31.3:
+        non_striker: Fargana Hoque
+        bowler: S Forbes
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          noballs: 2
+        batsman: Sharmin Akhter
+    - 31.4:
+        non_striker: Sharmin Akhter
+        bowler: S Forbes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fargana Hoque
+    - 31.5:
+        non_striker: Sharmin Akhter
+        bowler: S Forbes
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Fargana Hoque
+    - 31.6:
+        non_striker: Sharmin Akhter
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 31.7:
+        non_striker: Sharmin Akhter
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 31.8:
+        non_striker: Fargana Hoque
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 31.9:
+        non_striker: Sharmin Akhter
+        bowler: S Forbes
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 32.1:
+        non_striker: Sharmin Akhter
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 32.2:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 32.3:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          fielders:
+          - FA Sargent
+          kind: caught
+    - 32.4:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 32.5:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 32.6:
+        non_striker: Fargana Hoque
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 33.1:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fargana Hoque
+    - 33.2:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fargana Hoque
+    - 33.3:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 33.4:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 33.5:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 33.6:
+        non_striker: Fargana Hoque
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nigar Sultana
+    - 34.1:
+        non_striker: Nigar Sultana
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fargana Hoque
+    - 34.2:
+        non_striker: Nigar Sultana
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          fielders:
+          - A Hunter
+          kind: caught
+    - 34.3:
+        non_striker: Nigar Sultana
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 34.4:
+        non_striker: S Mostary
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 34.5:
+        non_striker: S Mostary
+        bowler: AK Maguire
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 34.6:
+        non_striker: S Mostary
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 34.7:
+        non_striker: S Mostary
+        bowler: AK Maguire
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 35.1:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.2:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 35.3:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 35.4:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 35.5:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 35.6:
+        non_striker: S Mostary
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 36.1:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 36.2:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nigar Sultana
+    - 36.3:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 36.4:
+        non_striker: S Mostary
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 36.5:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mostary
+    - 36.6:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 36.7:
+        non_striker: Nigar Sultana
+        bowler: C Murray
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mostary
+    - 37.1:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 37.2:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mostary
+    - 37.3:
+        non_striker: Nigar Sultana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mostary

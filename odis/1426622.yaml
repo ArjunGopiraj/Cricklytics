@@ -1,0 +1,4942 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-12-20'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Perth
+  dates:
+  - '2024-12-11'
+  gender: female
+  match_type: ODI
+  match_type_number: 1423
+  outcome:
+    winner: Australia
+    by:
+      runs: 83
+  overs: 50
+  player_of_match:
+  - A Sutherland
+  players:
+    Australia:
+    - P Litchfield
+    - G Voll
+    - EA Perry
+    - BL Mooney
+    - A Sutherland
+    - A Gardner
+    - TM McGrath
+    - S Molineux
+    - A King
+    - KJ Garth
+    - ML Schutt
+    India:
+    - S Mandhana
+    - RM Ghosh
+    - H Deol
+    - H Kaur
+    - JI Rodrigues
+    - DB Sharma
+    - M Mani
+    - A Reddy
+    - SZ Thakor
+    - TR Sadhu
+    - Renuka Singh
+  registry:
+    people:
+      A Gardner: bc969efb
+      A King: '83558266'
+      A Reddy: eadc8924
+      A Sutherland: 65d9b6b6
+      Ashlee Gibbons: b81712f7
+      BL Mooney: 52d1dbc8
+      CA Polosak: 26a360d2
+      DB Sharma: 201fef33
+      Dave Gilbert: aa782370
+      EA Perry: be150fc8
+      Eloise Sheridan: d8d43840
+      G Voll: 5c30d455
+      H Deol: 3664712e
+      H Kaur: 53cd8da6
+      JI Rodrigues: cb08b611
+      JM Williams: b61d9d70
+      KJ Garth: 0b69a844
+      M Mani: 8d1ade08
+      ML Schutt: 17608a6f
+      P Litchfield: 4e6ef14f
+      RM Ghosh: 721e0199
+      Renuka Singh: 7298db76
+      S Mandhana: 5d2eda89
+      S Molineux: 99e23670
+      SZ Thakor: 7d794fa6
+      TM McGrath: ca5acfa4
+      TR Sadhu: 25ca0573
+  teams:
+  - Australia
+  - India
+  toss:
+    winner: India
+    decision: field
+  umpires:
+  - CA Polosak
+  - JM Williams
+  venue: Western Australia Cricket Association Ground, Perth
+innings:
+- 1st innings:
+    team: Australia
+    deliveries:
+    - 0.1:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 0.2:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 0.3:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 0.4:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 0.5:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 0.6:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 1.1:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.2:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.3:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.4:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.5:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 1.6:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 2.1:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 2.2:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 2.3:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 2.4:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.5:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 2.6:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 3.1:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 3.2:
+        non_striker: G Voll
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Litchfield
+    - 3.3:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Voll
+    - 3.4:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Voll
+    - 3.5:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 3.6:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: G Voll
+    - 3.7:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 3.8:
+        non_striker: P Litchfield
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 4.1:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.2:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.3:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 4.4:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.5:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 4.6:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.1:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: G Voll
+    - 5.2:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 5.3:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 5.4:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 5.5:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 5.6:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 5.7:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.1:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 6.2:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 6.3:
+        non_striker: P Litchfield
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 6.4:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 6.5:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 6.6:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 6.7:
+        non_striker: G Voll
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: P Litchfield
+    - 7.1:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 7.2:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: G Voll
+    - 7.3:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Voll
+    - 7.4:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 7.5:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 7.6:
+        non_striker: P Litchfield
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 8.1:
+        non_striker: G Voll
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Litchfield
+    - 8.2:
+        non_striker: G Voll
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.3:
+        non_striker: G Voll
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.4:
+        non_striker: G Voll
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 8.5:
+        non_striker: G Voll
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Litchfield
+    - 8.6:
+        non_striker: P Litchfield
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+    - 9.1:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Litchfield
+    - 9.2:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.3:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.4:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.5:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.6:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 9.7:
+        non_striker: G Voll
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.1:
+        non_striker: P Litchfield
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Voll
+        wicket:
+          player_out: G Voll
+          kind: bowled
+    - 10.2:
+        non_striker: P Litchfield
+        bowler: A Reddy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: EA Perry
+    - 10.3:
+        non_striker: P Litchfield
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 10.4:
+        non_striker: EA Perry
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+    - 10.5:
+        non_striker: EA Perry
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Litchfield
+        wicket:
+          player_out: P Litchfield
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 10.6:
+        non_striker: EA Perry
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 10.7:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 11.1:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 11.2:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: BL Mooney
+    - 11.3:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.4:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.5:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.6:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 11.7:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 12.1:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.2:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.3:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.4:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.5:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 12.6:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.1:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BL Mooney
+    - 13.2:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 13.3:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.4:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+    - 13.5:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EA Perry
+    - 13.6:
+        non_striker: EA Perry
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 14.1:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: EA Perry
+    - 14.2:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EA Perry
+        wicket:
+          player_out: EA Perry
+          kind: bowled
+    - 14.3:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 14.4:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 14.5:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 14.6:
+        non_striker: BL Mooney
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 15.1:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 15.2:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 15.3:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 15.4:
+        non_striker: BL Mooney
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 15.5:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+    - 15.6:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: BL Mooney
+    - 15.7:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BL Mooney
+    - 16.1:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BL Mooney
+        wicket:
+          player_out: BL Mooney
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 16.2:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 16.3:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 16.4:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 16.5:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 16.6:
+        non_striker: A Gardner
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 17.1:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 17.2:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 17.3:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 17.4:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 17.5:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 17.6:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 18.1:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 18.2:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 18.3:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 18.4:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 18.5:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 18.6:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 19.1:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 19.2:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 19.3:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 19.4:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 19.5:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 19.6:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 20.1:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 20.2:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 20.3:
+        non_striker: A Gardner
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 20.4:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 20.5:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 20.6:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 21.1:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 21.2:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 21.3:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 21.4:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 21.5:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 21.6:
+        non_striker: A Gardner
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 22.1:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 22.2:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: A Gardner
+    - 22.3:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 22.4:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 22.5:
+        non_striker: A Gardner
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 22.6:
+        non_striker: A Gardner
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 22.7:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 23.1:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 23.2:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Sutherland
+    - 23.3:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 23.4:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 23.5:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 23.6:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 23.7:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 24.1:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 24.2:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 24.3:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 24.4:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 24.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 24.6:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 25.1:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 25.2:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 25.3:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 25.4:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 25.5:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 25.6:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 26.1:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 26.2:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 26.3:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 26.4:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 26.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 26.6:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 27.1:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 27.2:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 27.3:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 27.4:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 27.5:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 27.6:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 28.1:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 28.2:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 28.3:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.4:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 28.5:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 28.6:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 29.1:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 29.2:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 29.3:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Gardner
+    - 29.4:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 29.5:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 29.6:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 29.7:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 30.1:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 30.2:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 30.3:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 30.4:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 30.5:
+        non_striker: A Gardner
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 30.6:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Gardner
+    - 31.1:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 31.2:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: A Gardner
+    - 31.3:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 31.4:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Gardner
+    - 31.5:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 31.6:
+        non_striker: A Gardner
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.1:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 32.2:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.3:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 32.4:
+        non_striker: A Gardner
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 32.5:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 32.6:
+        non_striker: A Sutherland
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 33.1:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Gardner
+    - 33.2:
+        non_striker: A Gardner
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 33.3:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 33.4:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 33.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+    - 33.6:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Gardner
+        wicket:
+          player_out: A Gardner
+          fielders:
+          - M Mani
+          kind: caught
+    - 34.1:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.2:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 34.3:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 34.4:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 34.5:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 34.6:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 35.1:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 35.2:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.3:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.4:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 35.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 35.6:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 36.1:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 36.2:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 36.3:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 36.4:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 36.5:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 36.6:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.1:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.2:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 37.3:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 37.4:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 37.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 37.6:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 38.1:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 38.2:
+        non_striker: TM McGrath
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 38.3:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 38.4:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 38.5:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 38.6:
+        non_striker: A Sutherland
+        bowler: Renuka Singh
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 39.1:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 39.2:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 39.3:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 39.4:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 39.5:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 39.6:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 40.1:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 40.2:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 40.3:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 40.4:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 40.5:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 40.6:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 41.1:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 41.2:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 41.3:
+        non_striker: TM McGrath
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 41.4:
+        non_striker: TM McGrath
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 41.5:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 41.6:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 42.1:
+        non_striker: TM McGrath
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.2:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 42.3:
+        non_striker: TM McGrath
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.4:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: TM McGrath
+    - 42.5:
+        non_striker: TM McGrath
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 42.6:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 43.1:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 43.2:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 43.3:
+        non_striker: TM McGrath
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 43.4:
+        non_striker: TM McGrath
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 43.5:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 43.6:
+        non_striker: A Sutherland
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 44.1:
+        non_striker: TM McGrath
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 44.2:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 44.3:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 44.4:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 44.5:
+        non_striker: TM McGrath
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 44.6:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 45.1:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 45.2:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 45.3:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 45.4:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 45.5:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 45.6:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 46.1:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 46.2:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 46.3:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 46.4:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Sutherland
+    - 46.5:
+        non_striker: TM McGrath
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 46.6:
+        non_striker: A Sutherland
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 47.1:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 47.2:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 47.3:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Sutherland
+    - 47.4:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+    - 47.5:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TM McGrath
+    - 47.6:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 48.1:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 48.2:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 48.3:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 48.4:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TM McGrath
+    - 48.5:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TM McGrath
+    - 48.6:
+        non_striker: A Sutherland
+        bowler: M Mani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 49.1:
+        non_striker: A Sutherland
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TM McGrath
+    - 49.2:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Sutherland
+    - 49.3:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 49.4:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Sutherland
+    - 49.5:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Sutherland
+        wicket:
+          player_out: A Sutherland
+          fielders:
+          - RM Ghosh
+          - JI Rodrigues
+          kind: run out
+    - 49.6:
+        non_striker: TM McGrath
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Molineux
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 0.5:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.6:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 1.4:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RM Ghosh
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 2.1:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.4:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 2.5:
+        non_striker: RM Ghosh
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+    - 3.1:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 3.4:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.5:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.7:
+        non_striker: RM Ghosh
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          kind: bowled
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 4.4:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.1:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 5.3:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 5.4:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 5.5:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 5.6:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 6.2:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.3:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.6:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 7.1:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.2:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.3:
+        non_striker: H Deol
+        bowler: KJ Garth
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 7.5:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 7.6:
+        non_striker: S Mandhana
+        bowler: KJ Garth
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 8.1:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.2:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: H Deol
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.4:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 8.5:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 9.1:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.3:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 9.4:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.5:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 9.6:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 10.1:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 10.3:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.4:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.5:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 10.6:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 10.7:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 11.1:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 11.2:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.3:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.4:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 11.5:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 11.6:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.1:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 12.2:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 12.3:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.4:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 12.5:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 12.6:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Mandhana
+    - 13.1:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.2:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 13.3:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.4:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.5:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 13.6:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 14.1:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.2:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.3:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 14.4:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 14.5:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 14.6:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 15.1:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 15.2:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 15.3:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 15.4:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 15.5:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 15.6:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 16.1:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 16.2:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 16.3:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 16.4:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 16.5:
+        non_striker: H Deol
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 16.6:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 16.7:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.1:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 17.2:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.3:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.4:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 17.5:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 17.6:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 18.1:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 18.2:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 18.3:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 18.4:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 18.5:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 18.6:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 18.7:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 18.8:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 19.1:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 19.2:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 19.3:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 19.4:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 19.5:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 19.6:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 20.1:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 20.2:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 20.3:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.4:
+        non_striker: S Mandhana
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 20.5:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 20.6:
+        non_striker: H Deol
+        bowler: EA Perry
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 21.1:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.2:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.3:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 21.4:
+        non_striker: H Deol
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 21.5:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.6:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 22.1:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 22.2:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 22.3:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 22.4:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 22.5:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 22.6:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 23.1:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 23.2:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 23.3:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 23.4:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 23.5:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 23.6:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 24.1:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 24.2:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 24.3:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 24.4:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 24.5:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 24.6:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 25.1:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 25.2:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 25.3:
+        non_striker: S Mandhana
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 25.4:
+        non_striker: S Mandhana
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 25.5:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 25.6:
+        non_striker: H Deol
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 25.7:
+        non_striker: S Mandhana
+        bowler: TM McGrath
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 26.1:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 26.2:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 26.3:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 26.4:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 26.5:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 26.6:
+        non_striker: H Deol
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 27.1:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 27.2:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          kind: caught and bowled
+    - 27.3:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 27.4:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 27.5:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 27.6:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 28.1:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 28.2:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 28.3:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 28.4:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 28.5:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 28.6:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: H Kaur
+    - 28.7:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 29.1:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 29.2:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 29.3:
+        non_striker: H Kaur
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 29.4:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 29.5:
+        non_striker: H Kaur
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 29.6:
+        non_striker: H Kaur
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 30.1:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 30.2:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 30.3:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 30.4:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 30.5:
+        non_striker: S Mandhana
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 30.6:
+        non_striker: H Kaur
+        bowler: S Molineux
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 31.1:
+        non_striker: H Kaur
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 31.2:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 31.3:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 31.4:
+        non_striker: H Kaur
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 31.5:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 31.6:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 32.1:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 32.2:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Kaur
+    - 32.3:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 32.4:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 32.5:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - KJ Garth
+          kind: caught
+    - 32.6:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 32.7:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 33.1:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 33.2:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 33.3:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: JI Rodrigues
+    - 33.4:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 33.5:
+        non_striker: S Mandhana
+        bowler: A King
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 33.6:
+        non_striker: JI Rodrigues
+        bowler: A King
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 34.1:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 34.2:
+        non_striker: JI Rodrigues
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 34.3:
+        non_striker: S Mandhana
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: JI Rodrigues
+    - 34.4:
+        non_striker: JI Rodrigues
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 34.5:
+        non_striker: JI Rodrigues
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 34.6:
+        non_striker: JI Rodrigues
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 35.1:
+        non_striker: S Mandhana
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 35.2:
+        non_striker: JI Rodrigues
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 35.3:
+        non_striker: JI Rodrigues
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          kind: bowled
+    - 35.4:
+        non_striker: JI Rodrigues
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.5:
+        non_striker: JI Rodrigues
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 35.6:
+        non_striker: JI Rodrigues
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - BL Mooney
+          kind: caught
+    - 36.1:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: caught and bowled
+    - 36.2:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 36.3:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 36.4:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 36.5:
+        non_striker: A Reddy
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mani
+    - 36.6:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 37.1:
+        non_striker: M Mani
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 37.2:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 37.3:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: M Mani
+    - 37.4:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 37.5:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 37.6:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 38.1:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 38.2:
+        non_striker: M Mani
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 38.3:
+        non_striker: A Reddy
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 38.4:
+        non_striker: A Reddy
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+    - 38.5:
+        non_striker: A Reddy
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: M Mani
+    - 38.6:
+        non_striker: A Reddy
+        bowler: ML Schutt
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: M Mani
+    - 39.1:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: M Mani
+        wicket:
+          player_out: M Mani
+          fielders:
+          - P Litchfield
+          kind: caught
+    - 39.2:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.3:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.4:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.5:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.6:
+        non_striker: A Reddy
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+        wicket:
+          player_out: SZ Thakor
+          fielders:
+          - KJ Garth
+          kind: caught
+    - 40.1:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 40.2:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TR Sadhu
+    - 40.3:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 40.4:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 40.5:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 40.6:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 40.7:
+        non_striker: A Reddy
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 41.1:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 41.2:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 41.3:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+        wicket:
+          player_out: A Reddy
+          kind: lbw
+    - 41.4:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Renuka Singh
+    - 41.5:
+        non_striker: Renuka Singh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 41.6:
+        non_striker: Renuka Singh
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TR Sadhu
+    - 42.1:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TR Sadhu
+    - 42.2:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 42.3:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 42.4:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 42.5:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Renuka Singh
+    - 42.6:
+        non_striker: TR Sadhu
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Renuka Singh
+    - 43.1:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.2:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.3:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.4:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Renuka Singh
+    - 43.5:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 43.6:
+        non_striker: TR Sadhu
+        bowler: A Gardner
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Renuka Singh
+    - 44.1:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 44.2:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 44.3:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TR Sadhu
+    - 44.4:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 44.5:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 44.6:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+    - 44.7:
+        non_striker: Renuka Singh
+        bowler: A Sutherland
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TR Sadhu
+    - 45.1:
+        non_striker: Renuka Singh
+        bowler: A King
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TR Sadhu
+        wicket:
+          player_out: TR Sadhu
+          fielders:
+          - TM McGrath
+          kind: caught

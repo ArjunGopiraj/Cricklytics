@@ -1,0 +1,5197 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-01-15'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Rajkot
+  dates:
+  - '2025-01-12'
+  gender: female
+  match_type: ODI
+  match_type_number: 1432
+  outcome:
+    winner: India
+    by:
+      runs: 116
+  overs: 50
+  player_of_match:
+  - JI Rodrigues
+  players:
+    India:
+    - S Mandhana
+    - Pratika Rawal
+    - H Deol
+    - JI Rodrigues
+    - RM Ghosh
+    - TS Hasabnis
+    - SG Satghare
+    - DB Sharma
+    - TR Sadhu
+    - SZ Thakor
+    - Priya Mishra
+    Ireland:
+    - S Forbes
+    - GH Lewis
+    - CE Coulter Reilly
+    - O Prendergast
+    - L Delany
+    - L Paul
+    - AN Kelly
+    - A Canning
+    - G Dempsey
+    - FA Sargent
+    - A Dalzell
+  registry:
+    people:
+      A Canning: ffd5fcd8
+      A Dalzell: '66498395'
+      A Totre: b1d7d7bc
+      AN Kelly: 397369e0
+      CE Coulter Reilly: 39f351c6
+      DB Sharma: 201fef33
+      FA Sargent: fa6e2cb3
+      G Dempsey: 940feccc
+      GH Lewis: 1b9d1579
+      GS Lakshmi: ba8d5615
+      H Deol: 3664712e
+      JI Rodrigues: cb08b611
+      Kim Cotton: 67a7c2ee
+      L Delany: b4f73b44
+      L Paul: '07248d8e'
+      O Prendergast: d8f20ba5
+      Pratika Rawal: 45a13dcf
+      Priya Mishra: 91e217c3
+      RM Ghosh: 721e0199
+      S Forbes: 5ecfab18
+      S Mandhana: 5d2eda89
+      SG Satghare: 3708b522
+      SZ Thakor: 7d794fa6
+      TR Sadhu: 25ca0573
+      TS Hasabnis: 9728fe6c
+      VG Rathi: 144e5b16
+      VK Sharma: a7a49df4
+  teams:
+  - India
+  - Ireland
+  toss:
+    winner: India
+    decision: bat
+  umpires:
+  - VK Sharma
+  - VG Rathi
+  venue: Saurashtra Cricket Association Stadium, Rajkot
+innings:
+- 1st innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.2:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 0.3:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 0.5:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 0.6:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 1.1:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.2:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.3:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Pratika Rawal
+    - 1.4:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 1.5:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.6:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 1.7:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 1.8:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 2.1:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 2.2:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 2.3:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 2.4:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 2.5:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 2.6:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 2.7:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 2.8:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 3.1:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 3.2:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.3:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Pratika Rawal
+    - 3.4:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 3.5:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 3.6:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 3.7:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 4.1:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 4.2:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 4.3:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 4.4:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 4.5:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 4.6:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 5.1:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 5.2:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 5.3:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 5.4:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 5.5:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 5.6:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 6.1:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 6.2:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 6.3:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.4:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.5:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 6.6:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 7.1:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 7.2:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 7.3:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.4:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 7.5:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 7.6:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.1:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.2:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.3:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 8.4:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 8.5:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 8.6:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 9.1:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 9.2:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 9.3:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.4:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 9.5:
+        non_striker: S Mandhana
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 9.6:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 9.7:
+        non_striker: Pratika Rawal
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 10.1:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 10.2:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 10.3:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 10.4:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 10.5:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 10.6:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 11.1:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 11.2:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 11.3:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 11.4:
+        non_striker: Pratika Rawal
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 11.5:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 11.6:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 12.1:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 12.2:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 12.3:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 12.4:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 12.5:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Mandhana
+    - 12.6:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 12.7:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 13.1:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 13.2:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 13.3:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 13.4:
+        non_striker: Pratika Rawal
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.5:
+        non_striker: Pratika Rawal
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 13.6:
+        non_striker: Pratika Rawal
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 13.7:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 14.1:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 14.2:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 14.3:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 14.4:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Pratika Rawal
+    - 14.5:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 14.6:
+        non_striker: S Mandhana
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 14.7:
+        non_striker: Pratika Rawal
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 15.1:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 15.2:
+        non_striker: Pratika Rawal
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 15.3:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+    - 15.4:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Pratika Rawal
+    - 15.5:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Pratika Rawal
+    - 15.6:
+        non_striker: S Mandhana
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 16.1:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 16.2:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 16.3:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 16.4:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 16.5:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 16.6:
+        non_striker: S Mandhana
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 17.1:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Pratika Rawal
+    - 17.2:
+        non_striker: S Mandhana
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Pratika Rawal
+    - 17.3:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 17.4:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 17.5:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 17.6:
+        non_striker: Pratika Rawal
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Mandhana
+    - 18.1:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 18.2:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 18.3:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: S Mandhana
+    - 18.4:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 18.5:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Mandhana
+    - 18.6:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Mandhana
+    - 18.7:
+        non_striker: Pratika Rawal
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - G Dempsey
+          kind: caught
+    - 19.1:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Pratika Rawal
+        wicket:
+          player_out: Pratika Rawal
+          kind: lbw
+    - 19.2:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 19.3:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 19.4:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: H Deol
+    - 19.5:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 19.6:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.1:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 20.2:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 20.3:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 20.4:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.5:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 20.6:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 21.1:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.2:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 21.3:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 21.4:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 21.5:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 21.6:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 22.1:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 22.2:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 22.3:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 22.4:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 22.5:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 22.6:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 23.1:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 23.2:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 23.3:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 23.4:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 23.5:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 23.6:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.1:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 24.2:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.3:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 24.4:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.5:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 24.6:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 24.7:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 25.1:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 25.2:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 25.3:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 25.4:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 25.5:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 25.6:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 25.7:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 26.1:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 26.2:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 26.3:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 26.4:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 26.5:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 26.6:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 26.7:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 27.1:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 27.2:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 27.3:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 27.4:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 27.5:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 27.6:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 27.7:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 28.1:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 28.2:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 28.3:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 28.4:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 28.5:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 28.6:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 28.7:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 29.1:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 29.2:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 29.3:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 29.4:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 29.5:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 29.6:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 30.1:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 30.2:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 30.3:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 30.4:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 30.5:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 30.6:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 31.1:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 31.2:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 31.3:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 31.4:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 31.5:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 31.6:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 32.1:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 32.2:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 32.3:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 32.4:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 32.5:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 32.6:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 33.1:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 33.2:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 33.3:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 33.4:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 33.5:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 33.6:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 34.1:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 34.2:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 34.3:
+        non_striker: JI Rodrigues
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 34.4:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 34.5:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 34.6:
+        non_striker: H Deol
+        bowler: A Dalzell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 35.1:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 35.2:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 35.3:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 35.4:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 35.5:
+        non_striker: H Deol
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 35.6:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 35.7:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 35.8:
+        non_striker: JI Rodrigues
+        bowler: G Dempsey
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 36.1:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 36.2:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 36.3:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 36.4:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 36.5:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 36.6:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 37.1:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 37.2:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 37.3:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 37.4:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 37.5:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 37.6:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 38.1:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 38.2:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 38.3:
+        non_striker: JI Rodrigues
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 38.4:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 38.5:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 38.6:
+        non_striker: H Deol
+        bowler: A Canning
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 39.1:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 39.2:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 39.3:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 39.4:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 39.5:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 39.6:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 40.1:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 40.2:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 40.3:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 40.4:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 40.5:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 40.6:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 41.1:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 41.2:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 41.3:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 41.4:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 41.5:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 41.6:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 42.1:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 42.2:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 42.3:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 42.4:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 42.5:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 42.6:
+        non_striker: H Deol
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 43.1:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 43.2:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: H Deol
+    - 43.3:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 43.4:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 43.5:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 43.6:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 44.1:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 44.2:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 44.3:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 44.4:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 44.5:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 44.6:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 45.1:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JI Rodrigues
+    - 45.2:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 45.3:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 45.4:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 45.5:
+        non_striker: H Deol
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 45.6:
+        non_striker: JI Rodrigues
+        bowler: FA Sargent
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 46.1:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 46.2:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 46.3:
+        non_striker: H Deol
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 46.4:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Deol
+    - 46.5:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+    - 46.6:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Deol
+    - 46.7:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Deol
+    - 47.1:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Deol
+        wicket:
+          player_out: H Deol
+          fielders:
+          - L Delany
+          kind: caught
+    - 47.2:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 47.3:
+        non_striker: RM Ghosh
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 47.4:
+        non_striker: RM Ghosh
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: JI Rodrigues
+    - 47.5:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RM Ghosh
+    - 47.6:
+        non_striker: RM Ghosh
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 48.1:
+        non_striker: RM Ghosh
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 48.2:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 48.3:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RM Ghosh
+    - 48.4:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RM Ghosh
+        wicket:
+          player_out: RM Ghosh
+          fielders:
+          - FA Sargent
+          kind: caught
+    - 48.5:
+        non_striker: JI Rodrigues
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 48.6:
+        non_striker: TS Hasabnis
+        bowler: O Prendergast
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 49.1:
+        non_striker: JI Rodrigues
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 49.2:
+        non_striker: TS Hasabnis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 49.3:
+        non_striker: TS Hasabnis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          kind: bowled
+    - 49.4:
+        non_striker: TS Hasabnis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Satghare
+    - 49.5:
+        non_striker: TS Hasabnis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SG Satghare
+    - 49.6:
+        non_striker: TS Hasabnis
+        bowler: AN Kelly
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SG Satghare
+- 2nd innings:
+    team: Ireland
+    deliveries:
+    - 0.1:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 0.2:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 0.3:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 0.4:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 0.5:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 0.6:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: S Forbes
+    - 0.7:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 1.1:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.2:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.3:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.4:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.5:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 1.6:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 2.1:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 2.2:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.3:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.4:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.5:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 2.6:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 3.1:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.2:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.3:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.4:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.5:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 3.6:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 4.1:
+        non_striker: GH Lewis
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 4.2:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.3:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 4.4:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.5:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 4.6:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 5.1:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 5.2:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 5.3:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 5.4:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 5.5:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 5.6:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 6.1:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GH Lewis
+    - 6.2:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.3:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.4:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.5:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 6.6:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+    - 7.1:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Forbes
+    - 7.2:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 7.3:
+        non_striker: GH Lewis
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 7.4:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GH Lewis
+        wicket:
+          player_out: GH Lewis
+          fielders:
+          - RM Ghosh
+          kind: caught
+    - 7.5:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 7.6:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: CE Coulter Reilly
+    - 7.7:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 8.1:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 8.2:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 8.3:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE Coulter Reilly
+    - 8.4:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.5:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 8.6:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 9.1:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 9.2:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 9.3:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 9.4:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 9.5:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 9.6:
+        non_striker: S Forbes
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 10.1:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 10.2:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 10.3:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 10.4:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 10.5:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 10.6:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 11.1:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 11.2:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 11.3:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 11.4:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 11.5:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 11.6:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.1:
+        non_striker: S Forbes
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 12.2:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.3:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Forbes
+    - 12.4:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.5:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 12.6:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 13.1:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 13.2:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 13.3:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 13.4:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 13.5:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 13.6:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 14.1:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 14.2:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 14.3:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 14.4:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 14.5:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 14.6:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 15.1:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 15.2:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: S Forbes
+    - 15.3:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 15.4:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 15.5:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 15.6:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 15.7:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 16.1:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 16.2:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 16.3:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 16.4:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: CE Coulter Reilly
+    - 16.5:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 16.6:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 17.1:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 17.2:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 17.3:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 17.4:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 17.5:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 17.6:
+        non_striker: S Forbes
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 18.1:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Forbes
+    - 18.2:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 18.3:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 18.4:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 18.5:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 18.6:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.1:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 19.2:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.3:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.4:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 19.5:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 19.6:
+        non_striker: S Forbes
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 20.1:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 20.2:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+    - 20.3:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Forbes
+    - 20.4:
+        non_striker: S Forbes
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 20.5:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Forbes
+        wicket:
+          player_out: S Forbes
+          kind: bowled
+    - 20.6:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 21.1:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 21.2:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 21.3:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 21.4:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 21.5:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 21.6:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 22.1:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.2:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.3:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.4:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 22.5:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 22.6:
+        non_striker: O Prendergast
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 23.1:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 23.2:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 23.3:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 23.4:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 23.5:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 23.6:
+        non_striker: O Prendergast
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 24.1:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 24.2:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: O Prendergast
+    - 24.3:
+        non_striker: O Prendergast
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 24.4:
+        non_striker: O Prendergast
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 24.5:
+        non_striker: O Prendergast
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 24.6:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 25.1:
+        non_striker: O Prendergast
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 25.2:
+        non_striker: O Prendergast
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 25.3:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: O Prendergast
+    - 25.4:
+        non_striker: O Prendergast
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 25.5:
+        non_striker: O Prendergast
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 25.6:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+    - 26.1:
+        non_striker: O Prendergast
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 26.2:
+        non_striker: O Prendergast
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 26.3:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: O Prendergast
+        wicket:
+          player_out: O Prendergast
+          fielders:
+          - SG Satghare
+          kind: caught
+    - 26.4:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: L Delany
+    - 26.5:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 26.6:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 27.1:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 27.2:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 27.3:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 27.4:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 27.5:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 27.6:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 28.1:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 28.2:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 28.3:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 28.4:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 28.5:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 28.6:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 29.1:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 29.2:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 29.3:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 29.4:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 29.5:
+        non_striker: L Delany
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 29.6:
+        non_striker: CE Coulter Reilly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 30.1:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 30.2:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 30.3:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 30.4:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 30.5:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 30.6:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 31.1:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 31.2:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 31.3:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 31.4:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Coulter Reilly
+    - 31.5:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 31.6:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 32.1:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 32.2:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 32.3:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 32.4:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 32.5:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 32.6:
+        non_striker: CE Coulter Reilly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 33.1:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 33.2:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: CE Coulter Reilly
+    - 33.3:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 33.4:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: L Delany
+    - 33.5:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 33.6:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 33.7:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 33.8:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 34.1:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 34.2:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 34.3:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 34.4:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 34.5:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 34.6:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 35.1:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 35.2:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 35.3:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 35.4:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 35.5:
+        non_striker: CE Coulter Reilly
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 35.6:
+        non_striker: L Delany
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 36.1:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 36.2:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 36.3:
+        non_striker: CE Coulter Reilly
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 36.4:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Coulter Reilly
+    - 36.5:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 36.6:
+        non_striker: L Delany
+        bowler: Pratika Rawal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 37.1:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 37.2:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 37.3:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Delany
+    - 37.4:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 37.5:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 37.6:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: CE Coulter Reilly
+    - 38.1:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 38.2:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+    - 38.3:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 38.4:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 38.5:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 38.6:
+        non_striker: CE Coulter Reilly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 39.1:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 39.2:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 39.3:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 39.4:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Delany
+    - 39.5:
+        non_striker: CE Coulter Reilly
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 39.6:
+        non_striker: L Delany
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Coulter Reilly
+    - 40.1:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Coulter Reilly
+        wicket:
+          player_out: CE Coulter Reilly
+          kind: bowled
+    - 40.2:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 40.3:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Delany
+    - 40.4:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 40.5:
+        non_striker: L Delany
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 40.6:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+    - 41.1:
+        non_striker: L Delany
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 41.2:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Delany
+        wicket:
+          player_out: L Delany
+          kind: lbw
+    - 41.3:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 41.4:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 41.5:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 41.6:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.1:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 42.2:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 42.3:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 42.4:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 42.5:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 42.6:
+        non_striker: AN Kelly
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 43.1:
+        non_striker: AN Kelly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 43.2:
+        non_striker: AN Kelly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 43.3:
+        non_striker: AN Kelly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 43.4:
+        non_striker: AN Kelly
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 43.5:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AN Kelly
+    - 43.6:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 44.1:
+        non_striker: L Paul
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 44.2:
+        non_striker: AN Kelly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 44.3:
+        non_striker: AN Kelly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 44.4:
+        non_striker: L Paul
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: AN Kelly
+    - 44.5:
+        non_striker: L Paul
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AN Kelly
+    - 44.6:
+        non_striker: AN Kelly
+        bowler: SG Satghare
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 45.1:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+    - 45.2:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AN Kelly
+        wicket:
+          player_out: AN Kelly
+          kind: bowled
+    - 45.3:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 45.4:
+        non_striker: A Canning
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 45.5:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 45.6:
+        non_striker: L Paul
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 46.1:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 46.2:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 46.3:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: A Canning
+    - 46.4:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: A Canning
+    - 46.5:
+        non_striker: A Canning
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 46.6:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 47.1:
+        non_striker: A Canning
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 47.2:
+        non_striker: L Paul
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Canning
+    - 47.3:
+        non_striker: A Canning
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 47.4:
+        non_striker: L Paul
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+    - 47.5:
+        non_striker: L Paul
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Canning
+    - 47.6:
+        non_striker: L Paul
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Canning
+        wicket:
+          player_out: A Canning
+          kind: bowled
+    - 48.1:
+        non_striker: G Dempsey
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 48.2:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: G Dempsey
+    - 48.3:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Dempsey
+    - 48.4:
+        non_striker: G Dempsey
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: L Paul
+    - 48.5:
+        non_striker: L Paul
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Dempsey
+    - 48.6:
+        non_striker: G Dempsey
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: L Paul
+    - 48.7:
+        non_striker: G Dempsey
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: L Paul
+    - 49.1:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: G Dempsey
+    - 49.2:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          byes: 4
+        batsman: G Dempsey
+    - 49.3:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Dempsey
+    - 49.4:
+        non_striker: G Dempsey
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: L Paul
+    - 49.5:
+        non_striker: G Dempsey
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: L Paul
+    - 49.6:
+        non_striker: L Paul
+        bowler: TR Sadhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: G Dempsey

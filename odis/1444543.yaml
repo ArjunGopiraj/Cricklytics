@@ -1,0 +1,3917 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-08-06'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Utrecht
+  dates:
+  - '2024-08-05'
+  gender: female
+  match_type: ODI
+  match_type_number: 1396
+  outcome:
+    winner: Netherlands
+    by:
+      wickets: 3
+  overs: 50
+  player_of_match:
+  - R Rijke
+  players:
+    Papua New Guinea:
+    - N Vare
+    - B Tau
+    - T Ruma
+    - S Jimmy
+    - P Siaka
+    - K Frank
+    - V Araa
+    - HJ Thomas
+    - I Toua
+    - GP Tom
+    - V Buruka
+    Netherlands:
+    - B de Leede
+    - P Molkenboer
+    - AS van Beuge
+    - R Rijke
+    - IJR Zwilling
+    - AH Thomson
+    - F Overdijk
+    - C de Lange
+    - EN Lynch
+    - HWA Landheer
+    - S Siegers
+  registry:
+    people:
+      AH Thomson: 5d2031f0
+      AS van Beuge: 623c8835
+      Adriaan van den Dries: 94b5ec3b
+      B Tau: 3a6cbb8e
+      B de Leede: b3020075
+      C de Lange: c6a019f5
+      EN Lynch: 4d35d0b3
+      F Overdijk: 022745d5
+      GP Tom: 88bcd09d
+      HJ Thomas: a3034d3d
+      HWA Landheer: a6ec88f4
+      I Toua: 83cde44d
+      IJR Zwilling: 47b32a5a
+      Jareth McCready: 84fa5232
+      Jnanesh Kolli: 56a7dc8f
+      K Frank: f7e96532
+      M Prabhudesa: c36bcd1e
+      N Vare: 20ace887
+      P Molkenboer: fa9db243
+      P Siaka: 595433d2
+      R Rijke: 42e4b276
+      S Jimmy: 2daa8e40
+      S Siegers: 9a58f2c8
+      T Ruma: 3697a0ff
+      V Araa: 040f11e8
+      V Buruka: 62d92d76
+  teams:
+  - Papua New Guinea
+  - Netherlands
+  toss:
+    winner: Netherlands
+    decision: field
+  umpires:
+  - Jareth McCready
+  - M Prabhudesa
+  venue: Sportpark Maarschalkerweerd, Utrecht
+innings:
+- 1st innings:
+    team: Papua New Guinea
+    deliveries:
+    - 0.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.2:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        non_striker: B Tau
+        batsman: N Vare
+    - 0.3:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.4:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 0.5:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: B Tau
+    - 0.6:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 1.1:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.2:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.3:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 1.4:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 1.5:
+        non_striker: B Tau
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: N Vare
+    - 1.6:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 2.1:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.2:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.3:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.4:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.5:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 2.6:
+        non_striker: B Tau
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 3.1:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.2:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 3.3:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.4:
+        non_striker: B Tau
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 3.5:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: B Tau
+    - 3.6:
+        non_striker: B Tau
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 4.1:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.2:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+    - 4.3:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B Tau
+        wicket:
+          player_out: B Tau
+          kind: bowled
+    - 4.4:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.5:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+    - 4.6:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: T Ruma
+        wicket:
+          player_out: T Ruma
+          kind: lbw
+    - 5.1:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.2:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.3:
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.4:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.5:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.6:
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: S Jimmy
+        batsman: N Vare
+    - 5.7:
+        non_striker: S Jimmy
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.1:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 6.2:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Jimmy
+    - 6.3:
+        non_striker: S Jimmy
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.4:
+        non_striker: S Jimmy
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 6.5:
+        non_striker: S Jimmy
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 6.6:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: S Jimmy
+    - 7.1:
+        non_striker: S Jimmy
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 7.2:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+    - 7.3:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Jimmy
+        wicket:
+          player_out: S Jimmy
+          fielders:
+          - IJR Zwilling
+          kind: caught
+    - 7.4:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 7.5:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: P Siaka
+    - 7.6:
+        non_striker: P Siaka
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 8.1:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 8.2:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 8.3:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: P Siaka
+    - 8.4:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.5:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 8.6:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 9.1:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 9.2:
+        non_striker: P Siaka
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 9.3:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 9.4:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 9.5:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Siaka
+    - 9.6:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 9.7:
+        non_striker: N Vare
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 10.1:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 10.2:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: N Vare
+    - 10.3:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 10.4:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 10.5:
+        non_striker: N Vare
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 10.6:
+        non_striker: P Siaka
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 11.1:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.2:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.3:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 11.4:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 11.5:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 11.6:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 12.1:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: N Vare
+    - 12.2:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 12.3:
+        non_striker: N Vare
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 12.4:
+        non_striker: N Vare
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 12.5:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 12.6:
+        non_striker: N Vare
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 13.1:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 13.2:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: N Vare
+    - 13.3:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 13.4:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 13.5:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 13.6:
+        non_striker: N Vare
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 14.1:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 14.2:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+    - 14.3:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: N Vare
+    - 14.4:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: N Vare
+        wicket:
+          player_out: N Vare
+          fielders:
+          - B de Leede
+          kind: stumped
+    - 14.5:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 14.6:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 15.1:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 15.2:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 15.3:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 15.4:
+        non_striker: P Siaka
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 15.5:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 15.6:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 16.1:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 16.2:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: P Siaka
+    - 16.3:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Siaka
+    - 16.4:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 16.5:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 16.6:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: K Frank
+    - 16.7:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 17.1:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 17.2:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.3:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.4:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.5:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 17.6:
+        non_striker: K Frank
+        bowler: EN Lynch
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: P Siaka
+    - 18.1:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 18.2:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+    - 18.3:
+        non_striker: P Siaka
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: K Frank
+    - 18.4:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+    - 18.5:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Siaka
+        wicket:
+          player_out: P Siaka
+          fielders:
+          - EN Lynch
+          kind: caught
+    - 18.6:
+        non_striker: K Frank
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Araa
+    - 19.1:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: K Frank
+        wicket:
+          player_out: K Frank
+          kind: lbw
+    - 19.2:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 19.3:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 19.4:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Thomas
+    - 19.5:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 19.6:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 20.1:
+        non_striker: HJ Thomas
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 20.2:
+        non_striker: HJ Thomas
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 20.3:
+        non_striker: HJ Thomas
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 20.4:
+        non_striker: HJ Thomas
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 20.5:
+        non_striker: V Araa
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 20.6:
+        non_striker: V Araa
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 21.1:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: V Araa
+    - 21.2:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 21.3:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 21.4:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: V Araa
+    - 21.5:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 21.6:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 21.7:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: HJ Thomas
+    - 22.1:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 22.2:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 22.3:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 22.4:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 22.5:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 22.6:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 22.7:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 22.8:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 22.9:
+        non_striker: V Araa
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HJ Thomas
+    - 22.10:
+        non_striker: HJ Thomas
+        bowler: F Overdijk
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 23.1:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 23.2:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 23.3:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 23.4:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 23.5:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: V Araa
+    - 23.6:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 23.7:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 24.1:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 24.2:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 24.3:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 24.4:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 24.5:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 24.6:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 24.7:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 25.1:
+        non_striker: HJ Thomas
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 25.2:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 25.3:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 25.4:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 25.5:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 25.6:
+        non_striker: V Araa
+        bowler: S Siegers
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 26.1:
+        non_striker: HJ Thomas
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 26.2:
+        non_striker: HJ Thomas
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 26.3:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 26.4:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HJ Thomas
+    - 26.5:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+    - 26.6:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HJ Thomas
+    - 26.7:
+        non_striker: V Araa
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HJ Thomas
+    - 27.1:
+        non_striker: HJ Thomas
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 27.2:
+        non_striker: HJ Thomas
+        bowler: HWA Landheer
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: V Araa
+    - 27.3:
+        non_striker: HJ Thomas
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+    - 27.4:
+        non_striker: HJ Thomas
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: V Araa
+    - 27.5:
+        non_striker: HJ Thomas
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: V Araa
+    - 27.6:
+        non_striker: V Araa
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HJ Thomas
+        wicket:
+          player_out: HJ Thomas
+          kind: bowled
+    - 28.1:
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        non_striker: I Toua
+        batsman: V Araa
+    - 28.2:
+        non_striker: I Toua
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Araa
+        wicket:
+          player_out: V Araa
+          fielders:
+          - C de Lange
+          kind: caught
+    - 28.3:
+        non_striker: I Toua
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 28.4:
+        non_striker: I Toua
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 28.5:
+        non_striker: I Toua
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 28.6:
+        non_striker: I Toua
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 29.1:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 29.2:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Tom
+    - 29.3:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 29.4:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Tom
+    - 29.5:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 29.6:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 30.1:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 30.2:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 30.3:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 30.4:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 30.5:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 30.6:
+        non_striker: GP Tom
+        bowler: IJR Zwilling
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 31.1:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 31.2:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 31.3:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: I Toua
+    - 31.4:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 31.5:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 31.6:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 32.1:
+        non_striker: I Toua
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 32.2:
+        non_striker: I Toua
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GP Tom
+    - 32.3:
+        non_striker: I Toua
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 32.4:
+        non_striker: I Toua
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 32.5:
+        non_striker: I Toua
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 32.6:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 33.1:
+        non_striker: I Toua
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GP Tom
+    - 33.2:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 33.3:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 33.4:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: I Toua
+    - 33.5:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+    - 33.6:
+        non_striker: GP Tom
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: I Toua
+        wicket:
+          player_out: I Toua
+          fielders:
+          - R Rijke
+          kind: run out
+    - 34.1:
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        non_striker: V Buruka
+        batsman: GP Tom
+    - 34.2:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 34.3:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 34.4:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 34.5:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 34.6:
+        non_striker: GP Tom
+        bowler: C de Lange
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: V Buruka
+    - 35.1:
+        non_striker: V Buruka
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 35.2:
+        non_striker: V Buruka
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+    - 35.3:
+        non_striker: V Buruka
+        bowler: HWA Landheer
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GP Tom
+        wicket:
+          player_out: GP Tom
+          kind: bowled
+- 2nd innings:
+    team: Netherlands
+    deliveries:
+    - 0.1:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: B de Leede
+        wicket:
+          player_out: B de Leede
+          kind: bowled
+    - 0.2:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: AS van Beuge
+    - 0.3:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+    - 0.4:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+    - 0.5:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+    - 0.6:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+    - 0.7:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+    - 1.1:
+        non_striker: AS van Beuge
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: P Molkenboer
+    - 1.2:
+        non_striker: AS van Beuge
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 1.3:
+        non_striker: AS van Beuge
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 1.4:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AS van Beuge
+    - 1.5:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AS van Beuge
+        wicket:
+          player_out: AS van Beuge
+          kind: bowled
+    - 1.6:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 1.7:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 2.1:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 2.2:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: P Molkenboer
+    - 2.3:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: P Molkenboer
+    - 2.4:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 2.5:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Rijke
+    - 2.6:
+        non_striker: P Molkenboer
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 2.7:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 2.8:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+    - 3.1:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 3.2:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 3.3:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 3.4:
+        non_striker: P Molkenboer
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 3.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: P Molkenboer
+        wicket:
+          player_out: P Molkenboer
+          kind: bowled
+    - 3.6:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.1:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 4.2:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.3:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.4:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.5:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 4.6:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 5.1:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.2:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.3:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.4:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.5:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 5.6:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 5.7:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 6.1:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.2:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.3:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 6.4:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 6.5:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 6.6:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 6.7:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 7.1:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 7.2:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 7.3:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 7.4:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 7.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 7.6:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 8.1:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.2:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.3:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.4:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 8.5:
+        non_striker: IJR Zwilling
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 8.6:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 9.1:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 9.2:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: R Rijke
+    - 9.3:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.4:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 9.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 9.6:
+        non_striker: IJR Zwilling
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 9.7:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 10.1:
+        non_striker: IJR Zwilling
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 10.2:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 10.3:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 10.4:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 10.5:
+        non_striker: IJR Zwilling
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 10.6:
+        non_striker: IJR Zwilling
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: R Rijke
+    - 11.1:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: IJR Zwilling
+    - 11.2:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 11.3:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 11.4:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 11.5:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 11.6:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 11.7:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 12.1:
+        non_striker: IJR Zwilling
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 12.2:
+        non_striker: IJR Zwilling
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 12.3:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 12.4:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 12.5:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 12.6:
+        non_striker: R Rijke
+        bowler: HJ Thomas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 13.1:
+        non_striker: IJR Zwilling
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 13.2:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 13.3:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 13.4:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 13.5:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 13.6:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IJR Zwilling
+    - 14.1:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: IJR Zwilling
+    - 14.2:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+    - 14.3:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IJR Zwilling
+        wicket:
+          player_out: IJR Zwilling
+          kind: bowled
+    - 14.4:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 14.5:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 14.6:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 15.1:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.2:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.3:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.4:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 15.5:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 15.6:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 16.1:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Thomson
+    - 16.2:
+        non_striker: AH Thomson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 16.3:
+        non_striker: AH Thomson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 16.4:
+        non_striker: AH Thomson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 16.5:
+        non_striker: AH Thomson
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 16.6:
+        non_striker: R Rijke
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Thomson
+    - 17.1:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AH Thomson
+    - 17.2:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 17.3:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Thomson
+    - 17.4:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 17.5:
+        non_striker: R Rijke
+        bowler: S Jimmy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: AH Thomson
+    - 17.6:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 17.7:
+        non_striker: AH Thomson
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 18.1:
+        non_striker: AH Thomson
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: R Rijke
+    - 18.2:
+        non_striker: AH Thomson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 18.3:
+        non_striker: AH Thomson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 18.4:
+        non_striker: AH Thomson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 18.5:
+        non_striker: AH Thomson
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 18.6:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 18.7:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 19.1:
+        non_striker: AH Thomson
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 19.2:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AH Thomson
+    - 19.3:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: AH Thomson
+    - 19.4:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 19.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AH Thomson
+    - 19.6:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 19.7:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AH Thomson
+    - 20.1:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 20.2:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 20.3:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+    - 20.4:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AH Thomson
+        wicket:
+          player_out: AH Thomson
+          kind: bowled
+    - 20.5:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 20.6:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 21.1:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 21.2:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 21.3:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 21.4:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 21.5:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 21.6:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 22.1:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 22.2:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 22.3:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 22.4:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 22.5:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 22.6:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: R Rijke
+    - 23.1:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 23.2:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 23.3:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 23.4:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 23.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 23.6:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 24.1:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 24.2:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 24.3:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 24.4:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 24.5:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 24.6:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 25.1:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 25.2:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 25.3:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 25.4:
+        non_striker: F Overdijk
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 25.5:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 25.6:
+        non_striker: R Rijke
+        bowler: GP Tom
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 26.1:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 26.2:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: F Overdijk
+    - 26.3:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: F Overdijk
+    - 26.4:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 26.5:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 26.6:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 26.7:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 27.1:
+        non_striker: F Overdijk
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 27.2:
+        non_striker: R Rijke
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 27.3:
+        non_striker: F Overdijk
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 27.4:
+        non_striker: R Rijke
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 27.5:
+        non_striker: R Rijke
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 27.6:
+        non_striker: F Overdijk
+        bowler: V Araa
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+    - 28.1:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 28.2:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 28.3:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 28.4:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: R Rijke
+    - 28.5:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 28.6:
+        non_striker: R Rijke
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 29.1:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: R Rijke
+    - 29.2:
+        non_striker: R Rijke
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 29.3:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: R Rijke
+        wicket:
+          player_out: R Rijke
+          fielders:
+          - K Frank
+          kind: caught
+    - 29.4:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 29.5:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 29.6:
+        non_striker: C de Lange
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 30.1:
+        non_striker: C de Lange
+        bowler: P Siaka
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: F Overdijk
+    - 30.2:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 30.3:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 30.4:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 30.5:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 30.6:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 31.1:
+        non_striker: C de Lange
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: F Overdijk
+    - 31.2:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 31.3:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 31.4:
+        non_striker: F Overdijk
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 31.5:
+        non_striker: C de Lange
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: F Overdijk
+    - 31.6:
+        non_striker: C de Lange
+        bowler: V Buruka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 32.1:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 32.2:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 32.3:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 32.4:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 32.5:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: C de Lange
+    - 32.6:
+        non_striker: F Overdijk
+        bowler: P Siaka
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 33.1:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 33.2:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+    - 33.3:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: F Overdijk
+        wicket:
+          player_out: F Overdijk
+          fielders:
+          - T Ruma
+          kind: caught
+    - 33.4:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EN Lynch
+    - 33.5:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Lynch
+    - 33.6:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EN Lynch
+    - 33.7:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 33.8:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Lynch
+    - 34.1:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 34.2:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 34.3:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 34.4:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 34.5:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          byes: 2
+        batsman: C de Lange
+    - 34.6:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 35.1:
+        non_striker: EN Lynch
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 35.2:
+        non_striker: EN Lynch
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 35.3:
+        non_striker: EN Lynch
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 35.4:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 35.5:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 35.6:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Lynch
+    - 36.1:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: C de Lange
+    - 36.2:
+        non_striker: C de Lange
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 36.3:
+        non_striker: C de Lange
+        bowler: S Jimmy
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: EN Lynch
+    - 36.4:
+        non_striker: C de Lange
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 36.5:
+        non_striker: C de Lange
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EN Lynch
+    - 36.6:
+        non_striker: C de Lange
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EN Lynch
+    - 36.7:
+        non_striker: EN Lynch
+        bowler: S Jimmy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: C de Lange
+    - 37.1:
+        non_striker: C de Lange
+        bowler: I Toua
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: EN Lynch

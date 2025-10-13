@@ -1,0 +1,4964 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-10-31'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Ahmedabad
+  dates:
+  - '2024-10-27'
+  gender: female
+  match_type: ODI
+  match_type_number: 1413
+  outcome:
+    winner: New Zealand
+    by:
+      runs: 76
+  overs: 50
+  player_of_match:
+  - SFM Devine
+  players:
+    New Zealand:
+    - SW Bates
+    - GE Plimmer
+    - LR Down
+    - SFM Devine
+    - BM Halliday
+    - ML Green
+    - IC Gaze
+    - JM Kerr
+    - LMM Tahuhu
+    - EJ Carson
+    - FC Jonas
+    India:
+    - Shafali Verma
+    - S Mandhana
+    - YH Bhatia
+    - H Kaur
+    - JI Rodrigues
+    - TS Hasabnis
+    - DB Sharma
+    - A Reddy
+    - RP Yadav
+    - SZ Thakor
+    - Priya Mishra
+  registry:
+    people:
+      A Reddy: eadc8924
+      BM Halliday: efb6cb2a
+      CA Polosak: 26a360d2
+      DB Sharma: 201fef33
+      EJ Carson: 7693851c
+      FC Jonas: 6df697a9
+      GE Plimmer: 575494db
+      GS Lakshmi: ba8d5615
+      Gayathri Venugopal: 20e3ae99
+      H Kaur: 53cd8da6
+      IC Gaze: 60c250bf
+      JI Rodrigues: cb08b611
+      JM Kerr: 9af58032
+      LMM Tahuhu: '60471339'
+      LR Down: 19147fe0
+      ML Green: 865eae1f
+      Priya Mishra: 91e217c3
+      R Pandit: 8a604384
+      RP Yadav: 6c3aef71
+      S Mandhana: 5d2eda89
+      SFM Devine: de69af96
+      SW Bates: 89bbc67a
+      SZ Thakor: 7d794fa6
+      Shafali Verma: d8f59089
+      TS Hasabnis: 9728fe6c
+      VG Rathi: 144e5b16
+      YH Bhatia: 9c3d4e8a
+  teams:
+  - New Zealand
+  - India
+  toss:
+    winner: New Zealand
+    decision: bat
+  umpires:
+  - Gayathri Venugopal
+  - VG Rathi
+  venue: Narendra Modi Stadium, Ahmedabad
+innings:
+- 1st innings:
+    team: New Zealand
+    deliveries:
+    - 0.1:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.2:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.3:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 0.4:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.5:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 0.6:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.1:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 1.2:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 1.3:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 1.4:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 1.5:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 1.6:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 2.1:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.2:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.3:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.4:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.5:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 2.6:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 3.1:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 3.2:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.3:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.4:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 3.5:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 3.6:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 4.1:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.2:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.3:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 4.4:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 4.5:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 4.6:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 5.1:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.2:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.3:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.4:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.5:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 5.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.1:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 6.2:
+        non_striker: GE Plimmer
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: SW Bates
+    - 6.3:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.4:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.5:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 6.6:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 7.1:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 7.2:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.3:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.4:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 7.5:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 7.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 8.1:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 8.2:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.3:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.4:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.5:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 8.6:
+        non_striker: GE Plimmer
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.1:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 9.2:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 9.3:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.4:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.5:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 9.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 10.1:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 10.2:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.3:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 10.4:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 10.5:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 10.6:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.1:
+        non_striker: GE Plimmer
+        bowler: RP Yadav
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: SW Bates
+    - 11.2:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: GE Plimmer
+    - 11.3:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.4:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.5:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 11.6:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: GE Plimmer
+    - 11.7:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 12.1:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.2:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 12.3:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.4:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 12.5:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 12.6:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.1:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 13.2:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.3:
+        non_striker: GE Plimmer
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 13.4:
+        non_striker: GE Plimmer
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 13.5:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: GE Plimmer
+    - 13.6:
+        non_striker: GE Plimmer
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.1:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SW Bates
+    - 14.2:
+        non_striker: GE Plimmer
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 14.3:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: GE Plimmer
+    - 14.4:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 14.5:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 14.6:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 15.1:
+        non_striker: GE Plimmer
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 15.2:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+    - 15.3:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: GE Plimmer
+        wicket:
+          player_out: GE Plimmer
+          fielders:
+          - RP Yadav
+          kind: caught
+    - 15.4:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 15.5:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 15.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 16.1:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.2:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.3:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 16.4:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SW Bates
+    - 16.5:
+        non_striker: LR Down
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 16.6:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 16.7:
+        non_striker: SW Bates
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 17.1:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.2:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.3:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.4:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.5:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 17.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 18.1:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SW Bates
+    - 18.2:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 18.3:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 18.4:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 18.5:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 18.6:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 19.1:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 19.2:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 19.3:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LR Down
+    - 19.4:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 19.5:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 19.6:
+        non_striker: LR Down
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.1:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LR Down
+    - 20.2:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.3:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.4:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 20.5:
+        non_striker: LR Down
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: LR Down
+          fielders:
+          - Priya Mishra
+          kind: run out
+    - 20.6:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.1:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 21.2:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.3:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.4:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.5:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 21.6:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.1:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.2:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.3:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 22.4:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 22.5:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 22.6:
+        non_striker: SW Bates
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 23.1:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 23.2:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.3:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 23.4:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 23.5:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 23.6:
+        non_striker: SW Bates
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 24.1:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 24.2:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 24.3:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 24.4:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 24.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SW Bates
+    - 24.6:
+        non_striker: SW Bates
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 25.1:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.2:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.3:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.4:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.5:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 25.6:
+        non_striker: SW Bates
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 26.1:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+    - 26.2:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SW Bates
+        wicket:
+          player_out: SW Bates
+          kind: caught and bowled
+    - 26.3:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 26.4:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 26.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: BM Halliday
+    - 26.6:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 27.1:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 27.2:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 27.3:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 27.4:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 27.5:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 27.6:
+        non_striker: BM Halliday
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 28.1:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 28.2:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.3:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.4:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 28.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 28.6:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 29.1:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 29.2:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 29.3:
+        non_striker: BM Halliday
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.4:
+        non_striker: BM Halliday
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.5:
+        non_striker: BM Halliday
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 29.6:
+        non_striker: BM Halliday
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.1:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 30.2:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 30.3:
+        non_striker: BM Halliday
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 30.4:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 30.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 30.6:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: BM Halliday
+    - 31.1:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 31.2:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+    - 31.3:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: BM Halliday
+        wicket:
+          player_out: BM Halliday
+          fielders:
+          - RP Yadav
+          kind: caught
+    - 31.4:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 31.5:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 31.6:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 32.1:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 32.2:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 32.3:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 32.4:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 32.5:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 32.6:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 33.1:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 33.2:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 33.3:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 33.4:
+        non_striker: ML Green
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 33.5:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 33.6:
+        non_striker: ML Green
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 34.1:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 34.2:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 34.3:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 34.4:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 34.5:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 34.6:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 35.1:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 35.2:
+        non_striker: ML Green
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 35.3:
+        non_striker: ML Green
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 35.4:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 35.5:
+        non_striker: ML Green
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 35.6:
+        non_striker: SFM Devine
+        bowler: Priya Mishra
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 36.1:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 36.2:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 36.3:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 36.4:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 36.5:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 36.6:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 37.1:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 37.2:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 37.3:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 37.4:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 37.5:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 37.6:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 38.1:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 38.2:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 38.3:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 38.4:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 38.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 38.6:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 39.1:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 39.2:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 39.3:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 39.4:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 39.5:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 39.6:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 40.1:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 40.2:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 40.3:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SFM Devine
+    - 40.4:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 40.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 40.6:
+        non_striker: ML Green
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 41.1:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 41.2:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 41.3:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 41.4:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 41.5:
+        non_striker: ML Green
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 41.6:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 42.1:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 42.2:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 42.3:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 42.4:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 42.5:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 42.6:
+        non_striker: ML Green
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 43.1:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: SFM Devine
+    - 43.2:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 43.3:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+    - 43.4:
+        non_striker: ML Green
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 43.5:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 43.6:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 44.1:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 44.2:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+    - 44.3:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 44.4:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 44.5:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 44.6:
+        non_striker: SFM Devine
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ML Green
+    - 45.1:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ML Green
+    - 45.2:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ML Green
+        wicket:
+          player_out: ML Green
+          fielders:
+          - A Reddy
+          kind: caught
+    - 45.3:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 45.4:
+        non_striker: IC Gaze
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 45.5:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 45.6:
+        non_striker: SFM Devine
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 46.1:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SFM Devine
+    - 46.2:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 46.3:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: IC Gaze
+    - 46.4:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 46.5:
+        non_striker: IC Gaze
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 46.6:
+        non_striker: SFM Devine
+        bowler: A Reddy
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 47.1:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 47.2:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: IC Gaze
+    - 47.3:
+        non_striker: IC Gaze
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SFM Devine
+    - 47.4:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+    - 47.5:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: IC Gaze
+        wicket:
+          player_out: IC Gaze
+          fielders:
+          - YH Bhatia
+          kind: stumped
+    - 47.6:
+        non_striker: SFM Devine
+        bowler: DB Sharma
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JM Kerr
+    - 48.1:
+        non_striker: JM Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: SFM Devine
+    - 48.2:
+        non_striker: JM Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SFM Devine
+        wicket:
+          player_out: SFM Devine
+          fielders:
+          - JI Rodrigues
+          kind: caught
+    - 48.3:
+        non_striker: JM Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LMM Tahuhu
+        wicket:
+          player_out: LMM Tahuhu
+          fielders:
+          - DB Sharma
+          kind: caught
+    - 48.4:
+        non_striker: JM Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+    - 48.5:
+        non_striker: JM Kerr
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: EJ Carson
+    - 48.6:
+        non_striker: EJ Carson
+        bowler: RP Yadav
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 49.1:
+        non_striker: EJ Carson
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+    - 49.2:
+        non_striker: EJ Carson
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JM Kerr
+    - 49.3:
+        non_striker: JM Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: EJ Carson
+        wicket:
+          player_out: EJ Carson
+          kind: bowled
+    - 49.4:
+        non_striker: JM Kerr
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: FC Jonas
+    - 49.5:
+        non_striker: FC Jonas
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: JM Kerr
+    - 49.6:
+        non_striker: FC Jonas
+        bowler: SZ Thakor
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JM Kerr
+- 2nd innings:
+    team: India
+    deliveries:
+    - 0.1:
+        non_striker: S Mandhana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 0.2:
+        non_striker: S Mandhana
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 0.3:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+    - 0.4:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Mandhana
+        wicket:
+          player_out: S Mandhana
+          fielders:
+          - GE Plimmer
+          kind: caught
+    - 0.5:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 0.6:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 1.1:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Shafali Verma
+    - 1.2:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.3:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.4:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+    - 1.5:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 1.6:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 2.1:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.2:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.3:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.4:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.5:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 2.6:
+        non_striker: Shafali Verma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: YH Bhatia
+    - 3.1:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shafali Verma
+    - 3.2:
+        non_striker: Shafali Verma
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: YH Bhatia
+    - 3.3:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shafali Verma
+        wicket:
+          player_out: Shafali Verma
+          kind: lbw
+    - 3.4:
+        non_striker: YH Bhatia
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 3.5:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 3.6:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 4.1:
+        non_striker: YH Bhatia
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 4.2:
+        non_striker: YH Bhatia
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 4.3:
+        non_striker: YH Bhatia
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 4.4:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+    - 4.5:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: YH Bhatia
+    - 4.6:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: YH Bhatia
+    - 4.7:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: YH Bhatia
+        wicket:
+          player_out: YH Bhatia
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 5.1:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 5.2:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.3:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.4:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 5.5:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 5.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.1:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 6.2:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 6.3:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 6.4:
+        non_striker: H Kaur
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 6.5:
+        non_striker: JI Rodrigues
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: H Kaur
+    - 6.6:
+        non_striker: JI Rodrigues
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 6.7:
+        non_striker: JI Rodrigues
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 7.1:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.2:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.3:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.4:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 7.5:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 7.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.1:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.2:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.3:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.4:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 8.5:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 8.6:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 9.1:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 9.2:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 9.3:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 9.4:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 9.5:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: H Kaur
+    - 9.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: H Kaur
+    - 9.7:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.1:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 10.2:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: JI Rodrigues
+    - 10.3:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: JI Rodrigues
+    - 10.4:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.5:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.6:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 10.7:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.1:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+    - 11.2:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.3:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 11.4:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 11.5:
+        non_striker: H Kaur
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 11.6:
+        non_striker: JI Rodrigues
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.1:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 12.2:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: H Kaur
+    - 12.3:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.4:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.5:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 12.6:
+        non_striker: JI Rodrigues
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 13.1:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: JI Rodrigues
+    - 13.2:
+        non_striker: JI Rodrigues
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.3:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: JI Rodrigues
+        wicket:
+          player_out: JI Rodrigues
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 13.4:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 13.5:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 13.6:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Hasabnis
+    - 14.1:
+        non_striker: TS Hasabnis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.2:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Hasabnis
+    - 14.3:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 14.4:
+        non_striker: TS Hasabnis
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 14.5:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TS Hasabnis
+    - 14.6:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 14.7:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 14.8:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 15.2:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: H Kaur
+    - 15.3:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.4:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 15.5:
+        non_striker: H Kaur
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 15.6:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+    - 16.1:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.2:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.3:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.4:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.5:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 16.6:
+        non_striker: H Kaur
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 17.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: H Kaur
+        wicket:
+          player_out: H Kaur
+          fielders:
+          - EJ Carson
+          kind: caught
+    - 17.2:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 17.4:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 17.5:
+        non_striker: DB Sharma
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 17.6:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 18.1:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.3:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.4:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.5:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 18.6:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 19.1:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.2:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: DB Sharma
+    - 19.3:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.4:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: DB Sharma
+    - 19.5:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 19.6:
+        non_striker: TS Hasabnis
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 20.1:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 20.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 20.3:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 20.4:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 20.5:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: DB Sharma
+    - 20.6:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 20.7:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 21.1:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 21.2:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 21.3:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 21.4:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TS Hasabnis
+    - 21.5:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 21.6:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.1:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 22.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 22.3:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 22.4:
+        non_striker: TS Hasabnis
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 22.5:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 22.6:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 23.1:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.2:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.3:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.4:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+    - 23.5:
+        non_striker: TS Hasabnis
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 23.6:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TS Hasabnis
+    - 24.1:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 24.2:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+    - 24.3:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TS Hasabnis
+        wicket:
+          player_out: TS Hasabnis
+          kind: bowled
+    - 24.4:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 24.5:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 24.6:
+        non_striker: DB Sharma
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 25.1:
+        non_striker: A Reddy
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: DB Sharma
+    - 25.2:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 25.3:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 25.4:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+    - 25.5:
+        non_striker: DB Sharma
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 25.6:
+        non_striker: A Reddy
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: DB Sharma
+        wicket:
+          player_out: DB Sharma
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 26.1:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Reddy
+    - 26.2:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 26.3:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 26.4:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Yadav
+    - 26.5:
+        non_striker: A Reddy
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 26.6:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Reddy
+        wicket:
+          player_out: A Reddy
+          fielders:
+          - IC Gaze
+          kind: caught
+    - 27.1:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 27.2:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 27.3:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 27.4:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SZ Thakor
+    - 27.5:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 27.6:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 28.1:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 28.2:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Yadav
+    - 28.3:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 28.4:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 28.5:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 28.6:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 29.1:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 29.2:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 29.3:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 29.4:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SZ Thakor
+    - 29.5:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 29.6:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 29.7:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Yadav
+    - 30.1:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 30.2:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 30.3:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 30.4:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 30.5:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 30.6:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 31.1:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 31.2:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 31.3:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 31.4:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 31.5:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SZ Thakor
+    - 31.6:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SZ Thakor
+    - 31.7:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 32.1:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Yadav
+    - 32.2:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 32.3:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 32.4:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SZ Thakor
+    - 32.5:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 32.6:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 33.1:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 33.2:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 33.3:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 33.4:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 33.5:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 33.6:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Yadav
+    - 34.1:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 34.2:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 34.3:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Yadav
+    - 34.4:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Yadav
+    - 34.5:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 34.6:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 35.1:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 35.2:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 35.3:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 35.4:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 35.5:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 35.6:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 36.1:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 36.2:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 36.3:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 36.4:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 36.5:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SZ Thakor
+    - 36.6:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 37.1:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 37.2:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Yadav
+    - 37.3:
+        non_striker: SZ Thakor
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 37.4:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 37.5:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 37.6:
+        non_striker: RP Yadav
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 38.1:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 38.2:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 38.3:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 38.4:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 38.5:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 38.6:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.1:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 39.2:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 39.3:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: SZ Thakor
+    - 39.4:
+        non_striker: RP Yadav
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 39.5:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: RP Yadav
+    - 39.6:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 39.7:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 40.1:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 40.2:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SZ Thakor
+    - 40.3:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 40.4:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 40.5:
+        non_striker: SZ Thakor
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 40.6:
+        non_striker: RP Yadav
+        bowler: EJ Carson
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 41.1:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 41.2:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 41.3:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 41.4:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 41.5:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 41.6:
+        non_striker: SZ Thakor
+        bowler: LMM Tahuhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 42.1:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: SZ Thakor
+    - 42.2:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 42.3:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 42.4:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 42.5:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 42.6:
+        non_striker: SZ Thakor
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 43.1:
+        non_striker: SZ Thakor
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 43.2:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: SZ Thakor
+    - 43.3:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 43.4:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: SZ Thakor
+    - 43.5:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+    - 43.6:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: SZ Thakor
+        wicket:
+          player_out: SZ Thakor
+          fielders:
+          - SW Bates
+          kind: caught
+    - 44.1:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 44.2:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 44.3:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 44.4:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 44.5:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 44.6:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 45.1:
+        non_striker: Priya Mishra
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 45.2:
+        non_striker: Priya Mishra
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 45.3:
+        non_striker: Priya Mishra
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 45.4:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 45.5:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 45.6:
+        non_striker: RP Yadav
+        bowler: JM Kerr
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 46.1:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+    - 46.2:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: RP Yadav
+    - 46.3:
+        non_striker: Priya Mishra
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: RP Yadav
+    - 46.4:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 46.5:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 46.6:
+        non_striker: RP Yadav
+        bowler: FC Jonas
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Priya Mishra
+    - 47.1:
+        non_striker: Priya Mishra
+        bowler: SFM Devine
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: RP Yadav
+        wicket:
+          player_out: RP Yadav
+          fielders:
+          - LR Down
+          kind: caught

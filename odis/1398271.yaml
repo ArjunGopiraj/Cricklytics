@@ -1,0 +1,5269 @@
+---
+meta:
+  data_version: 0.92
+  created: '2024-05-26'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Derby
+  dates:
+  - '2024-05-23'
+  gender: female
+  match_type: ODI
+  match_type_number: 1384
+  outcome:
+    winner: England
+    by:
+      runs: 37
+  overs: 50
+  player_of_match:
+  - S Ecclestone
+  players:
+    England:
+    - TT Beaumont
+    - ME Bouchier
+    - HC Knight
+    - NR Sciver-Brunt
+    - A Capsey
+    - AE Jones
+    - CE Dean
+    - S Ecclestone
+    - S Glenn
+    - KL Cross
+    - LK Bell
+    Pakistan:
+    - Sadaf Shamas
+    - Sidra Ameen
+    - Muneeba Ali
+    - Ayesha Zafar
+    - Nida Dar
+    - Aliya Riaz
+    - Fatima Sana
+    - Najiha Alvi
+    - Umm-e-Hani
+    - Diana Baig
+    - Nashra Sandhu
+  registry:
+    people:
+      A Capsey: 910dd54e
+      AE Jones: b05e45e4
+      AY Harris: 90d95b82
+      Aliya Riaz: 2904b4b6
+      Ayesha Zafar: e15f4fa4
+      CE Dean: c6625a26
+      Diana Baig: a51e6c6e
+      Fatima Sana: ea9c54de
+      H Pack: fed53c91
+      HC Knight: 4ba0289e
+      J Naeem: 0dc3fee0
+      KL Cross: 1ade138e
+      Kim Cotton: 67a7c2ee
+      LK Bell: 38b4583c
+      ME Bouchier: c2554b59
+      Muneeba Ali: 86fdf668
+      NR Sciver-Brunt: f3a18a0c
+      Najiha Alvi: faef39c1
+      Nashra Sandhu: c981d3c2
+      Nida Dar: ed840f44
+      S Ecclestone: cdb82f1c
+      S Glenn: b34e0c77
+      S Redfern: 5b038989
+      Sadaf Shamas: f19c8dc0
+      Sidra Ameen: 72c9ad99
+      TT Beaumont: b2664905
+      Umm-e-Hani: 6ee11109
+  teams:
+  - England
+  - Pakistan
+  toss:
+    winner: Pakistan
+    decision: field
+  umpires:
+  - Kim Cotton
+  - S Redfern
+  venue: County Ground, Derby
+innings:
+- 1st innings:
+    team: England
+    deliveries:
+    - 0.1:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.2:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.3:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 0.4:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 0.5:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 0.6:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 0.7:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 1.1:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.2:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: TT Beaumont
+    - 1.3:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.4:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 1.5:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 1.6:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 2.1:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 2.2:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 2.3:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.4:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 2.5:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 2.6:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 3.1:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 3.2:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: ME Bouchier
+    - 3.3:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 3.4:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 3.5:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 3.6:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: ME Bouchier
+    - 3.7:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 4.1:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 4.2:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 4.3:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 4.4:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 4.5:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 4.6:
+        non_striker: TT Beaumont
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 5.1:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 5.2:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 5.3:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 5.4:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 5.5:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 5.6:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: ME Bouchier
+    - 5.7:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 6.1:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.2:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: TT Beaumont
+    - 6.3:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 6.4:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 6.5:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 6.6:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 6.7:
+        non_striker: ME Bouchier
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.1:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: ME Bouchier
+    - 7.2:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 7.3:
+        non_striker: ME Bouchier
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 7.4:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 7.5:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 7.6:
+        non_striker: TT Beaumont
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: ME Bouchier
+    - 8.1:
+        non_striker: ME Bouchier
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 8.2:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+    - 8.3:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: ME Bouchier
+        wicket:
+          player_out: ME Bouchier
+          kind: lbw
+    - 8.4:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.5:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 8.6:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: HC Knight
+    - 9.1:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.2:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.3:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.4:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: TT Beaumont
+    - 9.5:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 9.6:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.1:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 10.2:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.3:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 10.4:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 10.5:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 10.6:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.1:
+        non_striker: TT Beaumont
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.2:
+        non_striker: TT Beaumont
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 11.3:
+        non_striker: TT Beaumont
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.4:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 11.5:
+        non_striker: TT Beaumont
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 11.6:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+    - 12.1:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.2:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 12.3:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: TT Beaumont
+    - 12.4:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.5:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 12.6:
+        non_striker: TT Beaumont
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 13.1:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: TT Beaumont
+        wicket:
+          player_out: TT Beaumont
+          kind: lbw
+    - 13.2:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 13.3:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 13.4:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 13.5:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 13.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.1:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 14.2:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 14.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 14.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 14.6:
+        non_striker: HC Knight
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 15.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 15.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 15.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 15.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 15.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 15.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 16.3:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 16.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 16.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 17.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 17.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 17.3:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 17.4:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 17.5:
+        non_striker: HC Knight
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 17.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 18.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 18.2:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 18.3:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 18.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 18.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 18.6:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 19.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 19.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 19.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 19.4:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 19.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: HC Knight
+    - 19.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 20.1:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 20.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 20.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 20.4:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 20.5:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 20.6:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 21.1:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 21.2:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 21.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: HC Knight
+    - 21.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 21.5:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 21.6:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 21.7:
+        non_striker: HC Knight
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 22.1:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 22.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 22.3:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 22.4:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: NR Sciver-Brunt
+    - 22.5:
+        non_striker: HC Knight
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: NR Sciver-Brunt
+    - 22.6:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: HC Knight
+    - 23.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+    - 23.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: HC Knight
+        wicket:
+          player_out: HC Knight
+          fielders:
+          - Najiha Alvi
+          kind: caught
+    - 23.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 23.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 23.5:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 23.6:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 24.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 24.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 24.3:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 24.4:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+    - 24.5:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 24.6:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: NR Sciver-Brunt
+    - 25.1:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 25.2:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 25.3:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 25.4:
+        non_striker: NR Sciver-Brunt
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 25.5:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: NR Sciver-Brunt
+        wicket:
+          player_out: NR Sciver-Brunt
+          fielders:
+          - Najiha Alvi
+          kind: caught
+    - 25.6:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 26.1:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 26.2:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 26.3:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 26.4:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 26.5:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 26.6:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 27.1:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 27.2:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 27.3:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 27.4:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 27.5:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 27.6:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 28.1:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 28.2:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 28.3:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 28.4:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 28.5:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 28.6:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 29.1:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 29.2:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 29.3:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 29.4:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 29.5:
+        non_striker: A Capsey
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 29.6:
+        non_striker: AE Jones
+        bowler: Aliya Riaz
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 30.1:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 30.2:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 30.3:
+        non_striker: AE Jones
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 30.4:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 30.5:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 30.6:
+        non_striker: AE Jones
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 31.1:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 31.2:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 31.3:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 31.4:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 31.5:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 31.6:
+        non_striker: AE Jones
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 32.1:
+        non_striker: AE Jones
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 32.2:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 32.3:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 32.4:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 32.5:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 32.6:
+        non_striker: A Capsey
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 33.1:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 33.2:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 33.3:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 33.4:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 33.5:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 33.6:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 34.1:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: AE Jones
+    - 34.2:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 34.3:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: AE Jones
+    - 34.4:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 34.5:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 34.6:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 35.1:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 35.2:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 35.3:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 35.4:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 35.5:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 35.6:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 36.1:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 36.2:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 36.3:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 36.4:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: AE Jones
+    - 36.5:
+        non_striker: A Capsey
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 36.6:
+        non_striker: AE Jones
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 37.1:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 37.2:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 37.3:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 37.4:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 37.5:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: AE Jones
+    - 37.6:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 37.7:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 37.8:
+        non_striker: AE Jones
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 38.1:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+    - 38.2:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: AE Jones
+        wicket:
+          player_out: AE Jones
+          fielders:
+          - Ayesha Zafar
+          kind: caught
+    - 38.3:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 38.4:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 38.5:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 38.6:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 39.1:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 39.2:
+        non_striker: CE Dean
+        bowler: Ayesha Zafar
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: A Capsey
+    - 39.3:
+        non_striker: CE Dean
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 39.4:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 39.5:
+        non_striker: A Capsey
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 39.6:
+        non_striker: CE Dean
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 39.7:
+        non_striker: CE Dean
+        bowler: Ayesha Zafar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 40.1:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 40.2:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 40.3:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 40.4:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 40.5:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Dean
+    - 40.6:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 41.1:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 41.2:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 41.3:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 41.4:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 41.5:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 41.6:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 42.1:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: A Capsey
+    - 42.2:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: A Capsey
+    - 42.3:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 42.4:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Dean
+    - 42.5:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: CE Dean
+    - 42.6:
+        non_striker: A Capsey
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 43.1:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: CE Dean
+    - 43.2:
+        non_striker: A Capsey
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 43.3:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 43.4:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+    - 43.5:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: A Capsey
+    - 43.6:
+        non_striker: CE Dean
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: A Capsey
+        wicket:
+          player_out: A Capsey
+          kind: caught and bowled
+    - 44.1:
+        non_striker: S Ecclestone
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 44.2:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 44.3:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 44.4:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+    - 44.5:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Ecclestone
+    - 44.6:
+        non_striker: S Ecclestone
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 45.1:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Ecclestone
+        wicket:
+          player_out: S Ecclestone
+          fielders:
+          - Sadaf Shamas
+          kind: caught
+    - 45.2:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 45.3:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 45.4:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Glenn
+    - 45.5:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 45.6:
+        non_striker: CE Dean
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 46.1:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 46.2:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+    - 46.3:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: CE Dean
+    - 46.4:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 46.5:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 46.6:
+        non_striker: CE Dean
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: S Glenn
+    - 47.1:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: CE Dean
+        wicket:
+          player_out: CE Dean
+          kind: bowled
+    - 47.2:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 47.3:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 47.4:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 47.5:
+        non_striker: KL Cross
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 47.6:
+        non_striker: S Glenn
+        bowler: Nida Dar
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: KL Cross
+    - 48.1:
+        non_striker: KL Cross
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 48.2:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+    - 48.3:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: KL Cross
+    - 48.4:
+        non_striker: KL Cross
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 48.5:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: KL Cross
+        wicket:
+          player_out: KL Cross
+          fielders:
+          - Nashra Sandhu
+          kind: caught
+    - 48.6:
+        non_striker: S Glenn
+        bowler: Umm-e-Hani
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Bell
+    - 49.1:
+        non_striker: LK Bell
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: S Glenn
+    - 49.2:
+        non_striker: LK Bell
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: S Glenn
+    - 49.3:
+        non_striker: S Glenn
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: LK Bell
+    - 49.4:
+        non_striker: LK Bell
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: S Glenn
+    - 49.5:
+        non_striker: S Glenn
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Bell
+    - 49.6:
+        non_striker: S Glenn
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: LK Bell
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 0.2:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 0.3:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.4:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.5:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 0.6:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          legbyes: 2
+        batsman: Sidra Ameen
+    - 1.1:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 1.2:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.3:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 1.4:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.5:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.6:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 1.7:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 1.8:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 2.1:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.2:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Sidra Ameen
+    - 2.3:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.4:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.5:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 2.6:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 2.7:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.1:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 3
+          batsman: 3
+        batsman: Sadaf Shamas
+    - 3.2:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.5:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 3.6:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.7:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.1:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.2:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.3:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.5:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 5.1:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.2:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.3:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.4:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 5.5:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 5.6:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 5.7:
+        non_striker: Sidra Ameen
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 6.5:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sadaf Shamas
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 7.1:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.2:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 7.3:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - AE Jones
+          kind: caught
+    - 7.4:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 7.5:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 7.6:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.7:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.8:
+        non_striker: Sadaf Shamas
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 8.1:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.2:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          noballs: 1
+        batsman: Muneeba Ali
+    - 8.3:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 8.4:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 8.5:
+        non_striker: Sadaf Shamas
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 8.6:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.7:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 8.8:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 9.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.4:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.5:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.6:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.7:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 10.1:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 10.4:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.5:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.6:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 10.7:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 11.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.2:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.3:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 11.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 11.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sadaf Shamas
+    - 11.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 12.1:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sadaf Shamas
+    - 12.3:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.4:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Muneeba Ali
+    - 12.5:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.6:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 12.7:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 13.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.1:
+        non_striker: Sadaf Shamas
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 14.2:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.3:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.4:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 14.5:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sadaf Shamas
+    - 14.6:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.7:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 14.8:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 15.1:
+        non_striker: Sadaf Shamas
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 15.3:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+    - 15.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sadaf Shamas
+        wicket:
+          player_out: Sadaf Shamas
+          kind: bowled
+    - 15.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+    - 15.6:
+        non_striker: Ayesha Zafar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 16.1:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 16.2:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 16.3:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 16.4:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 16.5:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 16.6:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 17.1:
+        non_striker: Ayesha Zafar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 17.2:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 17.3:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ayesha Zafar
+    - 17.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 17.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 17.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 18.1:
+        non_striker: Ayesha Zafar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 18.2:
+        non_striker: Ayesha Zafar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 18.3:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ayesha Zafar
+    - 18.4:
+        non_striker: Ayesha Zafar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 18.5:
+        non_striker: Ayesha Zafar
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 18.6:
+        non_striker: Muneeba Ali
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ayesha Zafar
+    - 19.1:
+        non_striker: Ayesha Zafar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 19.2:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 19.3:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+    - 19.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ayesha Zafar
+        wicket:
+          player_out: Ayesha Zafar
+          kind: bowled
+    - 19.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 19.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 19.7:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 20.1:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 20.2:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 20.3:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 20.4:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 20.5:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 20.6:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.1:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.2:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 21.3:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.4:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 21.5:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 21.6:
+        non_striker: Muneeba Ali
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 22.1:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 22.2:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 22.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 22.4:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 22.5:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 22.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.1:
+        non_striker: Nida Dar
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.2:
+        non_striker: Nida Dar
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.3:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 23.4:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Nida Dar
+    - 23.5:
+        non_striker: Nida Dar
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.6:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 23.7:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nida Dar
+    - 23.8:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 24.1:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 24.2:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 24.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 24.4:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 24.5:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 24.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 25.1:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 25.2:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 25.3:
+        non_striker: Nida Dar
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 25.4:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 25.5:
+        non_striker: Nida Dar
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 25.6:
+        non_striker: Muneeba Ali
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 26.1:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 26.2:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 26.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 26.4:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 26.5:
+        non_striker: Muneeba Ali
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 26.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 27.1:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 27.2:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 27.3:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 27.4:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - AE Jones
+          kind: caught
+    - 27.5:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Aliya Riaz
+    - 27.6:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 27.7:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 28.1:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 28.2:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 28.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 28.4:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 3
+          total: 3
+          batsman: 0
+        extras:
+          wides: 3
+        batsman: Aliya Riaz
+    - 28.5:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 28.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.7:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 29.1:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 29.2:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 29.3:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 29.4:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 29.5:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 29.6:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.1:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 30.2:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 30.3:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 30.4:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.5:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.6:
+        non_striker: Aliya Riaz
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nida Dar
+    - 31.1:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 31.2:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.3:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.4:
+        non_striker: Nida Dar
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 31.5:
+        non_striker: Aliya Riaz
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 31.6:
+        non_striker: Aliya Riaz
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 32.1:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.2:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.3:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.4:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.5:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 32.6:
+        non_striker: Nida Dar
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 33.1:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nida Dar
+    - 33.2:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 33.3:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nida Dar
+    - 33.4:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 33.5:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 33.6:
+        non_striker: Nida Dar
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 34.1:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 34.2:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+    - 34.3:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nida Dar
+        wicket:
+          player_out: Nida Dar
+          fielders:
+          - TT Beaumont
+          kind: caught
+    - 34.4:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 34.5:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fatima Sana
+    - 34.6:
+        non_striker: Aliya Riaz
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fatima Sana
+    - 35.1:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+    - 35.2:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fatima Sana
+        wicket:
+          player_out: Fatima Sana
+          kind: lbw
+    - 35.3:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.4:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.5:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 35.6:
+        non_striker: Aliya Riaz
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 36.1:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.2:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 36.3:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.4:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.5:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+        wicket:
+          player_out: Aliya Riaz
+          kind: lbw
+    - 36.6:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 37.1:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 37.2:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 37.3:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 37.4:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 37.5:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 37.6:
+        non_striker: Umm-e-Hani
+        bowler: S Ecclestone
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.1:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+    - 38.2:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Umm-e-Hani
+    - 38.3:
+        non_striker: Umm-e-Hani
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.4:
+        non_striker: Umm-e-Hani
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Najiha Alvi
+    - 38.5:
+        non_striker: Umm-e-Hani
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 38.6:
+        non_striker: Umm-e-Hani
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 39.1:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Umm-e-Hani
+        wicket:
+          player_out: Umm-e-Hani
+          kind: bowled
+    - 39.2:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Diana Baig
+    - 39.3:
+        non_striker: Diana Baig
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 39.4:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 39.5:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 39.6:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 40.1:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 40.2:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 40.3:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 40.4:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 40.5:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 40.6:
+        non_striker: Diana Baig
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 41.1:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+    - 41.2:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Diana Baig
+    - 41.3:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Diana Baig
+    - 41.4:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Diana Baig
+    - 41.5:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Diana Baig
+        wicket:
+          player_out: Diana Baig
+          fielders:
+          - NR Sciver-Brunt
+          kind: caught
+    - 41.6:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 41.7:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 42.1:
+        non_striker: Nashra Sandhu
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.2:
+        non_striker: Nashra Sandhu
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.3:
+        non_striker: Nashra Sandhu
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.4:
+        non_striker: Nashra Sandhu
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 42.5:
+        non_striker: Nashra Sandhu
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 42.6:
+        non_striker: Najiha Alvi
+        bowler: CE Dean
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 43.1:
+        non_striker: Nashra Sandhu
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 43.2:
+        non_striker: Nashra Sandhu
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 43.3:
+        non_striker: Nashra Sandhu
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 43.4:
+        non_striker: Nashra Sandhu
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 43.5:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 2
+          batsman: 1
+        extras:
+          noballs: 1
+        batsman: Nashra Sandhu
+    - 43.6:
+        non_striker: Nashra Sandhu
+        bowler: KL Cross
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          byes: 1
+        batsman: Najiha Alvi
+    - 43.7:
+        non_striker: Najiha Alvi
+        bowler: KL Cross
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 44.1:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.2:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.3:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.4:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 44.5:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 44.6:
+        non_striker: Najiha Alvi
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 45.1:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 45.2:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 45.3:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 45.4:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 45.5:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nashra Sandhu
+    - 45.6:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 46.1:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 46.2:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 46.3:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Najiha Alvi
+    - 46.4:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 46.5:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 46.6:
+        non_striker: Najiha Alvi
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 46.7:
+        non_striker: Najiha Alvi
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 47.1:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 47.2:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 47.3:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 47.4:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 47.5:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 47.6:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 48.1:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 48.2:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 48.3:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Najiha Alvi
+    - 48.4:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 48.5:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Najiha Alvi
+    - 48.6:
+        non_striker: Nashra Sandhu
+        bowler: S Glenn
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 49.1:
+        non_striker: Nashra Sandhu
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Najiha Alvi
+    - 49.2:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 49.3:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nashra Sandhu
+    - 49.4:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 49.5:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu
+    - 49.6:
+        non_striker: Najiha Alvi
+        bowler: LK Bell
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nashra Sandhu

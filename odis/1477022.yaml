@@ -1,0 +1,4593 @@
+---
+meta:
+  data_version: 0.92
+  created: '2025-04-24'
+  revision: 1
+info:
+  balls_per_over: 6
+  city: Lahore
+  dates:
+  - '2025-04-19'
+  gender: female
+  match_type: ODI
+  match_type_number: 1455
+  outcome:
+    winner: Pakistan
+    by:
+      wickets: 7
+  overs: 50
+  player_of_match:
+  - Muneeba Ali
+  players:
+    Bangladesh:
+    - Dilara Akter
+    - Fargana Hoque
+    - Sharmin Akhter
+    - Nigar Sultana
+    - Ritu Moni
+    - Nahida Akter
+    - Fahima Khatun
+    - Shorna Akter
+    - Jannatul Ferdus
+    - Rabeya Khan
+    - Marufa Akter
+    Pakistan:
+    - Shawaal Zulfiqar
+    - Muneeba Ali
+    - Sidra Ameen
+    - Aliya Riaz
+    - Natalia Pervaiz
+    - Sidra Nawaz
+    - Fatima Sana
+    - Diana Baig
+    - Rameen Shamim
+    - Sadia Iqbal
+    - Nashra Sandhu
+  registry:
+    people:
+      Aliya Riaz: 2904b4b6
+      C La Borde: 32157f67
+      Diana Baig: a51e6c6e
+      Dilara Akter: f2670a3d
+      Fahima Khatun: 558cdd64
+      Fargana Hoque: 6e96c956
+      Fatima Sana: ea9c54de
+      Jannatul Ferdus: fa948618
+      LB Gcuma: 02ba88e3
+      LDVV Silva: 6e226c31
+      Marufa Akter: a50797a4
+      Muneeba Ali: 86fdf668
+      Nahida Akter: '66078174'
+      Nashra Sandhu: c981d3c2
+      Natalia Pervaiz: fa8a3eb0
+      Nigar Sultana: 3827f6a2
+      Rabeya Khan: aaf037b1
+      Rameen Shamim: 0b78b7c1
+      Ritu Moni: ad3940a5
+      S Dambanevana: '039923bd'
+      SA Fritz: d15e60c8
+      Sadia Iqbal: 53bb50f0
+      Sharmin Akhter: 84fdd3cf
+      Shawaal Zulfiqar: adb2f55e
+      Shorna Akter: 89895ae1
+      Sidra Ameen: 72c9ad99
+      Sidra Nawaz: ca3ded6f
+  teams:
+  - Bangladesh
+  - Pakistan
+  toss:
+    winner: Bangladesh
+    decision: bat
+  umpires:
+  - LDVV Silva
+  - S Dambanevana
+  venue: Lahore City Cricket Association Ground
+innings:
+- 1st innings:
+    team: Bangladesh
+    deliveries:
+    - 0.1:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 0.2:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Dilara Akter
+    - 0.3:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 0.4:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 0.5:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 0.6:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 1.1:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.2:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.3:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.4:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.5:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 1.6:
+        non_striker: Dilara Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+    - 2.1:
+        non_striker: Fargana Hoque
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Dilara Akter
+    - 2.2:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fargana Hoque
+    - 2.3:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fargana Hoque
+        wicket:
+          player_out: Fargana Hoque
+          kind: bowled
+    - 2.4:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 2.5:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 2.6:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 2.7:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 3.1:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.2:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.3:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.4:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dilara Akter
+    - 3.5:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+    - 3.6:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Dilara Akter
+    - 4.1:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.2:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.3:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.4:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 4.5:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.6:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 4.7:
+        non_striker: Dilara Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.1:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Dilara Akter
+        wicket:
+          player_out: Dilara Akter
+          fielders:
+          - Shawaal Zulfiqar
+          kind: caught
+    - 5.2:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 5.3:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nigar Sultana
+    - 5.4:
+        non_striker: Nigar Sultana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.5:
+        non_striker: Nigar Sultana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 5.6:
+        non_striker: Nigar Sultana
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 6.1:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.2:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.3:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+    - 6.4:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Nigar Sultana
+    - 6.5:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nigar Sultana
+        wicket:
+          player_out: Nigar Sultana
+          kind: lbw
+    - 6.6:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 6.7:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.1:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.2:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 7.3:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 7.4:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.5:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 7.6:
+        non_striker: Sharmin Akhter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 8.1:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 8.2:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 8.3:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 8.4:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 8.5:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 8.6:
+        non_striker: Sharmin Akhter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 9.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 9.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 9.4:
+        non_striker: Sharmin Akhter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 9.5:
+        non_striker: Sharmin Akhter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 9.6:
+        non_striker: Sharmin Akhter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 10.1:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.2:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.3:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.4:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 10.5:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 10.6:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 11.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 11.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 11.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sharmin Akhter
+    - 11.7:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 12.1:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 12.2:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sharmin Akhter
+    - 12.3:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 12.4:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 12.5:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.6:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 12.7:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 13.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 13.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sharmin Akhter
+    - 13.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 13.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.1:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 14.2:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 14.3:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 14.4:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.5:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 14.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 15.1:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 15.2:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 15.3:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 15.4:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 15.5:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 15.6:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 15.7:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 16.1:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 16.2:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 16.3:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 16.4:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 16.5:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 16.6:
+        non_striker: Sharmin Akhter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 17.1:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 17.2:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+    - 17.3:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sharmin Akhter
+    - 17.4:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 17.5:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 17.6:
+        non_striker: Sharmin Akhter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 17.7:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sharmin Akhter
+        wicket:
+          player_out: Sharmin Akhter
+          fielders:
+          - Muneeba Ali
+          kind: caught
+    - 18.1:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 18.2:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 18.3:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 18.4:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 18.5:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 18.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 19.1:
+        non_striker: Nahida Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 19.2:
+        non_striker: Nahida Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 19.3:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 19.4:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 19.5:
+        non_striker: Nahida Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 19.6:
+        non_striker: Nahida Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 20.1:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 20.2:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 20.3:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 20.4:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 20.5:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 20.6:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 21.1:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 21.2:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 21.3:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 21.4:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 21.5:
+        non_striker: Nahida Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 21.6:
+        non_striker: Nahida Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 22.1:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 22.2:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 22.3:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 22.4:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 22.5:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 22.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 23.1:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 23.2:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 23.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 23.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 23.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 23.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 24.1:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Ritu Moni
+    - 24.2:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 24.3:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 24.4:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 24.5:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Nahida Akter
+    - 24.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 25.1:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 25.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Nahida Akter
+    - 25.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 25.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 25.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 25.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 26.1:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 26.2:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 26.3:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 26.4:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 26.5:
+        non_striker: Nahida Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 26.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 27.1:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 27.2:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 27.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 27.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 27.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 27.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 28.1:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 28.2:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 28.3:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 28.4:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 28.5:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 28.6:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 29.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 29.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 29.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 29.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 29.5:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 29.6:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 30.1:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Nahida Akter
+    - 30.2:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 30.3:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Ritu Moni
+    - 30.4:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 30.5:
+        non_striker: Nahida Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 30.6:
+        non_striker: Ritu Moni
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.1:
+        non_striker: Nahida Akter
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 31.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+    - 31.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Nahida Akter
+        wicket:
+          player_out: Nahida Akter
+          kind: lbw
+    - 31.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 32.1:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 32.2:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Fahima Khatun
+    - 32.3:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.4:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.5:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 32.6:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 33.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.4:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.5:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 33.6:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 34.1:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.2:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 34.3:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 34.4:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 34.5:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 34.6:
+        non_striker: Ritu Moni
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 35.1:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 35.2:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 35.3:
+        non_striker: Ritu Moni
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 35.4:
+        non_striker: Fahima Khatun
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 35.5:
+        non_striker: Fahima Khatun
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 35.6:
+        non_striker: Fahima Khatun
+        bowler: Rameen Shamim
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 36.1:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 36.2:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 36.3:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 36.4:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 36.5:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 36.6:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 37.1:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Ritu Moni
+    - 37.2:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 37.3:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Ritu Moni
+    - 37.4:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 37.5:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 37.6:
+        non_striker: Ritu Moni
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 37.7:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+    - 38.1:
+        non_striker: Ritu Moni
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 38.2:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Ritu Moni
+        wicket:
+          player_out: Ritu Moni
+          fielders:
+          - Sidra Nawaz
+          kind: stumped
+    - 38.3:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 38.4:
+        non_striker: Shorna Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 38.5:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Shorna Akter
+    - 38.6:
+        non_striker: Shorna Akter
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 39.1:
+        non_striker: Shorna Akter
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 39.2:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shorna Akter
+        wicket:
+          player_out: Shorna Akter
+          fielders:
+          - Sidra Nawaz
+          kind: caught
+    - 39.3:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 39.4:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 39.5:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 39.6:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 40.1:
+        non_striker: Jannatul Ferdus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 40.2:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 40.3:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 40.4:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 40.5:
+        non_striker: Fahima Khatun
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 40.6:
+        non_striker: Jannatul Ferdus
+        bowler: Nashra Sandhu
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 41.1:
+        non_striker: Jannatul Ferdus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 41.2:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 41.3:
+        non_striker: Jannatul Ferdus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 41.4:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 41.5:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 41.6:
+        non_striker: Jannatul Ferdus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 42.1:
+        non_striker: Jannatul Ferdus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 42.2:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Jannatul Ferdus
+    - 42.3:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 42.4:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 42.5:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 42.6:
+        non_striker: Jannatul Ferdus
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 42.7:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 43.1:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 43.2:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Jannatul Ferdus
+    - 43.3:
+        non_striker: Jannatul Ferdus
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 43.4:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 43.5:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 43.6:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 44.1:
+        non_striker: Jannatul Ferdus
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 44.2:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 44.3:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 44.4:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+    - 44.5:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Jannatul Ferdus
+        wicket:
+          player_out: Jannatul Ferdus
+          fielders:
+          - Sidra Nawaz
+          kind: stumped
+    - 44.6:
+        non_striker: Fahima Khatun
+        bowler: Sadia Iqbal
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 45.1:
+        non_striker: Rabeya Khan
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 45.2:
+        non_striker: Rabeya Khan
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Fahima Khatun
+    - 45.3:
+        non_striker: Rabeya Khan
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 45.4:
+        non_striker: Rabeya Khan
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 45.5:
+        non_striker: Rabeya Khan
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 45.6:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 46.1:
+        non_striker: Rabeya Khan
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 46.2:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 46.3:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 46.4:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 46.5:
+        non_striker: Rabeya Khan
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 46.6:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Rabeya Khan
+    - 47.1:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 47.2:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 47.3:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+    - 47.4:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Rabeya Khan
+        wicket:
+          player_out: Rabeya Khan
+          kind: bowled
+    - 47.5:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 47.6:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 48.1:
+        non_striker: Marufa Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 48.2:
+        non_striker: Marufa Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 2
+          total: 2
+          batsman: 0
+        extras:
+          wides: 2
+        batsman: Fahima Khatun
+    - 48.3:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 48.4:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Marufa Akter
+    - 48.5:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Marufa Akter
+    - 48.6:
+        non_striker: Marufa Akter
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 48.7:
+        non_striker: Fahima Khatun
+        bowler: Fatima Sana
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 49.1:
+        non_striker: Marufa Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Fahima Khatun
+    - 49.2:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 49.3:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Marufa Akter
+    - 49.4:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Marufa Akter
+    - 49.5:
+        non_striker: Fahima Khatun
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Marufa Akter
+    - 49.6:
+        non_striker: Marufa Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+    - 49.7:
+        non_striker: Marufa Akter
+        bowler: Diana Baig
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Fahima Khatun
+    - 49.8:
+        non_striker: Marufa Akter
+        bowler: Diana Baig
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Fahima Khatun
+- 2nd innings:
+    team: Pakistan
+    deliveries:
+    - 0.1:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Shawaal Zulfiqar
+    - 0.2:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Shawaal Zulfiqar
+        wicket:
+          player_out: Shawaal Zulfiqar
+          kind: lbw
+    - 0.3:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          wides: 1
+        batsman: Sidra Ameen
+    - 0.4:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 0.5:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.6:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 0.7:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 1.1:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.2:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 1.3:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.5:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 1.6:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 2.1:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 2.2:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.3:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.4:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.5:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 2.6:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 3.1:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.2:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.3:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 3.5:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 3.6:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.1:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.2:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 4.3:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 4.4:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.5:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 4.6:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 5.1:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.2:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 5.3:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.5:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 5.6:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 6.1:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.2:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.3:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 6.4:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.5:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 6.6:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 7.1:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.2:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.3:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.4:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 7.5:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 7.6:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.1:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.2:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.3:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 8.4:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 8.5:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 8.6:
+        non_striker: Sidra Ameen
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.1:
+        non_striker: Sidra Ameen
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 9.2:
+        non_striker: Sidra Ameen
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 9.3:
+        non_striker: Sidra Ameen
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 9.4:
+        non_striker: Sidra Ameen
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 9.5:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 9.6:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 10.1:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.2:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 10.3:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Muneeba Ali
+    - 10.4:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 10.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 11.1:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 11.2:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.3:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 11.4:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 11.5:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 11.6:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 12.1:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 12.2:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 12.3:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 12.4:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 12.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 12.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 13.1:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 13.2:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.3:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 13.4:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 13.5:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 13.6:
+        non_striker: Sidra Ameen
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.1:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 4
+          total: 4
+          batsman: 0
+        extras:
+          legbyes: 4
+        batsman: Sidra Ameen
+    - 14.2:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 14.3:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 14.4:
+        non_striker: Sidra Ameen
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 14.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 14.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 15.1:
+        non_striker: Sidra Ameen
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 15.2:
+        non_striker: Sidra Ameen
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 15.3:
+        non_striker: Muneeba Ali
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 15.4:
+        non_striker: Muneeba Ali
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 15.5:
+        non_striker: Muneeba Ali
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Sidra Ameen
+    - 15.6:
+        non_striker: Muneeba Ali
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Sidra Ameen
+    - 16.1:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.2:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 16.3:
+        non_striker: Sidra Ameen
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 16.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 16.5:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+    - 16.6:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Sidra Ameen
+    - 17.1:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Sidra Ameen
+        wicket:
+          player_out: Sidra Ameen
+          fielders:
+          - Dilara Akter
+          kind: caught
+    - 17.2:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.3:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 17.4:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 17.5:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 17.6:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 18.1:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.2:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.3:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 18.4:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 18.5:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 18.6:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 19.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 19.2:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 19.3:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 19.4:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 19.5:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 19.6:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 20.1:
+        non_striker: Aliya Riaz
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 20.2:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.3:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.4:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.5:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 20.6:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Aliya Riaz
+    - 21.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 21.2:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 21.3:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.4:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 21.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 22.1:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.2:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.3:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 22.4:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 22.5:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 5
+          total: 5
+          batsman: 0
+        extras:
+          wides: 5
+        batsman: Aliya Riaz
+    - 22.6:
+        non_striker: Muneeba Ali
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 22.7:
+        non_striker: Aliya Riaz
+        bowler: Jannatul Ferdus
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.1:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 1
+          total: 1
+          batsman: 0
+        extras:
+          legbyes: 1
+        batsman: Aliya Riaz
+    - 23.2:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.3:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 23.4:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 23.5:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 23.6:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.1:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.2:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 24.3:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 24.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 24.5:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 24.6:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 25.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 25.2:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 25.3:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 25.4:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 25.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 25.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 26.1:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.2:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 26.3:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 26.4:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 26.5:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 26.6:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 27.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 27.2:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 27.3:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 27.4:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 27.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 27.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 28.1:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 28.2:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 28.3:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 28.4:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 28.5:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 28.6:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 2
+          batsman: 2
+        batsman: Muneeba Ali
+    - 29.1:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 29.2:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.3:
+        non_striker: Aliya Riaz
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 29.4:
+        non_striker: Muneeba Ali
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 29.5:
+        non_striker: Aliya Riaz
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Muneeba Ali
+    - 29.6:
+        non_striker: Aliya Riaz
+        bowler: Marufa Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 30.1:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.2:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 30.3:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 30.4:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 30.5:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 30.6:
+        non_striker: Muneeba Ali
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.1:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 31.2:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 31.3:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 31.4:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 31.5:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 31.6:
+        non_striker: Muneeba Ali
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 32.2:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 32.3:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 32.4:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Muneeba Ali
+    - 32.5:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 32.6:
+        non_striker: Muneeba Ali
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz
+    - 33.1:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+    - 33.2:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Muneeba Ali
+        wicket:
+          player_out: Muneeba Ali
+          fielders:
+          - Sharmin Akhter
+          kind: caught
+    - 33.3:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 33.4:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 33.5:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 33.6:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 34.1:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.2:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.3:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.4:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.5:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 34.6:
+        non_striker: Aliya Riaz
+        bowler: Rabeya Khan
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 35.1:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 35.2:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 35.3:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Natalia Pervaiz
+    - 35.4:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 35.5:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 35.6:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 36.1:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 36.2:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 36.3:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 36.4:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.5:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 36.6:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 37.1:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 37.2:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 37.3:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 37.4:
+        non_striker: Natalia Pervaiz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 37.5:
+        non_striker: Natalia Pervaiz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 37.6:
+        non_striker: Aliya Riaz
+        bowler: Nahida Akter
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 38.1:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Aliya Riaz
+    - 38.2:
+        non_striker: Aliya Riaz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 38.3:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.4:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.5:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 38.6:
+        non_striker: Natalia Pervaiz
+        bowler: Fahima Khatun
+        runs:
+          extras: 0
+          total: 6
+          batsman: 6
+        batsman: Aliya Riaz
+    - 39.1:
+        non_striker: Aliya Riaz
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Natalia Pervaiz
+    - 39.2:
+        non_striker: Aliya Riaz
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 1
+          batsman: 1
+        batsman: Natalia Pervaiz
+    - 39.3:
+        non_striker: Natalia Pervaiz
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 0
+          batsman: 0
+        batsman: Aliya Riaz
+    - 39.4:
+        non_striker: Natalia Pervaiz
+        bowler: Ritu Moni
+        runs:
+          extras: 0
+          total: 4
+          batsman: 4
+        batsman: Aliya Riaz

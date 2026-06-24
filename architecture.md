@@ -10,7 +10,7 @@ Cricklytics is a Python-based machine learning pipeline that processes historica
 graph TB
     subgraph "Data Sources"
         KG[Kaggle CSVs<br/>WC_players, Ground_Averages<br/>ODI_Match_Results, ODI_Match_Totals]
-        CS[Cricsheets.org<br/>Ball-by-ball YAML data<br/>(odis/ folder)]
+        CS[Cricsheets.org<br/>Ball-by-ball YAML data<br/>odis folder]
     end
 
     subgraph "Data Processing"
